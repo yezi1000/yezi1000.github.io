@@ -14,19 +14,6 @@
       </tags>
   </entry>
   <entry>
-    <title>One_Month_After_Work</title>
-    <url>/2020/08/20/After-Work/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="入职有感"><a href="#入职有感" class="headerlink" title="#入职有感"></a>#入职有感</h1><h2 id="不是太快乐的摸鱼"><a href="#不是太快乐的摸鱼" class="headerlink" title="不是太快乐的摸鱼"></a>不是太快乐的摸鱼</h2><p>入职 没多久就要外出封培，前两周没有什么需求分配到我这，部门的主力语言也是cpp，cpp大型项目的阅读难度令人窒息，更何况我并没有怎么接触过大型项目的开发。<br>而且mentor和leader也不是太push，虽然工位安排的非常..裂开，网吧卡座，左手边就是我部门技术总监，每次光明正大的摸鱼(看相亲帖)都被看到…感觉每次路过我都是处于放下手机or关闭一个页面的状态，总感觉哪天我就被勒令辞职 or N+1了？<br>目前我对于工程、环境的知识仍然不充足，但是由于目前需求较少，仍然有比较多的自由时间，可以看点书。<br>然而mentor和leader不够push，对我来说可能是另一种的鞭笞，在一个全新环境里失去了奋斗的目标。无论是周末还是上班时间都很迷惘，很多情况下自己看的书究竟能不能派上用场成为摆在桌子上的一个问题。当然考虑到客观原因就是7.26封培，导致很多活是没法派给我的，然而不得不说的是文档真的是做得有点差，很多东西都靠口口相传，只能一点点按照mentor布置的东西看下去。</p>
-<h2 id="封培-用学生的方式告别学生时代"><a href="#封培-用学生的方式告别学生时代" class="headerlink" title="封培(用学生的方式告别学生时代)"></a>封培(用学生的方式告别学生时代)</h2><p>或许是这辈子玩的最疯的一次，也可能是仅次于相亲的纯粹目的活动，所有人都是抱着破冰、认识人的目的，尽管每个人的结果各不相同，但看起来都是好的。<br>封培一个班有大约50人 分为了6组，一个班级的人数有点大了，组内人数还算比较ok。从结果来说，实际上在封培过程中大多还是和同组的人交流，很难做到认识班上其他组的人，算是美中不足。<br>过程中到底有什么与什么，无非就是白天上课、晚上社(da)交(pai)，算是把工作上很大的一块社交漏洞给补上了，本身大学就没几个过来的，周末不认识人的情况下只能在家躺尸。<br>虽然并不能知道最后组里的人还能快乐多久，希望能溺死在快乐中。</p>
-<h2 id="一点总结"><a href="#一点总结" class="headerlink" title="一点总结"></a>一点总结</h2><p>目前的业务压力让我很难在目前的格局上有所突破，对于新环境的熟悉速度和当前代码能力、分析能力的提高速度在我看来也是比较缓慢的，甚至非常担心自己是否能度过试用期以及第一次绩效会不会喜提两星。<br>另外在过程中，或多或少感受到了以前没感受到的割裂，毕竟同事并不一定是同龄人，很多情况下大家并不一定有很多的共同话题。再等一段时间，曾经的同学们也走上了工作的轨道，连LOL或许都找不到人了，一个人游戏到底能减轻多少孤独是一个问号，回忆玩得最开心的时候似乎也仅仅是和特定的人会有快乐。</p>
-<p>当一个人把胜负欲看的太重，确实会丢失很多东西，总感觉被kaki or yuki 吐槽类似内容（实际上结果都是胜负欲摆弄着一切）了很多很多次了</p>
-<p>小目标，减肥+佛系哈哈哈哈哈</p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>daily</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CompareVersionNumbers</title>
     <url>/2018/11/25/CompareVersionNumbers/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>大模拟吧…细节蛮多的(这个题我发现全是踩所以写一篇…)</p>
@@ -37,6 +24,74 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
         <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Gotop</title>
+    <url>/2019/07/19/Gotop/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>最近折腾盒子还是比较多的，想要一个还算能看的图形面板看看实时上传下载</p>
+<p>也不想装各类监控软件(反正也不需要看历史数据)</p>
+<p>此文章只是做一个备份，方便我装盒子的时候复制粘贴</p>
+<p>Github：<a href="https://github.com/cjbassi/gotop">https://github.com/cjbassi/gotop</a></p>
+<h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> --depth 1 https://github.com/cjbassi/gotop /tmp/gotop</span><br><span class="line">/tmp/gotop/scripts/download.sh</span><br><span class="line">cp gotop /usr/<span class="built_in">local</span>/bin</span><br><span class="line">chmod +x /usr/<span class="built_in">local</span>/bin/gotop</span><br></pre></td></tr></table></figure>
+
+<h4 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h4><p><img src="https://i.loli.net/2019/07/19/5d3183bf560f658032.png"></p>
+<h4 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h4><p>项目显示不全：</p>
+<p>​    请尝试调大shell窗口分辨率</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022年度总结</title>
+    <url>/2023/12/11/2022-leaf-summary/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>2021其实就半年时间了，上篇不更咯（咕咕咕</p>
+<p>2022其实也..一成不变？ 变化的也许只有体重和身边的人。</p>
+<p>2023的等元旦更新吧，万一有什么变数呢，flag先立起来咯</p>
+<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>铁打的开发，流水的产品，算了下比例确实还是差不多，合作的产品又换了一轮。已经有点麻木了，仿佛也习惯了。甚至有点触动，在设想没有我的时候会是啥样，但是应该是没什么区别的，毕竟大家都是可替代的，总会有人顶上。</p>
+<p>流向上，好多人跳槽去了上海，至于公司，或许有几个是字节，但是处于竞业，对于不太熟的同事大家也不会说太多。</p>
+<p>比较特殊的应该就是一个产培，因为一年之期到了，必须在tx内转岗，不过也是去继续坐商业化，进行她的搞钱行业。</p>
+<p>but…今年也有去读书的，本科毕业打了一年工，然后又去申请了个Master继续读，也许这就是追梦？</p>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>今年的生活就是典型后疫情时代啦，戴口罩、每天做核酸、甚至快递也喷酒精，深圳这边的政策变化还是比较快的，核酸有效期变化实在是快…</p>
+<p>不过聚餐什么的，其实并没有太受到影响，团建、约饭啥的是一顿不漏，该吃的都吃了，体重也该涨的涨了（</p>
+<p>另外疫情影响下，好像也没怎么关注那年的经济走向，从23年回头看的话，应该22年就有趋势了，但是却完全没有印象…</p>
+<p>btw，上班以后剁手好像有点管不住… </p>
+<p>今年把1080p 240hz换成了卓威的2566k，体验了下顶级外设的显示器功力，zowie配的Control panel确实很好用，比显示器上的支架要方便太多了。</p>
+<p>Nas也逐渐插满了，4 * 12 + 4 * 14，混合批次组了raid 1。</p>
+<p>不过需要吐槽的就是FreeBsd还是挺难用的…Nas选的TrueNas，还是有蛮多应用跑不了或者设置起来比较逆天，比如定期重启某个jails这个指令只work了几次.</p>
+<p>然而TrueNas core 并不能无损迁移scale，考虑到配置又作罢了。</p>
+<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>CRUD Boy，工作内容平平无奇，</p>
+<p>做的大部分事情是在框架上加个字段之类的，但是也可以尝试用更common的方式去解决，总结下一些方法论，可以给之后的自己或者同事用。</p>
+<p>也恰好倒霉赶上了腾讯职级晋升一年一次，升9又晚了半年…</p>
+<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>今年还是继续在沉迷Apex，被人戏称为Apex仙人，上线就在A。</p>
+<p>单机游戏实在是有点提不起劲，可能还是上班以后追求更多刺激感…而这些确实fps能带来更多</p>
+<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
+<li>还是减肥，sad</li>
+<li>脱单？</li>
+</ol>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>One_Month_After_Work</title>
+    <url>/2020/08/20/After-Work/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="入职有感"><a href="#入职有感" class="headerlink" title="#入职有感"></a>#入职有感</h1><h2 id="不是太快乐的摸鱼"><a href="#不是太快乐的摸鱼" class="headerlink" title="不是太快乐的摸鱼"></a>不是太快乐的摸鱼</h2><p>入职 没多久就要外出封培，前两周没有什么需求分配到我这，部门的主力语言也是cpp，cpp大型项目的阅读难度令人窒息，更何况我并没有怎么接触过大型项目的开发。<br>而且mentor和leader也不是太push，虽然工位安排的非常..裂开，网吧卡座，左手边就是我部门技术总监，每次光明正大的摸鱼(看相亲帖)都被看到…感觉每次路过我都是处于放下手机or关闭一个页面的状态，总感觉哪天我就被勒令辞职 or N+1了？<br>目前我对于工程、环境的知识仍然不充足，但是由于目前需求较少，仍然有比较多的自由时间，可以看点书。<br>然而mentor和leader不够push，对我来说可能是另一种的鞭笞，在一个全新环境里失去了奋斗的目标。无论是周末还是上班时间都很迷惘，很多情况下自己看的书究竟能不能派上用场成为摆在桌子上的一个问题。当然考虑到客观原因就是7.26封培，导致很多活是没法派给我的，然而不得不说的是文档真的是做得有点差，很多东西都靠口口相传，只能一点点按照mentor布置的东西看下去。</p>
+<h2 id="封培-用学生的方式告别学生时代"><a href="#封培-用学生的方式告别学生时代" class="headerlink" title="封培(用学生的方式告别学生时代)"></a>封培(用学生的方式告别学生时代)</h2><p>或许是这辈子玩的最疯的一次，也可能是仅次于相亲的纯粹目的活动，所有人都是抱着破冰、认识人的目的，尽管每个人的结果各不相同，但看起来都是好的。<br>封培一个班有大约50人 分为了6组，一个班级的人数有点大了，组内人数还算比较ok。从结果来说，实际上在封培过程中大多还是和同组的人交流，很难做到认识班上其他组的人，算是美中不足。<br>过程中到底有什么与什么，无非就是白天上课、晚上社(da)交(pai)，算是把工作上很大的一块社交漏洞给补上了，本身大学就没几个过来的，周末不认识人的情况下只能在家躺尸。<br>虽然并不能知道最后组里的人还能快乐多久，希望能溺死在快乐中。</p>
+<h2 id="一点总结"><a href="#一点总结" class="headerlink" title="一点总结"></a>一点总结</h2><p>目前的业务压力让我很难在目前的格局上有所突破，对于新环境的熟悉速度和当前代码能力、分析能力的提高速度在我看来也是比较缓慢的，甚至非常担心自己是否能度过试用期以及第一次绩效会不会喜提两星。<br>另外在过程中，或多或少感受到了以前没感受到的割裂，毕竟同事并不一定是同龄人，很多情况下大家并不一定有很多的共同话题。再等一段时间，曾经的同学们也走上了工作的轨道，连LOL或许都找不到人了，一个人游戏到底能减轻多少孤独是一个问号，回忆玩得最开心的时候似乎也仅仅是和特定的人会有快乐。</p>
+<p>当一个人把胜负欲看的太重，确实会丢失很多东西，总感觉被kaki or yuki 吐槽类似内容（实际上结果都是胜负欲摆弄着一切）了很多很多次了</p>
+<p>小目标，减肥+佛系哈哈哈哈哈</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>daily</tag>
       </tags>
   </entry>
   <entry>
@@ -79,41 +134,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2022_leaf_summary</title>
-    <url>/2023/12/11/2022-leaf-summary/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>2021其实就半年时间了，上篇不更咯（咕咕咕</p>
-<p>2022其实也..一成不变？ 变化的也许只有体重和身边的人。</p>
-<p>2023的等元旦更新吧，万一有什么变数呢，flag先立起来咯</p>
-<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>铁打的开发，流水的产品，算了下比例确实还是差不多，合作的产品又换了一轮。已经有点麻木了，仿佛也习惯了。甚至有点触动，在设想没有我的时候会是啥样，但是应该是没什么区别的，毕竟大家都是可替代的，总会有人顶上。</p>
-<p>流向上，好多人跳槽去了上海，至于公司，或许有几个是字节，但是处于竞业，对于不太熟的同事大家也不会说太多。</p>
-<p>比较特殊的应该就是一个产培，因为一年之期到了，必须在tx内转岗，不过也是去继续坐商业化，进行她的搞钱行业。</p>
-<p>but…今年也有去读书的，本科毕业打了一年工，然后又去申请了个Master继续读，也许这就是追梦？</p>
-<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>今年的生活就是典型后疫情时代啦，戴口罩、每天做核酸、甚至快递也喷酒精，深圳这边的政策变化还是比较快的，核酸有效期变化实在是快…</p>
-<p>不过聚餐什么的，其实并没有太受到影响，团建、约饭啥的是一顿不漏，该吃的都吃了，体重也该涨的涨了（</p>
-<p>另外疫情影响下，好像也没怎么关注那年的经济走向，从23年回头看的话，应该22年就有趋势了，但是却完全没有印象…</p>
-<p>btw，上班以后剁手好像有点管不住… </p>
-<p>今年把1080p 240hz换成了卓威的2566k，体验了下顶级外设的显示器功力，zowie配的Control panel确实很好用，比显示器上的支架要方便太多了。</p>
-<p>Nas也逐渐插满了，4 * 12 + 4 * 14，混合批次组了raid 1。</p>
-<p>不过需要吐槽的就是FreeBsd还是挺难用的…Nas选的TrueNas，还是有蛮多应用跑不了或者设置起来比较逆天，比如定期重启某个jails这个指令只work了几次.</p>
-<p>然而TrueNas core 并不能无损迁移scale，考虑到配置又作罢了。</p>
-<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>CRUD Boy，工作内容平平无奇，</p>
-<p>做的大部分事情是在框架上加个字段之类的，但是也可以尝试用更common的方式去解决，总结下一些方法论，可以给之后的自己或者同事用。</p>
-<p>也恰好倒霉赶上了腾讯职级晋升一年一次，升9又晚了半年…</p>
-<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>今年还是继续在沉迷Apex，被人戏称为Apex仙人，上线就在A。</p>
-<p>单机游戏实在是有点提不起劲，可能还是上班以后追求更多刺激感…而这些确实fps能带来更多</p>
-<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
-<li>还是减肥，sad</li>
-<li>脱单？</li>
-</ol>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>总结</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>合理加速校园网</title>
     <url>/2018/10/10/IPV6-FAST/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>垃圾校园网（划掉）</p>
@@ -134,23 +154,18 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
-    <title>Gotop</title>
-    <url>/2019/07/19/Gotop/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>最近折腾盒子还是比较多的，想要一个还算能看的图形面板看看实时上传下载</p>
-<p>也不想装各类监控软件(反正也不需要看历史数据)</p>
-<p>此文章只是做一个备份，方便我装盒子的时候复制粘贴</p>
-<p>Github：<a href="https://github.com/cjbassi/gotop">https://github.com/cjbassi/gotop</a></p>
-<h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> --depth 1 https://github.com/cjbassi/gotop /tmp/gotop</span><br><span class="line">/tmp/gotop/scripts/download.sh</span><br><span class="line">cp gotop /usr/<span class="built_in">local</span>/bin</span><br><span class="line">chmod +x /usr/<span class="built_in">local</span>/bin/gotop</span><br></pre></td></tr></table></figure>
+    <title>SPOJ-COT</title>
+    <url>/2018/08/07/SPOJ-COT/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>题意：要求查询(u,v)之间路径点权第K小</p>
+<p>考虑如何用加减法构造出只包含u-&gt;v路径点的权值线段树</p>
+<p>我们可以考虑以根作为前缀，建立从根至叶子结点的主席树。</p>
+<p>很容易知道(u,v)路径点的权值线段树==sum[u]+sum[v]-sum[ lca(u,v)]-sum[ fa[ lca(u,v) ] ];</p>
+<p>(<del>我不会告诉你我一开始眼瞎看成了边权第K小然后看这个式子怎么看都和别人的不一样</del>)</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">inline</span> <span class="keyword">int</span> <span class="title">read</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> x=<span class="number">0</span>,f=<span class="number">1</span>;<span class="keyword">char</span> ch = <span class="built_in">getchar</span>();</span><br><span class="line">    <span class="keyword">while</span>(<span class="string">&#x27;0&#x27;</span>&gt;ch||ch&gt;<span class="string">&#x27;9&#x27;</span>)&#123;<span class="keyword">if</span>(<span class="string">&#x27;-&#x27;</span>==ch)f=<span class="number">-1</span>;ch=<span class="built_in">getchar</span>();&#125;</span><br><span class="line">    <span class="keyword">while</span>(<span class="string">&#x27;0&#x27;</span>&lt;=ch&amp;&amp;ch&lt;=<span class="string">&#x27;9&#x27;</span>)&#123;x=(x&lt;&lt;<span class="number">3</span>)+(x&lt;&lt;<span class="number">1</span>)+ch-<span class="string">&#x27;0&#x27;</span>;ch=<span class="built_in">getchar</span>();&#125;</span><br><span class="line">    <span class="keyword">return</span> x*f;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> N=<span class="number">100000</span>+<span class="number">10</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">//head end</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> n,m,w[N],b[N];</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">node</span>&#123;</span></span><br><span class="line">    <span class="keyword">int</span> to,next;</span><br><span class="line">&#125;G[N&lt;&lt;<span class="number">1</span>];</span><br><span class="line"><span class="keyword">int</span> head[N],tot;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">// chairTree begin</span></span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> MN=<span class="number">100000</span>+<span class="number">10</span>;</span><br><span class="line"><span class="keyword">int</span> rt[MN],ls[MN*<span class="number">20</span>],rs[MN*<span class="number">20</span>],sum[MN*<span class="number">20</span>],chairtree,siz;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">build</span><span class="params">(<span class="keyword">int</span> &amp;rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r)</span></span>&#123;</span><br><span class="line">    rt=++chairtree;</span><br><span class="line">    sum[rt]=<span class="number">0</span>;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r)<span class="keyword">return</span> ;</span><br><span class="line">    <span class="keyword">int</span> m =((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="built_in">build</span>(ls[rt],l,m);</span><br><span class="line">    <span class="built_in">build</span>(rs[rt],m+<span class="number">1</span>,r);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">update</span><span class="params">(<span class="keyword">int</span>&amp; rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r,<span class="keyword">int</span> last,<span class="keyword">int</span> pos)</span></span>&#123;</span><br><span class="line">    rt=++chairtree;</span><br><span class="line">    ls[rt]=ls[last];</span><br><span class="line">    rs[rt]=rs[last];</span><br><span class="line">    sum[rt]=sum[last]+<span class="number">1</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;</span><br><span class="line">    <span class="keyword">int</span> m=((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="keyword">if</span>(pos&lt;=m) <span class="built_in">update</span>(ls[rt],l  ,m,ls[last],pos);</span><br><span class="line">    <span class="keyword">else</span>       <span class="built_in">update</span>(rs[rt],m+<span class="number">1</span>,r,rs[last],pos);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">query</span><span class="params">(<span class="keyword">int</span> rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r,<span class="keyword">int</span> last,<span class="keyword">int</span> lca,<span class="keyword">int</span> flca,<span class="keyword">int</span> k)</span></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> l;</span><br><span class="line">    <span class="keyword">int</span> m=((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="keyword">int</span> cnt=sum[ls[rt]]+sum[ls[last]]-sum[ls[lca]]-sum[ls[flca]];</span><br><span class="line">    <span class="keyword">if</span>(k&lt;=cnt) <span class="built_in">query</span>(ls[rt],l  ,m,ls[last],ls[lca],ls[flca],k);</span><br><span class="line">    <span class="keyword">else</span>       <span class="built_in">query</span>(rs[rt],m+<span class="number">1</span>,r,rs[last],rs[lca],rs[flca],k-cnt);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs</span><span class="params">(<span class="keyword">int</span> rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r)</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> m = ((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,sum[rt]);</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;<span class="built_in">printf</span>(<span class="string">&quot;( &quot;</span>);</span><br><span class="line">    <span class="built_in">dfs</span>(ls[rt],l,m);<span class="built_in">printf</span>(<span class="string">&quot;_%*d,&quot;</span>,<span class="number">2</span>,ls[rt]);</span><br><span class="line">    <span class="built_in">dfs</span>(rs[rt],m+<span class="number">1</span>,r);<span class="built_in">printf</span>(<span class="string">&quot;_%*d )&quot;</span>,<span class="number">2</span>,rs[rt]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//chairTree end</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">add</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> v)</span></span>&#123;</span><br><span class="line">    G[++tot].to=v,G[tot].next=head[u],head[u]=tot;</span><br><span class="line">    G[++tot].to=u,G[tot].next=head[v],head[v]=tot;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> dep[N],fa[N],sz[N],son[N];</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs1</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> f,<span class="keyword">int</span> d)</span></span>&#123;</span><br><span class="line">    dep[u]=d,fa[u]=f,sz[u]=<span class="number">1</span>,son[u]=<span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=head[u],to;i;i=G[i].next)&#123;</span><br><span class="line">        to=G[i].to;</span><br><span class="line">        <span class="keyword">if</span>(to==f)<span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">dfs1</span>(to,u,d+<span class="number">1</span>);</span><br><span class="line">        sz[u]+=sz[to];</span><br><span class="line">        <span class="keyword">if</span>(sz[son[u]]&lt;sz[to])son[u]=to;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> tree[N],top[N],pre[N],cnt;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs2</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> tp)</span></span>&#123;</span><br><span class="line">    top[u]=tp,tree[u]=++cnt,pre[tree[u]]=u;</span><br><span class="line">    <span class="built_in">update</span>(rt[u],<span class="number">1</span>,siz,rt[fa[u]],w[u]);</span><br><span class="line">    <span class="keyword">if</span>(!son[u])<span class="keyword">return</span>;</span><br><span class="line">    <span class="built_in">dfs2</span>(son[u],tp);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=head[u],to;i;i=G[i].next)&#123;</span><br><span class="line">        to=G[i].to;</span><br><span class="line">        <span class="keyword">if</span>(to==fa[u]||to==son[u])<span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">dfs2</span>(to,to);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">Lca</span><span class="params">(<span class="keyword">int</span> x,<span class="keyword">int</span> y)</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> fx=top[x],fy=top[y];</span><br><span class="line">    <span class="keyword">while</span>(fx!=fy)&#123;</span><br><span class="line">        <span class="keyword">if</span>(dep[fx]&lt;dep[fy])<span class="built_in">swap</span>(x,y),<span class="built_in">swap</span>(fx,fy);</span><br><span class="line">        x=fa[fx],fx=top[x];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">if</span>(dep[x]&gt;dep[y])<span class="built_in">swap</span>(x,y);</span><br><span class="line">    <span class="keyword">return</span> x;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">ifndef</span> ONLINE_JUDGE</span></span><br><span class="line">    <span class="built_in">freopen</span>(<span class="string">&quot;D:\\GitHub\\ACM-ICPC\\other\\in.txt&quot;</span>,<span class="string">&quot;r&quot;</span>,stdin);</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line">    n=<span class="built_in">read</span>(),m=<span class="built_in">read</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++) w[i]=<span class="built_in">read</span>(),b[i]=w[i];</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt; n;i++) <span class="built_in">add</span>(<span class="built_in">read</span>(),<span class="built_in">read</span>());</span><br><span class="line">    fa[<span class="number">1</span>]=<span class="number">0</span>;</span><br><span class="line">    <span class="built_in">sort</span>(b+<span class="number">1</span>,b+n+<span class="number">1</span>);</span><br><span class="line">    siz = <span class="built_in">unique</span>(b+<span class="number">1</span>,b+n+<span class="number">1</span>)-(b+<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++) w[i]=<span class="built_in">lower_bound</span>(b+<span class="number">1</span>,b+siz+<span class="number">1</span>,w[i])-b;</span><br><span class="line">    <span class="built_in">build</span>(rt[<span class="number">0</span>],<span class="number">1</span>,siz);</span><br><span class="line">    <span class="comment">//dfs(rt[0],1,siz);</span></span><br><span class="line">    <span class="built_in">dfs1</span>(<span class="number">1</span>,<span class="number">0</span>,<span class="number">1</span>),<span class="built_in">dfs2</span>(<span class="number">1</span>,<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">while</span>(m--)&#123;</span><br><span class="line">        <span class="keyword">int</span> u,v,k;</span><br><span class="line">        u=<span class="built_in">read</span>(),v=<span class="built_in">read</span>(),k=<span class="built_in">read</span>();</span><br><span class="line">        <span class="keyword">int</span> lca=<span class="built_in">Lca</span>(u,v);</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;%d\n&quot;</span>,(b[<span class="built_in">query</span>(rt[u],<span class="number">1</span>,siz,rt[v],rt[lca],rt[fa[lca]],k)]));</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">ifndef</span> ONLINE_JUDGE</span></span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;My Time:%.3lfms\n&quot;</span>,(<span class="keyword">double</span>)<span class="built_in">clock</span>()/CLOCKS_PER_SEC);</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h4 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h4><p><img src="https://i.loli.net/2019/07/19/5d3183bf560f658032.png"></p>
-<h4 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h4><p>项目显示不全：</p>
-<p>​    请尝试调大shell窗口分辨率</p>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>折腾</category>
-      </categories>
       <tags>
-        <tag>Linux</tag>
+        <tag>数据结构、树</tag>
       </tags>
   </entry>
   <entry>
@@ -168,18 +183,94 @@
       </tags>
   </entry>
   <entry>
-    <title>SPOJ-COT</title>
-    <url>/2018/08/07/SPOJ-COT/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>题意：要求查询(u,v)之间路径点权第K小</p>
-<p>考虑如何用加减法构造出只包含u-&gt;v路径点的权值线段树</p>
-<p>我们可以考虑以根作为前缀，建立从根至叶子结点的主席树。</p>
-<p>很容易知道(u,v)路径点的权值线段树==sum[u]+sum[v]-sum[ lca(u,v)]-sum[ fa[ lca(u,v) ] ];</p>
-<p>(<del>我不会告诉你我一开始眼瞎看成了边权第K小然后看这个式子怎么看都和别人的不一样</del>)</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">inline</span> <span class="keyword">int</span> <span class="title">read</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> x=<span class="number">0</span>,f=<span class="number">1</span>;<span class="keyword">char</span> ch = <span class="built_in">getchar</span>();</span><br><span class="line">    <span class="keyword">while</span>(<span class="string">&#x27;0&#x27;</span>&gt;ch||ch&gt;<span class="string">&#x27;9&#x27;</span>)&#123;<span class="keyword">if</span>(<span class="string">&#x27;-&#x27;</span>==ch)f=<span class="number">-1</span>;ch=<span class="built_in">getchar</span>();&#125;</span><br><span class="line">    <span class="keyword">while</span>(<span class="string">&#x27;0&#x27;</span>&lt;=ch&amp;&amp;ch&lt;=<span class="string">&#x27;9&#x27;</span>)&#123;x=(x&lt;&lt;<span class="number">3</span>)+(x&lt;&lt;<span class="number">1</span>)+ch-<span class="string">&#x27;0&#x27;</span>;ch=<span class="built_in">getchar</span>();&#125;</span><br><span class="line">    <span class="keyword">return</span> x*f;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> N=<span class="number">100000</span>+<span class="number">10</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">//head end</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> n,m,w[N],b[N];</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">node</span>&#123;</span></span><br><span class="line">    <span class="keyword">int</span> to,next;</span><br><span class="line">&#125;G[N&lt;&lt;<span class="number">1</span>];</span><br><span class="line"><span class="keyword">int</span> head[N],tot;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">// chairTree begin</span></span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> MN=<span class="number">100000</span>+<span class="number">10</span>;</span><br><span class="line"><span class="keyword">int</span> rt[MN],ls[MN*<span class="number">20</span>],rs[MN*<span class="number">20</span>],sum[MN*<span class="number">20</span>],chairtree,siz;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">build</span><span class="params">(<span class="keyword">int</span> &amp;rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r)</span></span>&#123;</span><br><span class="line">    rt=++chairtree;</span><br><span class="line">    sum[rt]=<span class="number">0</span>;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r)<span class="keyword">return</span> ;</span><br><span class="line">    <span class="keyword">int</span> m =((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="built_in">build</span>(ls[rt],l,m);</span><br><span class="line">    <span class="built_in">build</span>(rs[rt],m+<span class="number">1</span>,r);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">update</span><span class="params">(<span class="keyword">int</span>&amp; rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r,<span class="keyword">int</span> last,<span class="keyword">int</span> pos)</span></span>&#123;</span><br><span class="line">    rt=++chairtree;</span><br><span class="line">    ls[rt]=ls[last];</span><br><span class="line">    rs[rt]=rs[last];</span><br><span class="line">    sum[rt]=sum[last]+<span class="number">1</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;</span><br><span class="line">    <span class="keyword">int</span> m=((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="keyword">if</span>(pos&lt;=m) <span class="built_in">update</span>(ls[rt],l  ,m,ls[last],pos);</span><br><span class="line">    <span class="keyword">else</span>       <span class="built_in">update</span>(rs[rt],m+<span class="number">1</span>,r,rs[last],pos);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">query</span><span class="params">(<span class="keyword">int</span> rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r,<span class="keyword">int</span> last,<span class="keyword">int</span> lca,<span class="keyword">int</span> flca,<span class="keyword">int</span> k)</span></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> l;</span><br><span class="line">    <span class="keyword">int</span> m=((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="keyword">int</span> cnt=sum[ls[rt]]+sum[ls[last]]-sum[ls[lca]]-sum[ls[flca]];</span><br><span class="line">    <span class="keyword">if</span>(k&lt;=cnt) <span class="built_in">query</span>(ls[rt],l  ,m,ls[last],ls[lca],ls[flca],k);</span><br><span class="line">    <span class="keyword">else</span>       <span class="built_in">query</span>(rs[rt],m+<span class="number">1</span>,r,rs[last],rs[lca],rs[flca],k-cnt);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs</span><span class="params">(<span class="keyword">int</span> rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r)</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> m = ((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,sum[rt]);</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;<span class="built_in">printf</span>(<span class="string">&quot;( &quot;</span>);</span><br><span class="line">    <span class="built_in">dfs</span>(ls[rt],l,m);<span class="built_in">printf</span>(<span class="string">&quot;_%*d,&quot;</span>,<span class="number">2</span>,ls[rt]);</span><br><span class="line">    <span class="built_in">dfs</span>(rs[rt],m+<span class="number">1</span>,r);<span class="built_in">printf</span>(<span class="string">&quot;_%*d )&quot;</span>,<span class="number">2</span>,rs[rt]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//chairTree end</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">add</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> v)</span></span>&#123;</span><br><span class="line">    G[++tot].to=v,G[tot].next=head[u],head[u]=tot;</span><br><span class="line">    G[++tot].to=u,G[tot].next=head[v],head[v]=tot;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> dep[N],fa[N],sz[N],son[N];</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs1</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> f,<span class="keyword">int</span> d)</span></span>&#123;</span><br><span class="line">    dep[u]=d,fa[u]=f,sz[u]=<span class="number">1</span>,son[u]=<span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=head[u],to;i;i=G[i].next)&#123;</span><br><span class="line">        to=G[i].to;</span><br><span class="line">        <span class="keyword">if</span>(to==f)<span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">dfs1</span>(to,u,d+<span class="number">1</span>);</span><br><span class="line">        sz[u]+=sz[to];</span><br><span class="line">        <span class="keyword">if</span>(sz[son[u]]&lt;sz[to])son[u]=to;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> tree[N],top[N],pre[N],cnt;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs2</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> tp)</span></span>&#123;</span><br><span class="line">    top[u]=tp,tree[u]=++cnt,pre[tree[u]]=u;</span><br><span class="line">    <span class="built_in">update</span>(rt[u],<span class="number">1</span>,siz,rt[fa[u]],w[u]);</span><br><span class="line">    <span class="keyword">if</span>(!son[u])<span class="keyword">return</span>;</span><br><span class="line">    <span class="built_in">dfs2</span>(son[u],tp);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=head[u],to;i;i=G[i].next)&#123;</span><br><span class="line">        to=G[i].to;</span><br><span class="line">        <span class="keyword">if</span>(to==fa[u]||to==son[u])<span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">dfs2</span>(to,to);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">Lca</span><span class="params">(<span class="keyword">int</span> x,<span class="keyword">int</span> y)</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> fx=top[x],fy=top[y];</span><br><span class="line">    <span class="keyword">while</span>(fx!=fy)&#123;</span><br><span class="line">        <span class="keyword">if</span>(dep[fx]&lt;dep[fy])<span class="built_in">swap</span>(x,y),<span class="built_in">swap</span>(fx,fy);</span><br><span class="line">        x=fa[fx],fx=top[x];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">if</span>(dep[x]&gt;dep[y])<span class="built_in">swap</span>(x,y);</span><br><span class="line">    <span class="keyword">return</span> x;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">ifndef</span> ONLINE_JUDGE</span></span><br><span class="line">    <span class="built_in">freopen</span>(<span class="string">&quot;D:\\GitHub\\ACM-ICPC\\other\\in.txt&quot;</span>,<span class="string">&quot;r&quot;</span>,stdin);</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line">    n=<span class="built_in">read</span>(),m=<span class="built_in">read</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++) w[i]=<span class="built_in">read</span>(),b[i]=w[i];</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt; n;i++) <span class="built_in">add</span>(<span class="built_in">read</span>(),<span class="built_in">read</span>());</span><br><span class="line">    fa[<span class="number">1</span>]=<span class="number">0</span>;</span><br><span class="line">    <span class="built_in">sort</span>(b+<span class="number">1</span>,b+n+<span class="number">1</span>);</span><br><span class="line">    siz = <span class="built_in">unique</span>(b+<span class="number">1</span>,b+n+<span class="number">1</span>)-(b+<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++) w[i]=<span class="built_in">lower_bound</span>(b+<span class="number">1</span>,b+siz+<span class="number">1</span>,w[i])-b;</span><br><span class="line">    <span class="built_in">build</span>(rt[<span class="number">0</span>],<span class="number">1</span>,siz);</span><br><span class="line">    <span class="comment">//dfs(rt[0],1,siz);</span></span><br><span class="line">    <span class="built_in">dfs1</span>(<span class="number">1</span>,<span class="number">0</span>,<span class="number">1</span>),<span class="built_in">dfs2</span>(<span class="number">1</span>,<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">while</span>(m--)&#123;</span><br><span class="line">        <span class="keyword">int</span> u,v,k;</span><br><span class="line">        u=<span class="built_in">read</span>(),v=<span class="built_in">read</span>(),k=<span class="built_in">read</span>();</span><br><span class="line">        <span class="keyword">int</span> lca=<span class="built_in">Lca</span>(u,v);</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;%d\n&quot;</span>,(b[<span class="built_in">query</span>(rt[u],<span class="number">1</span>,siz,rt[v],rt[lca],rt[fa[lca]],k)]));</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">ifndef</span> ONLINE_JUDGE</span></span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;My Time:%.3lfms\n&quot;</span>,(<span class="keyword">double</span>)<span class="built_in">clock</span>()/CLOCKS_PER_SEC);</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+    <title>WeeklyContest14</title>
+    <url>/2019/04/28/WeeklyContest14/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>其实没做过LeetCode的 contest</p>
+<p>url: <a href="https://leetcode.com/contest/leetcode-weekly-contest-14">https://leetcode.com/contest/leetcode-weekly-contest-14</a> </p>
+<p>今天头疼就virtual一场结果脸比较好 抽到的题很简单….</p>
+<p>Score 3: </p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/number-complement">Number Complement</a> : 简单的把一个数二进制下0换成1 1换成0</p>
+<p>xjb写 由于人比较蠢不会用位运算就全算出来了</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findComplement</span><span class="params">(<span class="keyword">int</span> num)</span> </span>&#123;</span><br><span class="line">        vector&lt;<span class="keyword">int</span>&gt;q;</span><br><span class="line">        <span class="keyword">while</span>(num)&#123;</span><br><span class="line">            q.<span class="built_in">push_back</span>(num%<span class="number">2</span>);</span><br><span class="line">            num/=<span class="number">2</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> ss=q.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=ss<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[i]==<span class="number">1</span>) q[i]=<span class="number">0</span>;</span><br><span class="line">            <span class="keyword">else</span> q[i]=<span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> ans=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=ss<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            ans*=<span class="number">2</span>;</span><br><span class="line">            ans+=q[i];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>Score 6:</p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/magical-string">Magical String</a> ：一个魔法字符串仅由1和2组成，这个字符串是自生成的。</p>
+<p>魔法字符串：“1221121221221121122”</p>
+<p>分组后：1 22 11 2 1 22 1 22 11 2 11 22..</p>
+<p>每组中个数为：1 2 2 1 1 2 1 2 2 1 2 2</p>
+<p>你会发现以上三个都是同一个字符串（无视空格）</p>
+<p>N不超过100000</p>
+<p>XJB模拟一瞎就好了…详情见代码</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">magicalString</span><span class="params">(<span class="keyword">int</span> n)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (n == <span class="number">0</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (n &gt;= <span class="number">1</span> &amp;&amp; n &lt;= <span class="number">3</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> count = <span class="number">1</span>, num = <span class="number">1</span>, head = <span class="number">2</span>, tail = <span class="number">3</span>;</span><br><span class="line">        <span class="keyword">int</span>* arr = <span class="keyword">new</span> <span class="keyword">int</span>[n + <span class="number">1</span>];</span><br><span class="line">        arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">        arr[<span class="number">1</span>] = arr[<span class="number">2</span>] = <span class="number">2</span>;</span><br><span class="line">        <span class="keyword">while</span> (tail &lt; n) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; arr[head]; i++) &#123;</span><br><span class="line">                arr[tail] = num;</span><br><span class="line">                <span class="keyword">if</span> (tail &lt; n &amp;&amp; num == <span class="number">1</span>) &#123;</span><br><span class="line">                    count++;</span><br><span class="line">                &#125;</span><br><span class="line">                tail++;</span><br><span class="line">            &#125;</span><br><span class="line">            num = num ^ <span class="number">3</span>;</span><br><span class="line">            head++;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> count;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>Score 7:</p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/license-key-formatting">License Key Formatting</a> :</p>
+<p>给一个有大小写字母和’-‘的字符串 要你按照K个一组将他恢复成最开始的样子 最前的一组可以不满足K</p>
+<p>随便模拟一下</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">string <span class="title">licenseKeyFormatting</span><span class="params">(string S, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        string tmp;</span><br><span class="line">        <span class="keyword">int</span> ss=S.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;ss;i++)&#123;</span><br><span class="line">            <span class="keyword">if</span>(S[i]==<span class="string">&#x27;-&#x27;</span>) <span class="keyword">continue</span>;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span>(S[i]&gt;=<span class="string">&#x27;a&#x27;</span>&amp;&amp;S[i]&lt;=<span class="string">&#x27;z&#x27;</span>) tmp+=S[i]-<span class="string">&#x27;a&#x27;</span>+<span class="string">&#x27;A&#x27;</span>;</span><br><span class="line">            <span class="keyword">else</span> tmp+=S[i];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> st=tmp.<span class="built_in">size</span>();</span><br><span class="line">        string ans;</span><br><span class="line">        <span class="keyword">int</span> cnt=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=st<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            ans+=tmp[i];</span><br><span class="line">            cnt++;</span><br><span class="line">            <span class="keyword">if</span>(cnt==K&amp;&amp;i!=<span class="number">0</span>)&#123;</span><br><span class="line">                cnt=<span class="number">0</span>;</span><br><span class="line">                ans+=<span class="string">&#x27;-&#x27;</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="built_in">reverse</span>(ans.<span class="built_in">begin</span>(),ans.<span class="built_in">end</span>());</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>Score 9:</p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/sliding-window-median">Sliding Window Median</a> : 唯一一个难一点的题</p>
+<p>给一个数组，再给一个K长度的滑窗要，这个滑窗一点点向后移动，求滑窗内中位数。</p>
+<p>一开始想是平衡树，再看看感觉两个heap就够了，对于没用的数我们不一定要从heap里拿掉，可以标记一下。</p>
+<p>类似题：POJ 3784 Running Median </p>
+<p>详情见code</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">vector&lt;<span class="keyword">double</span>&gt; <span class="title">medianSlidingWindow</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; nums, <span class="keyword">int</span> k)</span> </span>&#123;</span><br><span class="line">        vector&lt;<span class="keyword">double</span>&gt; medians;</span><br><span class="line">        unordered_map&lt;<span class="keyword">int</span>, <span class="keyword">int</span>&gt; hash;                          </span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>, vector&lt;<span class="keyword">int</span>&gt;&gt; bheap;                </span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>, vector&lt;<span class="keyword">int</span>&gt;, greater&lt;<span class="keyword">int</span>&gt;&gt; theap;  </span><br><span class="line">        <span class="keyword">int</span> i = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">while</span> (i &lt; k)   bheap.<span class="built_in">push</span>(nums[i++]); </span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> count = k/<span class="number">2</span>; count &gt; <span class="number">0</span>; --count) theap.<span class="built_in">push</span>(bheap.<span class="built_in">top</span>()); bheap.<span class="built_in">pop</span>();</span><br><span class="line">        <span class="keyword">while</span> (<span class="literal">true</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (k % <span class="number">2</span>) medians.<span class="built_in">push_back</span>(bheap.<span class="built_in">top</span>());</span><br><span class="line">            <span class="keyword">else</span> medians.<span class="built_in">push_back</span>( ((<span class="keyword">double</span>)bheap.<span class="built_in">top</span>() + theap.<span class="built_in">top</span>()) / <span class="number">2</span> );</span><br><span class="line">            </span><br><span class="line">            <span class="keyword">if</span> (i == nums.<span class="built_in">size</span>()) <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">int</span> m = nums[i-k], n = nums[i++], balance = <span class="number">0</span>;</span><br><span class="line">            <span class="keyword">if</span> (m &lt;= bheap.<span class="built_in">top</span>())  &#123; --balance;  <span class="keyword">if</span> (m == bheap.<span class="built_in">top</span>()) bheap.<span class="built_in">pop</span>(); <span class="keyword">else</span> ++hash[m]; &#125;</span><br><span class="line">            <span class="keyword">else</span>                   &#123; ++balance;  <span class="keyword">if</span> (m == theap.<span class="built_in">top</span>()) theap.<span class="built_in">pop</span>(); <span class="keyword">else</span> ++hash[m]; &#125;</span><br><span class="line">            <span class="keyword">if</span> (!bheap.<span class="built_in">empty</span>() &amp;&amp; n &lt;= bheap.<span class="built_in">top</span>())  &#123; ++balance; bheap.<span class="built_in">push</span>(n); &#125;</span><br><span class="line">            <span class="keyword">else</span>                                     &#123; --balance; theap.<span class="built_in">push</span>(n); &#125;</span><br><span class="line">            <span class="keyword">if</span>      (balance &lt; <span class="number">0</span>)  &#123; bheap.<span class="built_in">push</span>(theap.<span class="built_in">top</span>()); theap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span> (balance &gt; <span class="number">0</span>)  &#123; theap.<span class="built_in">push</span>(bheap.<span class="built_in">top</span>()); bheap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">while</span> (!bheap.<span class="built_in">empty</span>() &amp;&amp; hash[bheap.<span class="built_in">top</span>()])  &#123; --hash[bheap.<span class="built_in">top</span>()]; bheap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">while</span> (!theap.<span class="built_in">empty</span>() &amp;&amp; hash[theap.<span class="built_in">top</span>()])  &#123; --hash[theap.<span class="built_in">top</span>()]; theap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> medians;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>总结：我好菜啊 WA了好多次….最后一题做的也好慢….我死了</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LeetCode.857.Minimum.Cost.to.Hire.K.Workers</title>
+    <url>/2019/04/18/Workers/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>LeetCode 857. Minimum Cost to Hire K Workers</p>
+<p>Desc：</p>
+<p>N个worker，每个worker有quality和wage，你需要雇佣K个worker，这K个worker之间的real wage比例和quality比例相同，且real wage不小于wage。<br>$$<br>1 \le K ,N \le 10000</p>
+<p>1\le quality,wage\le10000<br>$$<br>答案允许有10^-5的误差</p>
+<p>My_Ans:</p>
+<p>冷静分析，首先 worker之间严格按照比例发real wage 且<br>$$<br>real wage[i]\ge wage[i]<br>$$<br>定义<br>$$<br>ratio[i]=wage[i]/quality[i]<br>$$<br>假设已经选出了K个worker，那么这个standard worker就需要设置为ratio最大的那个worker</p>
+<p>否则会有worker的real wage&lt;wage。</p>
+<p>因此对于每个standard worker 我们需要找出k-1个ratio小于它的worker，而且K个worker的<br>$$<br>totalwage = ratio* \sum_{n=1}^K{quality}<br>$$<br>按照ratio对worker从小到大排序，枚举第i个worker作为standard worker</p>
+<p>所以第0~第i-1个worker均为满足ratio满足要求的，然后需要找出K-1个quality最小的即可</p>
+<p>考虑维护一个最多K个元素的单调队列 队首的worker的quality最大 队列中均满足ratio小于当前standard worker</p>
+<p>每次standard worker后移 将当前的standard worker的quality和队首quality进行比较，</p>
+<p>如果当前standard worker的quality小于队首quality 弹出队首 插入当前standard worker</p>
+<p>并且维护一个Sum记录当前queue里的quality之和</p>
+<p>不断更新最小值即可</p>
+<p>Code：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">double</span> <span class="title">mincostToHireWorkers</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; quality, vector&lt;<span class="keyword">int</span>&gt;&amp; wage, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">double</span> ans=<span class="number">0x3f3f3f3f</span>;</span><br><span class="line">        vector&lt;pair&lt;<span class="keyword">double</span>,<span class="keyword">int</span>&gt;&gt;rate;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;quality.<span class="built_in">size</span>();i++)</span><br><span class="line">            rate.<span class="built_in">push_back</span>(<span class="built_in">make_pair</span>(<span class="number">1.0</span>*wage[i]/quality[i],i));</span><br><span class="line">        <span class="built_in">sort</span>(rate.<span class="built_in">begin</span>(),rate.<span class="built_in">end</span>());</span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>&gt;que;</span><br><span class="line">        <span class="keyword">int</span> sum=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;rate.<span class="built_in">size</span>();i++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="keyword">if</span>(que.<span class="built_in">size</span>()&lt;K<span class="number">-1</span>)&#123;</span><br><span class="line">                que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                sum+=quality[rate[i].second];</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span>&#123;</span><br><span class="line">                ans=<span class="built_in">min</span>(ans,<span class="number">1.0</span>*rate[i].first*(sum+quality[rate[i].second]));</span><br><span class="line">                <span class="keyword">if</span>(!que.<span class="built_in">empty</span>()&amp;&amp;que.<span class="built_in">top</span>()&gt;quality[rate[i].second])&#123;</span><br><span class="line">                    <span class="keyword">int</span> tmp=que.<span class="built_in">top</span>();</span><br><span class="line">                    que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                    que.<span class="built_in">pop</span>();</span><br><span class="line">                    sum=sum-tmp+quality[rate[i].second];</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
 
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
-        <tag>数据结构、树</tag>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Maximum Length of Repeated Subarray</title>
+    <url>/2019/05/01/leetcode718/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/">Maximum Length of Repeated Subarray </a></p>
+<p>Desc: 给出两个字符串求两串最大公共子串的长度</p>
+<p>DP：</p>
+<p><code>dp[i][j]</code>代表了以<code>a[i]</code>和<code>b[i]</code>为起点的的字符串的最大公共子串的长度</p>
+<p>那么<code>dp[i][j] = a[i] == b[j] ? 1 + dp[i + 1][j + 1] : 0</code></p>
+<p>考虑利用“滚动数组优化”可以降低一维</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findLength</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; a, vector&lt;<span class="keyword">int</span>&gt;&amp; b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> m = a.<span class="built_in">size</span>(), n = b.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">if</span> (!m || !n) <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        <span class="function">vector&lt;<span class="keyword">int</span>&gt; <span class="title">dp</span><span class="params">(n + <span class="number">1</span>)</span></span>;</span><br><span class="line">        <span class="keyword">int</span> res = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = m - <span class="number">1</span>; i &gt;= <span class="number">0</span>; i--) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">0</span>; j &lt; n; j++) &#123;</span><br><span class="line">                res = <span class="built_in">max</span>(res, dp[j] = a[i] == b[j] ? <span class="number">1</span> + dp[j + <span class="number">1</span>] : <span class="number">0</span>);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
       </tags>
   </entry>
   <entry>
@@ -243,97 +334,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LeetCode.857.Minimum.Cost.to.Hire.K.Workers</title>
-    <url>/2019/04/18/Workers/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>LeetCode 857. Minimum Cost to Hire K Workers</p>
-<p>Desc：</p>
-<p>N个worker，每个worker有quality和wage，你需要雇佣K个worker，这K个worker之间的real wage比例和quality比例相同，且real wage不小于wage。<br>$$<br>1 \le K ,N \le 10000</p>
-<p>1\le quality,wage\le10000<br>$$<br>答案允许有10^-5的误差</p>
-<p>My_Ans:</p>
-<p>冷静分析，首先 worker之间严格按照比例发real wage 且<br>$$<br>real wage[i]\ge wage[i]<br>$$<br>定义<br>$$<br>ratio[i]=wage[i]/quality[i]<br>$$<br>假设已经选出了K个worker，那么这个standard worker就需要设置为ratio最大的那个worker</p>
-<p>否则会有worker的real wage&lt;wage。</p>
-<p>因此对于每个standard worker 我们需要找出k-1个ratio小于它的worker，而且K个worker的<br>$$<br>totalwage = ratio* \sum_{n=1}^K{quality}<br>$$<br>按照ratio对worker从小到大排序，枚举第i个worker作为standard worker</p>
-<p>所以第0~第i-1个worker均为满足ratio满足要求的，然后需要找出K-1个quality最小的即可</p>
-<p>考虑维护一个最多K个元素的单调队列 队首的worker的quality最大 队列中均满足ratio小于当前standard worker</p>
-<p>每次standard worker后移 将当前的standard worker的quality和队首quality进行比较，</p>
-<p>如果当前standard worker的quality小于队首quality 弹出队首 插入当前standard worker</p>
-<p>并且维护一个Sum记录当前queue里的quality之和</p>
-<p>不断更新最小值即可</p>
-<p>Code：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">double</span> <span class="title">mincostToHireWorkers</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; quality, vector&lt;<span class="keyword">int</span>&gt;&amp; wage, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">double</span> ans=<span class="number">0x3f3f3f3f</span>;</span><br><span class="line">        vector&lt;pair&lt;<span class="keyword">double</span>,<span class="keyword">int</span>&gt;&gt;rate;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;quality.<span class="built_in">size</span>();i++)</span><br><span class="line">            rate.<span class="built_in">push_back</span>(<span class="built_in">make_pair</span>(<span class="number">1.0</span>*wage[i]/quality[i],i));</span><br><span class="line">        <span class="built_in">sort</span>(rate.<span class="built_in">begin</span>(),rate.<span class="built_in">end</span>());</span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>&gt;que;</span><br><span class="line">        <span class="keyword">int</span> sum=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;rate.<span class="built_in">size</span>();i++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="keyword">if</span>(que.<span class="built_in">size</span>()&lt;K<span class="number">-1</span>)&#123;</span><br><span class="line">                que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                sum+=quality[rate[i].second];</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span>&#123;</span><br><span class="line">                ans=<span class="built_in">min</span>(ans,<span class="number">1.0</span>*rate[i].first*(sum+quality[rate[i].second]));</span><br><span class="line">                <span class="keyword">if</span>(!que.<span class="built_in">empty</span>()&amp;&amp;que.<span class="built_in">top</span>()&gt;quality[rate[i].second])&#123;</span><br><span class="line">                    <span class="keyword">int</span> tmp=que.<span class="built_in">top</span>();</span><br><span class="line">                    que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                    que.<span class="built_in">pop</span>();</span><br><span class="line">                    sum=sum-tmp+quality[rate[i].second];</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-
-
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>leetcode</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>WeeklyContest14</title>
-    <url>/2019/04/28/WeeklyContest14/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>其实没做过LeetCode的 contest</p>
-<p>url: <a href="https://leetcode.com/contest/leetcode-weekly-contest-14">https://leetcode.com/contest/leetcode-weekly-contest-14</a> </p>
-<p>今天头疼就virtual一场结果脸比较好 抽到的题很简单….</p>
-<p>Score 3: </p>
-<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/number-complement">Number Complement</a> : 简单的把一个数二进制下0换成1 1换成0</p>
-<p>xjb写 由于人比较蠢不会用位运算就全算出来了</p>
-<p>My_Code:</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findComplement</span><span class="params">(<span class="keyword">int</span> num)</span> </span>&#123;</span><br><span class="line">        vector&lt;<span class="keyword">int</span>&gt;q;</span><br><span class="line">        <span class="keyword">while</span>(num)&#123;</span><br><span class="line">            q.<span class="built_in">push_back</span>(num%<span class="number">2</span>);</span><br><span class="line">            num/=<span class="number">2</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> ss=q.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=ss<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[i]==<span class="number">1</span>) q[i]=<span class="number">0</span>;</span><br><span class="line">            <span class="keyword">else</span> q[i]=<span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> ans=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=ss<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            ans*=<span class="number">2</span>;</span><br><span class="line">            ans+=q[i];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-<p>Score 6:</p>
-<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/magical-string">Magical String</a> ：一个魔法字符串仅由1和2组成，这个字符串是自生成的。</p>
-<p>魔法字符串：“1221121221221121122”</p>
-<p>分组后：1 22 11 2 1 22 1 22 11 2 11 22..</p>
-<p>每组中个数为：1 2 2 1 1 2 1 2 2 1 2 2</p>
-<p>你会发现以上三个都是同一个字符串（无视空格）</p>
-<p>N不超过100000</p>
-<p>XJB模拟一瞎就好了…详情见代码</p>
-<p>My_Code:</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">magicalString</span><span class="params">(<span class="keyword">int</span> n)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (n == <span class="number">0</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (n &gt;= <span class="number">1</span> &amp;&amp; n &lt;= <span class="number">3</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> count = <span class="number">1</span>, num = <span class="number">1</span>, head = <span class="number">2</span>, tail = <span class="number">3</span>;</span><br><span class="line">        <span class="keyword">int</span>* arr = <span class="keyword">new</span> <span class="keyword">int</span>[n + <span class="number">1</span>];</span><br><span class="line">        arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">        arr[<span class="number">1</span>] = arr[<span class="number">2</span>] = <span class="number">2</span>;</span><br><span class="line">        <span class="keyword">while</span> (tail &lt; n) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; arr[head]; i++) &#123;</span><br><span class="line">                arr[tail] = num;</span><br><span class="line">                <span class="keyword">if</span> (tail &lt; n &amp;&amp; num == <span class="number">1</span>) &#123;</span><br><span class="line">                    count++;</span><br><span class="line">                &#125;</span><br><span class="line">                tail++;</span><br><span class="line">            &#125;</span><br><span class="line">            num = num ^ <span class="number">3</span>;</span><br><span class="line">            head++;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> count;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-<p>Score 7:</p>
-<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/license-key-formatting">License Key Formatting</a> :</p>
-<p>给一个有大小写字母和’-‘的字符串 要你按照K个一组将他恢复成最开始的样子 最前的一组可以不满足K</p>
-<p>随便模拟一下</p>
-<p>My_Code:</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">string <span class="title">licenseKeyFormatting</span><span class="params">(string S, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        string tmp;</span><br><span class="line">        <span class="keyword">int</span> ss=S.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;ss;i++)&#123;</span><br><span class="line">            <span class="keyword">if</span>(S[i]==<span class="string">&#x27;-&#x27;</span>) <span class="keyword">continue</span>;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span>(S[i]&gt;=<span class="string">&#x27;a&#x27;</span>&amp;&amp;S[i]&lt;=<span class="string">&#x27;z&#x27;</span>) tmp+=S[i]-<span class="string">&#x27;a&#x27;</span>+<span class="string">&#x27;A&#x27;</span>;</span><br><span class="line">            <span class="keyword">else</span> tmp+=S[i];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> st=tmp.<span class="built_in">size</span>();</span><br><span class="line">        string ans;</span><br><span class="line">        <span class="keyword">int</span> cnt=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=st<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            ans+=tmp[i];</span><br><span class="line">            cnt++;</span><br><span class="line">            <span class="keyword">if</span>(cnt==K&amp;&amp;i!=<span class="number">0</span>)&#123;</span><br><span class="line">                cnt=<span class="number">0</span>;</span><br><span class="line">                ans+=<span class="string">&#x27;-&#x27;</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="built_in">reverse</span>(ans.<span class="built_in">begin</span>(),ans.<span class="built_in">end</span>());</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-<p>Score 9:</p>
-<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/sliding-window-median">Sliding Window Median</a> : 唯一一个难一点的题</p>
-<p>给一个数组，再给一个K长度的滑窗要，这个滑窗一点点向后移动，求滑窗内中位数。</p>
-<p>一开始想是平衡树，再看看感觉两个heap就够了，对于没用的数我们不一定要从heap里拿掉，可以标记一下。</p>
-<p>类似题：POJ 3784 Running Median </p>
-<p>详情见code</p>
-<p>My_Code:</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">vector&lt;<span class="keyword">double</span>&gt; <span class="title">medianSlidingWindow</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; nums, <span class="keyword">int</span> k)</span> </span>&#123;</span><br><span class="line">        vector&lt;<span class="keyword">double</span>&gt; medians;</span><br><span class="line">        unordered_map&lt;<span class="keyword">int</span>, <span class="keyword">int</span>&gt; hash;                          </span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>, vector&lt;<span class="keyword">int</span>&gt;&gt; bheap;                </span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>, vector&lt;<span class="keyword">int</span>&gt;, greater&lt;<span class="keyword">int</span>&gt;&gt; theap;  </span><br><span class="line">        <span class="keyword">int</span> i = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">while</span> (i &lt; k)   bheap.<span class="built_in">push</span>(nums[i++]); </span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> count = k/<span class="number">2</span>; count &gt; <span class="number">0</span>; --count) theap.<span class="built_in">push</span>(bheap.<span class="built_in">top</span>()); bheap.<span class="built_in">pop</span>();</span><br><span class="line">        <span class="keyword">while</span> (<span class="literal">true</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (k % <span class="number">2</span>) medians.<span class="built_in">push_back</span>(bheap.<span class="built_in">top</span>());</span><br><span class="line">            <span class="keyword">else</span> medians.<span class="built_in">push_back</span>( ((<span class="keyword">double</span>)bheap.<span class="built_in">top</span>() + theap.<span class="built_in">top</span>()) / <span class="number">2</span> );</span><br><span class="line">            </span><br><span class="line">            <span class="keyword">if</span> (i == nums.<span class="built_in">size</span>()) <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">int</span> m = nums[i-k], n = nums[i++], balance = <span class="number">0</span>;</span><br><span class="line">            <span class="keyword">if</span> (m &lt;= bheap.<span class="built_in">top</span>())  &#123; --balance;  <span class="keyword">if</span> (m == bheap.<span class="built_in">top</span>()) bheap.<span class="built_in">pop</span>(); <span class="keyword">else</span> ++hash[m]; &#125;</span><br><span class="line">            <span class="keyword">else</span>                   &#123; ++balance;  <span class="keyword">if</span> (m == theap.<span class="built_in">top</span>()) theap.<span class="built_in">pop</span>(); <span class="keyword">else</span> ++hash[m]; &#125;</span><br><span class="line">            <span class="keyword">if</span> (!bheap.<span class="built_in">empty</span>() &amp;&amp; n &lt;= bheap.<span class="built_in">top</span>())  &#123; ++balance; bheap.<span class="built_in">push</span>(n); &#125;</span><br><span class="line">            <span class="keyword">else</span>                                     &#123; --balance; theap.<span class="built_in">push</span>(n); &#125;</span><br><span class="line">            <span class="keyword">if</span>      (balance &lt; <span class="number">0</span>)  &#123; bheap.<span class="built_in">push</span>(theap.<span class="built_in">top</span>()); theap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span> (balance &gt; <span class="number">0</span>)  &#123; theap.<span class="built_in">push</span>(bheap.<span class="built_in">top</span>()); bheap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">while</span> (!bheap.<span class="built_in">empty</span>() &amp;&amp; hash[bheap.<span class="built_in">top</span>()])  &#123; --hash[bheap.<span class="built_in">top</span>()]; bheap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">while</span> (!theap.<span class="built_in">empty</span>() &amp;&amp; hash[theap.<span class="built_in">top</span>()])  &#123; --hash[theap.<span class="built_in">top</span>()]; theap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> medians;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-<p>总结：我好菜啊 WA了好多次….最后一题做的也好慢….我死了</p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>leetcode</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Maximum Length of Repeated Subarray</title>
-    <url>/2019/05/01/leetcode718/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/">Maximum Length of Repeated Subarray </a></p>
-<p>Desc: 给出两个字符串求两串最大公共子串的长度</p>
-<p>DP：</p>
-<p><code>dp[i][j]</code>代表了以<code>a[i]</code>和<code>b[i]</code>为起点的的字符串的最大公共子串的长度</p>
-<p>那么<code>dp[i][j] = a[i] == b[j] ? 1 + dp[i + 1][j + 1] : 0</code></p>
-<p>考虑利用“滚动数组优化”可以降低一维</p>
-<p>My_Code:</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findLength</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; a, vector&lt;<span class="keyword">int</span>&gt;&amp; b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> m = a.<span class="built_in">size</span>(), n = b.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">if</span> (!m || !n) <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        <span class="function">vector&lt;<span class="keyword">int</span>&gt; <span class="title">dp</span><span class="params">(n + <span class="number">1</span>)</span></span>;</span><br><span class="line">        <span class="keyword">int</span> res = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = m - <span class="number">1</span>; i &gt;= <span class="number">0</span>; i--) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">0</span>; j &lt; n; j++) &#123;</span><br><span class="line">                res = <span class="built_in">max</span>(res, dp[j] = a[i] == b[j] ? <span class="number">1</span> + dp[j + <span class="number">1</span>] : <span class="number">0</span>);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-
-
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>leetcode</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>leetcode记录</title>
     <url>/2018/11/20/leetcode%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>已经几乎退役了就只能做做LeetCode维持生活</p>
@@ -359,6 +359,68 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
         <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>my-2019-summary</title>
+    <url>/2020/01/07/my-2019-summary/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
+    <div id="aplayer-AMHaysJb" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="512359195" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近忙毕业的事情忙的心情复杂，加上工作的事情尘埃落定了，试图回想一下自己曾经在2019年做了啥吧，由于时间有点久，只能从多个不同角度回忆了</p>
+<h3 id="0-cpc"><a href="#0-cpc" class="headerlink" title="0. *cpc"></a>0. *cpc</h3><p>18年打完青岛以后基本就脱离了*cpc这个圈子，19年整年感觉自己的做题能力一直在不断下滑，codeforces一场没打，20年开始找工作以后开了一个月leetcode的会员，把剑指offer刷完了稍微恢复了一点点。google code jam 也只打了qualifications round。。1A只会签到 1B睡过去了 想来我也拿不到衣服 遂鸽。</p>
+<h3 id="1-考研"><a href="#1-考研" class="headerlink" title="1. 考研"></a>1. 考研</h3><p>考研的背景：大概18年12月我面试了一次字节跳动，不知道推到了什么AI的组，那时候也没对一些408有关的知识进行针对复习，基本一问三不知，看面试官态度也不是特别好，毕竟一个0基础+非科班的five，哪个公司都不想要吧，题目给我出了个easy变种但是实际上可能是hard级别的题目（？ 直接把我劝退了，陷入自我否定的死循环，决定考个研提升下自己。</p>
+<p>感觉我考研开始的时间有点迟，19年上半年(大三下)只是稍微动了一下数学参考书，和无聊翻看408的一些专业书籍，完全没实现系统化的复习，而且确实在没有研友交流的情况下，比较难互通有无并且成系统的复习。暑假开始少量看点汤的数学视频，由于时间不太够，基本是走马观花的看了一遍并且做了对应笔记，实际上并未进脑子(伏笔)。</p>
+<p>数学：暑假的时候开始9 10 7的复习，每天都感觉自己在追赶时间，408四本书的量并不少，然后由于数学初期没有系统化的按照教科书or部分老师的考点走下来，每天都在痛苦的查缺补漏，效率被碎片化拖拉严重，直接导致了最后数学的崩盘。如果我数学上线我总分也过线了。。。当然都是后话了</p>
+<p>408：包含四本书：计算机组成原理、计算机网络、数据结构、操作系统。对于这四本书，我主要参考的是王道书的主要知识点，自我感觉学的还好，但是实际上408选择题考察的范围非常细致，错误率从5个到20个都是出现过的。我觉得比较难的是计网比较多的概念需要记忆，而计算机组成原理、操作系统大多是考察系统or计算题，相对来说要简单一点。数据结构就不提了，由于*cpc的背景，我只对B+树以及一些技巧性的题目进行了针对性的记忆，做模拟卷的时候基本没在数据结构出过错。</p>
+<p>英语：由于*cpc的背景，我英语阅读能力还不错，做英语2的模拟卷阅读基本错误在1-3个之间，基本就是每天背50个单词 review 200个单词+一天一份卷子就度过了。</p>
+<p>政治：很迟才开始，死记硬背，略</p>
+<p>反正挂了就是挂了，输就是输了，菜如我</p>
+<h3 id="2-考完到出分"><a href="#2-考完到出分" class="headerlink" title="2. 考完到出分"></a>2. 考完到出分</h3><p>考完以后感觉考的很烂就很丧，但是那时候也没考虑那么远，打算出分再说，毕竟考完其实也没多少时间找工作了，圣诞前后，然后又遇上了疫情，比较爽快的玩了两个月。</p>
+<h3 id="3-从出分到找工作"><a href="#3-从出分到找工作" class="headerlink" title="3. 从出分到找工作"></a>3. 从出分到找工作</h3><p>不知不觉到了2020年，虽说是2019年记录，但是考虑实际写文的时间，考完到求职这段时间也放进去好了。</p>
+<p>好像是2月10还是2月15出的分(我又记不清了orz)，看了眼我的分数 感觉没啥希望了，开始自我push，发现自己考不上也没工作好像啃老也不太好，那个时候有几个选择。</p>
+<ol>
+<li>二战。代价是一旦失败了你就不是应届生了(微软一年内还算)</li>
+<li>等着考公or教资等其他。考试好像无限期延期了，等于还是得gap，一旦失败同上</li>
+<li>找工作</li>
+</ol>
+<p>痛定思痛，决定找工作。现在已经签完了从上帝视角看，其实我准备大三实习也是有竞争力的，拖到春招属实是一个不明智的决定，还好运气尚佳，终究是个好结局。</p>
+<p>timeline</p>
+<ul>
+<li><p>2.21 考研出分</p>
+</li>
+<li><p>2.22 决定找工作 开始刷题&amp;面经</p>
+</li>
+<li><p>2.25 开始投简历 腾讯、网易雷火（内推）、宁波银行总行科技部、bilibili游戏服务端开发（内推）、微软</p>
+</li>
+<li><p>2.26 腾讯预约面试  很惊讶，大概两天后有一个识别为腾讯科技的电话打来了，简单check了一下我的名字和身份，确认我是应聘20届后台开发的人，说了一下他们是做广告那边的部门，问我现在是否有空面试，考虑到我妈下午还要上网课，我就跟他预约了第二天下午2-3点(大概是他下午刚开始上班的时候hhh)</p>
+</li>
+<li><p>2.27腾讯一面 1 小时 考察的主要是一些基础知识，3个medium回答思路 最后给我了一个类似共享代码的网址让我写完3SUM</p>
+</li>
+<li><p>2.28 腾讯二面 20分钟 主要是聊人生，他问我为啥要转，以及考研咋样，如果考上了和offer选哪个（伏笔）我非常憨憨的说了要读研，然后被他diss了一下，反问环节我问了下地点在哪，工作内容，技术栈，以及他对我的建议，面完其实感觉挺凉的。二面完，我和我爸妈吐槽了一下2面，然后感觉我应该踩雷了，感觉有点凉，同时看了眼考研分数和了解到的调剂情况，打算放弃调剂，好好找工作。</p>
+</li>
+<li><p>2.28 二面后一小时 由于不怎么用微信，突然发现微信有个在二面刚面完就发来的好友请求，一看备注是我一面面试官，非常惊讶。。赶紧通过了一下，他问我是否有空语音，然后打了个语音电话过来，着重重新问了一下，offer和读研的选择，我说我和父母商量过了，决定不读了，反正目的都是找工作。然后他也没表示什么了，就让我注意下HR面的时候不要踩雷。语音完突然感觉我被一面捞了一手，突然感觉我稳了hhh。</p>
+</li>
+<li><p>2.29 状态变为HR面，并且未约定时间</p>
+</li>
+<li><p>3.3 收到HR面预约时间</p>
+</li>
+<li><p>3.4 完成HR面 并且HR口头说一周内会发放正式offer</p>
+</li>
+<li><p>3.25 收到offer call (好像是HR太忙了忘了 让一面帮我催了一下)</p>
+</li>
+<li><p>3.26收到正式offer mail 并且邮寄三方 </p>
+</li>
+<li><p>4.15收到返回的三方~</p>
+</li>
+</ul>
+<p>3.4-3.25之间完成了字节的面试也拿了offer 但是我拖了一会 还没接(说自己三方还没拿到)</p>
+<p>找工作这段时间，睡得都不太好，而且在二面不太好的情况其实很郁闷为什么小公司没发来面试请求，像宁波银行干脆把我简历挂了，bilibili找了内推毫无消息，雷火的话在我已经拿到腾讯offer才缓慢给我发了个笔试邀请，题目倒是挺简单的，但是雷火的薪资和口碑都不太好，遂没继续参与了。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Daily</tag>
       </tags>
   </entry>
   <entry>
@@ -400,25 +462,58 @@
       </tags>
   </entry>
   <entry>
-    <title>Leetcode 920 Number of Music Playlists</title>
-    <url>/2019/06/20/playlist/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/number-of-music-playlists/">920.Number of Music Playlists </a></p>
-<h4 id="题目大意"><a href="#题目大意" class="headerlink" title="题目大意"></a>题目大意</h4><p>N首歌曲，总共需要演奏L次歌曲，每首歌都要被演奏过，一首歌被演奏过后K次后才可以再次演奏，求最终的方案数(mod 1e9+7).</p>
-<p><code>0 &lt;= K &lt; N &lt;= L &lt;= 100</code></p>
-<h4 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 3, L = 3, K = 1</span><br><span class="line">Output: 6</span><br><span class="line">Explanation: There are 6 possible playlists. [1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1].</span><br></pre></td></tr></table></figure>
+    <title>one_year_after_work</title>
+    <url>/2021/09/04/one-year-after-work/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>原来不知不觉就一年过去了，感觉这一年并没有什么实质性的变化。</p>
+<p>只是人来人往，又换了一批人。</p>
+<p>这次也打算是分几个小标题来写我的碎碎念。</p>
+<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>这一年里差不多一半合作过的人，或是转岗，或是离职了，在工作之前，也并没有想到过互联网企业的流动性能这么高。</p>
+<p>其实也没怎么和工作上认识的人有过多交流，更别说深交，只是听过的，或是合作过的同事离职了 还是会有一点点感慨。</p>
+<p>而也有相对来说更熟一点的朋友，换了个城市，除了有点唏嘘，也只能在送别的时候祝前程似锦。</p>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>终究还是没找室友，一个人住的自由在我看来更重要一点。</p>
+<p>买了个扫地机器人，姑且算是在懒得叫保洁的时候保证一下地板的干净。</p>
+<p>自从自己开始管自己开销就开始放飞自我，这一年剁手的东西实在好多，倒序回忆一下，扫地机器人、ps5（本来打算晚点买，结果运气好抽到了原价资格）、显卡（6800-&gt;6900xt-&gt;3080ti)、音箱（iloud mini monitor)、解码耳放一体、耳机（宁梵na2+/nf3pro，一条k厂的freya）、r9000p 3070款，除了以上，待机半年多的nas也装起来了，插了2个12 4个14 还剩两个待定。</p>
+<p><img src="https://i.loli.net/2021/09/20/7KQH5mqfLeSBOWp.jpg" alt="QQ图片20210920205709.jpg"></p>
+<p>随便拍的一张桌面，总算变成肥宅快乐桌了？</p>
+<h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>应该算是略微超出了老板的预期？一年时间成长的还算不错，也算是能独当一面了。</p>
+<p>不过整体的方向在慢慢的往infra转，做一些简单的crud其实并不是我们的目标，关注整体的架构设计、性能优化，以及怎么在有限的人力、机器成本下获取更多收益。</p>
+<p>闲的时候看了不少cpp的新特性，不得不说11/17的一些特性真的是解放（？</p>
+<p>不过语言这种东西嘛，还是和业务背景分不开。</p>
+<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>我觉得我这个人，如果硬是要通过标签来描述，Gamer一定是一个最大、最显眼的标签，只是工作上的疲惫或者说工作上的追求，已经让我对游戏的兴趣在减少。</p>
+<p><img src="https://i.loli.net/2021/09/20/DcHQkVqYAlxR1Xp.jpg" alt="123.jpg"></p>
+<p>大概我也是个电子游戏阳痿？（笑</p>
+<p>大概年初把Apex Legends捡回来了，随便上了个钻石，恰好以前玩游戏的群友拉着我上大师，遂上了个大师，上完大师以后游戏环境就直接崩盘了，本来是5盘一个挂，极端情况下是1盘五个挂… 再加上队友去玩ff14，我也打消了继续冲分的念头，找着群友要白金号随便打打白金排位度日。</p>
+<p>大概八月份在jd抽签抽中了原价购买PS5的资格，不过其实之前也嫖同学的PS4Pro玩了挺多PS4游戏，拿到手以后也没啥新游戏能玩，ff7re不知道为啥被我忘了(迷惑)，一直吃灰到破晓传说(Tales of Arise)的发售。Demo的高质量，戳xp的女主，没多想预购了，到手以后也感慨jrpg也在变化，也能算是ps5 二次元大作之一了。</p>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 2, L = 3, K = 0</span><br><span class="line">Output: 6</span><br><span class="line">Explanation: There are 6 possible playlists. [1, 1, 2], [1, 2, 1], [2, 1, 1], [2, 2, 1], [2, 1, 2], [1, 2, 2]</span><br></pre></td></tr></table></figure>
+    <div id="aplayer-DfXqBxMf" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="1876388990" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 2, L = 3, K = 1</span><br><span class="line">Output: 2</span><br><span class="line">Explanation: There are 2 possible playlists. [1, 2, 1], [2, 1, 2]</span><br></pre></td></tr></table></figure>
+<div class='spoiler collapsed'>
+    <div class='spoiler-title'>
+        破晓传说剧透
+    </div>
+    <div class='spoiler-content'>
+        <ol>
+<li>好吃的糖，三对cp，happy ending真的怎么都输不了，拯救世界也为了拯救你，公主抱、结婚、继续守护这个世界</li>
+<li>全配音的三百多个小剧场，nb，但是主线剧情在不看小剧场的时候，其实是有点难以理解的</li>
+<li>战斗系统说实话体验不是很好，由于我直接一周目困难，全程刮痧，而且最终迷宫还调整了难度</li>
+</ol>
 
-<h4 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h4><p>第一眼感觉是个DP…但是好久没写了感觉很自闭…</p>
-<p>还好努力了一下云出了公式诶….</p>
-<p>这类问题的递推，从第N-1首到第N首的情况下，状态的变化取决于第N首是否被选取（每首歌必须被选一次可以暂时忽略）<br>$$<br>f(n,l,k)=f(n-1,l-1,k)<em>n+f(n,l-1,k)</em>(n-k)<br>$$<br>我们可以发现这个K实际上只常亮没啥区别 可以直接拿掉</p>
-<h4 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">static</span> <span class="keyword">const</span> <span class="keyword">int</span> MOD = <span class="number">1000000007</span>;</span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">numMusicPlaylists</span><span class="params">(<span class="keyword">int</span> N, <span class="keyword">int</span> L, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">long</span> <span class="keyword">long</span> <span class="keyword">int</span> dp[N + <span class="number">1</span>][L + <span class="number">1</span>];</span><br><span class="line">        <span class="built_in">memset</span>(dp,<span class="number">0</span>,<span class="built_in"><span class="keyword">sizeof</span></span>(dp));</span><br><span class="line">        dp[<span class="number">1</span>][<span class="number">1</span>] = <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++)</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">1</span>; j &lt;= L; j++) &#123;</span><br><span class="line">                dp[i][j] += dp[i][j<span class="number">-1</span>] * <span class="built_in">max</span>(i - K, <span class="number">0</span>) + dp[i<span class="number">-1</span>][j<span class="number">-1</span>] * i;</span><br><span class="line">                dp[i][j] %= MOD;</span><br><span class="line">            &#125;</span><br><span class="line">        <span class="keyword">return</span> dp[N][L];</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+    </div>
+</div>
 
+<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
+<li>还是减肥？最近又反弹了</li>
+<li>大概的话 能一周做点lc周赛嘛</li>
+<li>脱单（笑？</li>
+</ol>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>半年记</category>
+      </categories>
       <tags>
-        <tag>leetcode</tag>
+        <tag>Daily</tag>
       </tags>
   </entry>
   <entry>
@@ -633,61 +728,6 @@
       </tags>
   </entry>
   <entry>
-    <title>one_year_after_work</title>
-    <url>/2021/09/04/one-year-after-work/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>原来不知不觉就一年过去了，感觉这一年并没有什么实质性的变化。</p>
-<p>只是人来人往，又换了一批人。</p>
-<p>这次也打算是分几个小标题来写我的碎碎念。</p>
-<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>这一年里差不多一半合作过的人，或是转岗，或是离职了，在工作之前，也并没有想到过互联网企业的流动性能这么高。</p>
-<p>其实也没怎么和工作上认识的人有过多交流，更别说深交，只是听过的，或是合作过的同事离职了 还是会有一点点感慨。</p>
-<p>而也有相对来说更熟一点的朋友，换了个城市，除了有点唏嘘，也只能在送别的时候祝前程似锦。</p>
-<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>终究还是没找室友，一个人住的自由在我看来更重要一点。</p>
-<p>买了个扫地机器人，姑且算是在懒得叫保洁的时候保证一下地板的干净。</p>
-<p>自从自己开始管自己开销就开始放飞自我，这一年剁手的东西实在好多，倒序回忆一下，扫地机器人、ps5（本来打算晚点买，结果运气好抽到了原价资格）、显卡（6800-&gt;6900xt-&gt;3080ti)、音箱（iloud mini monitor)、解码耳放一体、耳机（宁梵na2+/nf3pro，一条k厂的freya）、r9000p 3070款，除了以上，待机半年多的nas也装起来了，插了2个12 4个14 还剩两个待定。</p>
-<p><img src="https://i.loli.net/2021/09/20/7KQH5mqfLeSBOWp.jpg" alt="QQ图片20210920205709.jpg"></p>
-<p>随便拍的一张桌面，总算变成肥宅快乐桌了？</p>
-<h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>应该算是略微超出了老板的预期？一年时间成长的还算不错，也算是能独当一面了。</p>
-<p>不过整体的方向在慢慢的往infra转，做一些简单的crud其实并不是我们的目标，关注整体的架构设计、性能优化，以及怎么在有限的人力、机器成本下获取更多收益。</p>
-<p>闲的时候看了不少cpp的新特性，不得不说11/17的一些特性真的是解放（？</p>
-<p>不过语言这种东西嘛，还是和业务背景分不开。</p>
-<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>我觉得我这个人，如果硬是要通过标签来描述，Gamer一定是一个最大、最显眼的标签，只是工作上的疲惫或者说工作上的追求，已经让我对游戏的兴趣在减少。</p>
-<p><img src="https://i.loli.net/2021/09/20/DcHQkVqYAlxR1Xp.jpg" alt="123.jpg"></p>
-<p>大概我也是个电子游戏阳痿？（笑</p>
-<p>大概年初把Apex Legends捡回来了，随便上了个钻石，恰好以前玩游戏的群友拉着我上大师，遂上了个大师，上完大师以后游戏环境就直接崩盘了，本来是5盘一个挂，极端情况下是1盘五个挂… 再加上队友去玩ff14，我也打消了继续冲分的念头，找着群友要白金号随便打打白金排位度日。</p>
-<p>大概八月份在jd抽签抽中了原价购买PS5的资格，不过其实之前也嫖同学的PS4Pro玩了挺多PS4游戏，拿到手以后也没啥新游戏能玩，ff7re不知道为啥被我忘了(迷惑)，一直吃灰到破晓传说(Tales of Arise)的发售。Demo的高质量，戳xp的女主，没多想预购了，到手以后也感慨jrpg也在变化，也能算是ps5 二次元大作之一了。</p>
-
-    <div id="aplayer-CXthJVUj" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="1876388990" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-<div class='spoiler collapsed'>
-    <div class='spoiler-title'>
-        破晓传说剧透
-    </div>
-    <div class='spoiler-content'>
-        <ol>
-<li>好吃的糖，三对cp，happy ending真的怎么都输不了，拯救世界也为了拯救你，公主抱、结婚、继续守护这个世界</li>
-<li>全配音的三百多个小剧场，nb，但是主线剧情在不看小剧场的时候，其实是有点难以理解的</li>
-<li>战斗系统说实话体验不是很好，由于我直接一周目困难，全程刮痧，而且最终迷宫还调整了难度</li>
-</ol>
-
-    </div>
-</div>
-
-<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
-<li>还是减肥？最近又反弹了</li>
-<li>大概的话 能一周做点lc周赛嘛</li>
-<li>脱单（笑？</li>
-</ol>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>半年记</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Rclone配置方式</title>
     <url>/2019/10/04/rclone-config/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>最近有点沉迷把东西backup到Google drive上，还开了个商业版来方便自己传东西，本文主要是面向0基础的rclone科普教程。主要涉及部分是rclone的安装，rclone配置文件的建立，<del>挂载</del>我不喜欢挂载所以我也不会(</p>
@@ -752,68 +792,6 @@
       </tags>
   </entry>
   <entry>
-    <title>my-2019-summary</title>
-    <url>/2020/01/07/my-2019-summary/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-xEVatFdT" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="512359195" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近忙毕业的事情忙的心情复杂，加上工作的事情尘埃落定了，试图回想一下自己曾经在2019年做了啥吧，由于时间有点久，只能从多个不同角度回忆了</p>
-<h3 id="0-cpc"><a href="#0-cpc" class="headerlink" title="0. *cpc"></a>0. *cpc</h3><p>18年打完青岛以后基本就脱离了*cpc这个圈子，19年整年感觉自己的做题能力一直在不断下滑，codeforces一场没打，20年开始找工作以后开了一个月leetcode的会员，把剑指offer刷完了稍微恢复了一点点。google code jam 也只打了qualifications round。。1A只会签到 1B睡过去了 想来我也拿不到衣服 遂鸽。</p>
-<h3 id="1-考研"><a href="#1-考研" class="headerlink" title="1. 考研"></a>1. 考研</h3><p>考研的背景：大概18年12月我面试了一次字节跳动，不知道推到了什么AI的组，那时候也没对一些408有关的知识进行针对复习，基本一问三不知，看面试官态度也不是特别好，毕竟一个0基础+非科班的five，哪个公司都不想要吧，题目给我出了个easy变种但是实际上可能是hard级别的题目（？ 直接把我劝退了，陷入自我否定的死循环，决定考个研提升下自己。</p>
-<p>感觉我考研开始的时间有点迟，19年上半年(大三下)只是稍微动了一下数学参考书，和无聊翻看408的一些专业书籍，完全没实现系统化的复习，而且确实在没有研友交流的情况下，比较难互通有无并且成系统的复习。暑假开始少量看点汤的数学视频，由于时间不太够，基本是走马观花的看了一遍并且做了对应笔记，实际上并未进脑子(伏笔)。</p>
-<p>数学：暑假的时候开始9 10 7的复习，每天都感觉自己在追赶时间，408四本书的量并不少，然后由于数学初期没有系统化的按照教科书or部分老师的考点走下来，每天都在痛苦的查缺补漏，效率被碎片化拖拉严重，直接导致了最后数学的崩盘。如果我数学上线我总分也过线了。。。当然都是后话了</p>
-<p>408：包含四本书：计算机组成原理、计算机网络、数据结构、操作系统。对于这四本书，我主要参考的是王道书的主要知识点，自我感觉学的还好，但是实际上408选择题考察的范围非常细致，错误率从5个到20个都是出现过的。我觉得比较难的是计网比较多的概念需要记忆，而计算机组成原理、操作系统大多是考察系统or计算题，相对来说要简单一点。数据结构就不提了，由于*cpc的背景，我只对B+树以及一些技巧性的题目进行了针对性的记忆，做模拟卷的时候基本没在数据结构出过错。</p>
-<p>英语：由于*cpc的背景，我英语阅读能力还不错，做英语2的模拟卷阅读基本错误在1-3个之间，基本就是每天背50个单词 review 200个单词+一天一份卷子就度过了。</p>
-<p>政治：很迟才开始，死记硬背，略</p>
-<p>反正挂了就是挂了，输就是输了，菜如我</p>
-<h3 id="2-考完到出分"><a href="#2-考完到出分" class="headerlink" title="2. 考完到出分"></a>2. 考完到出分</h3><p>考完以后感觉考的很烂就很丧，但是那时候也没考虑那么远，打算出分再说，毕竟考完其实也没多少时间找工作了，圣诞前后，然后又遇上了疫情，比较爽快的玩了两个月。</p>
-<h3 id="3-从出分到找工作"><a href="#3-从出分到找工作" class="headerlink" title="3. 从出分到找工作"></a>3. 从出分到找工作</h3><p>不知不觉到了2020年，虽说是2019年记录，但是考虑实际写文的时间，考完到求职这段时间也放进去好了。</p>
-<p>好像是2月10还是2月15出的分(我又记不清了orz)，看了眼我的分数 感觉没啥希望了，开始自我push，发现自己考不上也没工作好像啃老也不太好，那个时候有几个选择。</p>
-<ol>
-<li>二战。代价是一旦失败了你就不是应届生了(微软一年内还算)</li>
-<li>等着考公or教资等其他。考试好像无限期延期了，等于还是得gap，一旦失败同上</li>
-<li>找工作</li>
-</ol>
-<p>痛定思痛，决定找工作。现在已经签完了从上帝视角看，其实我准备大三实习也是有竞争力的，拖到春招属实是一个不明智的决定，还好运气尚佳，终究是个好结局。</p>
-<p>timeline</p>
-<ul>
-<li><p>2.21 考研出分</p>
-</li>
-<li><p>2.22 决定找工作 开始刷题&amp;面经</p>
-</li>
-<li><p>2.25 开始投简历 腾讯、网易雷火（内推）、宁波银行总行科技部、bilibili游戏服务端开发（内推）、微软</p>
-</li>
-<li><p>2.26 腾讯预约面试  很惊讶，大概两天后有一个识别为腾讯科技的电话打来了，简单check了一下我的名字和身份，确认我是应聘20届后台开发的人，说了一下他们是做广告那边的部门，问我现在是否有空面试，考虑到我妈下午还要上网课，我就跟他预约了第二天下午2-3点(大概是他下午刚开始上班的时候hhh)</p>
-</li>
-<li><p>2.27腾讯一面 1 小时 考察的主要是一些基础知识，3个medium回答思路 最后给我了一个类似共享代码的网址让我写完3SUM</p>
-</li>
-<li><p>2.28 腾讯二面 20分钟 主要是聊人生，他问我为啥要转，以及考研咋样，如果考上了和offer选哪个（伏笔）我非常憨憨的说了要读研，然后被他diss了一下，反问环节我问了下地点在哪，工作内容，技术栈，以及他对我的建议，面完其实感觉挺凉的。二面完，我和我爸妈吐槽了一下2面，然后感觉我应该踩雷了，感觉有点凉，同时看了眼考研分数和了解到的调剂情况，打算放弃调剂，好好找工作。</p>
-</li>
-<li><p>2.28 二面后一小时 由于不怎么用微信，突然发现微信有个在二面刚面完就发来的好友请求，一看备注是我一面面试官，非常惊讶。。赶紧通过了一下，他问我是否有空语音，然后打了个语音电话过来，着重重新问了一下，offer和读研的选择，我说我和父母商量过了，决定不读了，反正目的都是找工作。然后他也没表示什么了，就让我注意下HR面的时候不要踩雷。语音完突然感觉我被一面捞了一手，突然感觉我稳了hhh。</p>
-</li>
-<li><p>2.29 状态变为HR面，并且未约定时间</p>
-</li>
-<li><p>3.3 收到HR面预约时间</p>
-</li>
-<li><p>3.4 完成HR面 并且HR口头说一周内会发放正式offer</p>
-</li>
-<li><p>3.25 收到offer call (好像是HR太忙了忘了 让一面帮我催了一下)</p>
-</li>
-<li><p>3.26收到正式offer mail 并且邮寄三方 </p>
-</li>
-<li><p>4.15收到返回的三方~</p>
-</li>
-</ul>
-<p>3.4-3.25之间完成了字节的面试也拿了offer 但是我拖了一会 还没接(说自己三方还没拿到)</p>
-<p>找工作这段时间，睡得都不太好，而且在二面不太好的情况其实很郁闷为什么小公司没发来面试请求，像宁波银行干脆把我简历挂了，bilibili找了内推毫无消息，雷火的话在我已经拿到腾讯offer才缓慢给我发了个笔试邀请，题目倒是挺简单的，但是雷火的薪资和口碑都不太好，遂没继续参与了。</p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>t-rss</title>
     <url>/2019/12/31/t-rss/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于本人不会用Flexget，而且比较穷买不起好的盒子，只能用 <a href="https://capriccio.moe/">@包包</a>开发的t-rss(<del>以前gorss不是挺好听的吗为什么要改名</del>)</p>
@@ -852,22 +830,6 @@
       </tags>
   </entry>
   <entry>
-    <title>假期</title>
-    <url>/2019/07/02/%E5%81%87%E6%9C%9F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="Something-good-amp-Something-bad"><a href="#Something-good-amp-Something-bad" class="headerlink" title="Something good &amp; Something bad"></a>Something good &amp; Something bad</h4><p>生活总是让我这么喜欢摸鱼，也许是逃避，也许是天性</p>
-<p>好消息是我终于有一个完整的暑假了</p>
-<p>坏消息是全力考研的时间到了</p>
-<p>但是我最近很长一段时间都还在摸鱼</p>
-<p>研究怎么压片，研究怎么写代码更优雅，水各种各样的群</p>
-<p>不知道为什么 可能是提不起劲 或是自己给自己的要求太低了</p>
-<p>鱼 总是要摸的</p>
-<p>但是 问题总是要解决的</p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Bitwise ORs of Subarrays</title>
     <url>/2019/04/19/tmplate/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="LeetCode-898-Bitwise-ORs-of-Subarrays"><a href="#LeetCode-898-Bitwise-ORs-of-Subarrays" class="headerlink" title="LeetCode 898. Bitwise ORs of Subarrays"></a>LeetCode 898. Bitwise ORs of Subarrays</h3><h4 id="Desc"><a href="#Desc" class="headerlink" title="Desc:"></a>Desc:</h4><p>有一个非负整数数组a，对所有整数对(i,j)求 a[i]|a[i+1]|a[i+2]…a[j] 的值（|为按位或），求共有多少个不相等的值<br>$$<br>1\le a.length() \le 5000<br>$$</p>
@@ -898,20 +860,25 @@
       </tags>
   </entry>
   <entry>
-    <title>2018总结</title>
-    <url>/2019/01/03/%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>不知不觉2018过去了</p>
-<p>本来打算12.31写的 然而咕咕了</p>
-<p>现在还打算继续咕咕</p>
-<p>先写2019目标（笑</p>
-<p>希望自己考研顺利</p>
-<p>PT继续佛系刷</p>
-<p>有钱组NAS</p>
-<p>换个显示器</p>
-<p>其他东西不要坏（瘫</p>
+    <title>Leetcode 920 Number of Music Playlists</title>
+    <url>/2019/06/20/playlist/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/number-of-music-playlists/">920.Number of Music Playlists </a></p>
+<h4 id="题目大意"><a href="#题目大意" class="headerlink" title="题目大意"></a>题目大意</h4><p>N首歌曲，总共需要演奏L次歌曲，每首歌都要被演奏过，一首歌被演奏过后K次后才可以再次演奏，求最终的方案数(mod 1e9+7).</p>
+<p><code>0 &lt;= K &lt; N &lt;= L &lt;= 100</code></p>
+<h4 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 3, L = 3, K = 1</span><br><span class="line">Output: 6</span><br><span class="line">Explanation: There are 6 possible playlists. [1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1].</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 2, L = 3, K = 0</span><br><span class="line">Output: 6</span><br><span class="line">Explanation: There are 6 possible playlists. [1, 1, 2], [1, 2, 1], [2, 1, 1], [2, 2, 1], [2, 1, 2], [1, 2, 2]</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 2, L = 3, K = 1</span><br><span class="line">Output: 2</span><br><span class="line">Explanation: There are 2 possible playlists. [1, 2, 1], [2, 1, 2]</span><br></pre></td></tr></table></figure>
+
+<h4 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h4><p>第一眼感觉是个DP…但是好久没写了感觉很自闭…</p>
+<p>还好努力了一下云出了公式诶….</p>
+<p>这类问题的递推，从第N-1首到第N首的情况下，状态的变化取决于第N首是否被选取（每首歌必须被选一次可以暂时忽略）<br>$$<br>f(n,l,k)=f(n-1,l-1,k)<em>n+f(n,l-1,k)</em>(n-k)<br>$$<br>我们可以发现这个K实际上只常亮没啥区别 可以直接拿掉</p>
+<h4 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">static</span> <span class="keyword">const</span> <span class="keyword">int</span> MOD = <span class="number">1000000007</span>;</span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">numMusicPlaylists</span><span class="params">(<span class="keyword">int</span> N, <span class="keyword">int</span> L, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">long</span> <span class="keyword">long</span> <span class="keyword">int</span> dp[N + <span class="number">1</span>][L + <span class="number">1</span>];</span><br><span class="line">        <span class="built_in">memset</span>(dp,<span class="number">0</span>,<span class="built_in"><span class="keyword">sizeof</span></span>(dp));</span><br><span class="line">        dp[<span class="number">1</span>][<span class="number">1</span>] = <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++)</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">1</span>; j &lt;= L; j++) &#123;</span><br><span class="line">                dp[i][j] += dp[i][j<span class="number">-1</span>] * <span class="built_in">max</span>(i - K, <span class="number">0</span>) + dp[i<span class="number">-1</span>][j<span class="number">-1</span>] * i;</span><br><span class="line">                dp[i][j] %= MOD;</span><br><span class="line">            &#125;</span><br><span class="line">        <span class="keyword">return</span> dp[N][L];</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
-        <tag>鶸</tag>
+        <tag>leetcode</tag>
       </tags>
   </entry>
   <entry>
@@ -976,6 +943,22 @@
       </tags>
   </entry>
   <entry>
+    <title>假期</title>
+    <url>/2019/07/02/%E5%81%87%E6%9C%9F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="Something-good-amp-Something-bad"><a href="#Something-good-amp-Something-bad" class="headerlink" title="Something good &amp; Something bad"></a>Something good &amp; Something bad</h4><p>生活总是让我这么喜欢摸鱼，也许是逃避，也许是天性</p>
+<p>好消息是我终于有一个完整的暑假了</p>
+<p>坏消息是全力考研的时间到了</p>
+<p>但是我最近很长一段时间都还在摸鱼</p>
+<p>研究怎么压片，研究怎么写代码更优雅，水各种各样的群</p>
+<p>不知道为什么 可能是提不起劲 或是自己给自己的要求太低了</p>
+<p>鱼 总是要摸的</p>
+<p>但是 问题总是要解决的</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>成为社畜的六个月</title>
     <url>/2020/12/19/%E6%88%90%E4%B8%BA%E7%A4%BE%E7%95%9C%E7%9A%84%E5%85%AD%E4%B8%AA%E6%9C%88/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>不知不觉来深圳四舍五入六个月，时间过去了但是没留下任何深刻的记忆，自己也没什么变化，大体来说就是虚度光阴。</p>
@@ -1011,6 +994,23 @@
     <title>最近</title>
     <url>/2019/06/03/%E6%9C%80%E8%BF%91/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>2018总结</title>
+    <url>/2019/01/03/%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>不知不觉2018过去了</p>
+<p>本来打算12.31写的 然而咕咕了</p>
+<p>现在还打算继续咕咕</p>
+<p>先写2019目标（笑</p>
+<p>希望自己考研顺利</p>
+<p>PT继续佛系刷</p>
+<p>有钱组NAS</p>
+<p>换个显示器</p>
+<p>其他东西不要坏（瘫</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>鶸</tag>
+      </tags>
   </entry>
   <entry>
     <title>摸鱼记录</title>
