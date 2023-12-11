@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+  <link rel="mask-icon" href="/favicon.ico" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
+
+
+<script id="hexo-configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    hostname: new URL('https://yukino.nl').hostname,
+    root: '/',
+    scheme: 'Pisces',
+    version: '7.6.0',
+    exturl: false,
+    sidebar: {"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},
+    copycode: {"enable":false,"show_result":false,"style":null},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    bookmark: {"enable":false,"color":"#222","save":"auto"},
+    fancybox: false,
+    mediumzoom: false,
+    lazyload: false,
+    pangu: false,
+    comments: {"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},
+    algolia: {
+      appID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    },
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true},
+    path: 'search.xml',
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
+  };
+</script>
+
+  <meta name="description" content="前言：最近有点沉迷把东西backup到Google drive上，还开了个商业版来方便自己传东西，本文主要是面向0基础的rclone科普教程。主要涉及部分是rclone的安装，rclone配置文件的建立，挂载我不喜欢挂载所以我也不会( 安装：Linux：移步官网安装脚本：curl https:&#x2F;&#x2F;rclone.org&#x2F;install.sh | sudo bash Windows：64位：https">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Rclone配置方式">
+<meta property="og:url" content="https://yukino.nl/2019/10/04/rclone-config/index.html">
+<meta property="og:site_name" content="YeZi">
+<meta property="og:description" content="前言：最近有点沉迷把东西backup到Google drive上，还开了个商业版来方便自己传东西，本文主要是面向0基础的rclone科普教程。主要涉及部分是rclone的安装，rclone配置文件的建立，挂载我不喜欢挂载所以我也不会( 安装：Linux：移步官网安装脚本：curl https:&#x2F;&#x2F;rclone.org&#x2F;install.sh | sudo bash Windows：64位：https">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2019-10-04T05:42:07.000Z">
+<meta property="article:modified_time" content="2019-10-04T05:42:07.000Z">
+<meta property="article:author" content="YeZi">
+<meta property="article:tag" content="Linux">
+<meta property="article:tag" content="Windows">
+<meta property="article:tag" content="Google">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://yukino.nl/2019/10/04/rclone-config/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome: false,
+    isPost: true
+  };
+</script>
+
+  <title>Rclone配置方式 | YeZi</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-meta">
+
+    <div>
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">YeZi</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+        <h1 class="site-subtitle" itemprop="description">vegatable</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+</div>
+
+
+<nav class="site-nav">
+  
+  <ul id="menu" class="menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-fw fa-home"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-fw fa-user"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+
+</nav>
+  <div class="site-search">
+    <div class="popup search-popup">
+    <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocorrect="off" autocapitalize="none"
+           placeholder="搜索..." spellcheck="false"
+           type="text" id="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result"></div>
+
+</div>
+<div class="search-pop-overlay"></div>
+
+  </div>
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content">
+            
+
+  <div class="posts-expand">
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://yukino.nl/2019/10/04/rclone-config/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/Yezi-Icon.jpg">
+      <meta itemprop="name" content="YeZi">
+      <meta itemprop="description" content="None">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="YeZi">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          Rclone配置方式
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2019-10-04 13:42:07" itemprop="dateCreated datePublished" datetime="2019-10-04T13:42:07+08:00">2019-10-04</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Something/" itemprop="url" rel="index">
+                    <span itemprop="name">折腾</span>
+                  </a>
+                </span>
+            </span>
+
+          
+            <span id="/2019/10/04/rclone-config/" class="post-meta-item leancloud_visitors" data-flag-title="Rclone配置方式" title="阅读次数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="fa fa-comment-o"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/2019/10/04/rclone-config/#comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2019/10/04/rclone-config/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>5.5k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>10 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>最近有点沉迷把东西backup到Google drive上，还开了个商业版来方便自己传东西，本文主要是面向0基础的rclone科普教程。主要涉及部分是rclone的安装，rclone配置文件的建立，<del>挂载</del>我不喜欢挂载所以我也不会(</p>
+<h3 id="安装："><a href="#安装：" class="headerlink" title="安装："></a>安装：</h3><h4 id="Linux："><a href="#Linux：" class="headerlink" title="Linux："></a>Linux：</h4><p>移步官网安装脚本：<code>curl https://rclone.org/install.sh | sudo bash</code></p>
+<h4 id="Windows："><a href="#Windows：" class="headerlink" title="Windows："></a>Windows：</h4><p>64位：<a target="_blank" rel="noopener" href="https://downloads.rclone.org/rclone-current-windows-amd64.zip">https://downloads.rclone.org/rclone-current-windows-amd64.zip</a></p>
+<p>32位：<a target="_blank" rel="noopener" href="https://downloads.rclone.org/rclone-current-windows-386.zip">https://downloads.rclone.org/rclone-current-windows-386.zip</a></p>
+<p>下载过来是个安装包，解压后将rclone.exe放到<code>C:\Windows\System32</code>就好了(当然也可以放在其他目录然后配置环境变量或者每次使用都手动输入rclone全路径)</p>
+<p>如果你要挂载rclone上的网盘，windows还需要安装一个依赖项： <code>winfsp</code></p>
+<p>可选下载地址：<a target="_blank" rel="noopener" href="http://www.secfs.net/winfsp/download/">http://www.secfs.net/winfsp/download/</a></p>
+<h3 id="rclone配置："><a href="#rclone配置：" class="headerlink" title="rclone配置："></a>rclone配置：</h3><p>打开cmd或者其他终端</p>
+<p>如下操作</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br><span class="line">156</span><br><span class="line">157</span><br><span class="line">158</span><br><span class="line">159</span><br><span class="line">160</span><br><span class="line">161</span><br><span class="line">162</span><br><span class="line">163</span><br><span class="line">164</span><br><span class="line">165</span><br><span class="line">166</span><br><span class="line">167</span><br><span class="line">168</span><br><span class="line">169</span><br><span class="line">170</span><br><span class="line">171</span><br><span class="line">172</span><br><span class="line">173</span><br><span class="line">174</span><br><span class="line">175</span><br><span class="line">176</span><br><span class="line">177</span><br><span class="line">178</span><br><span class="line">179</span><br><span class="line">180</span><br><span class="line">181</span><br><span class="line">182</span><br></pre></td><td class="code"><pre><span class="line">C:\Users\54323&gt;rclone config</span><br><span class="line">Current remotes:</span><br><span class="line"></span><br><span class="line">Name                 Type</span><br><span class="line">====                 ====</span><br><span class="line">gd                   drive</span><br><span class="line">gd2                  drive</span><br><span class="line">gd3                  drive</span><br><span class="line">my                   drive</span><br><span class="line"></span><br><span class="line">e) Edit existing remote</span><br><span class="line">n) New remote</span><br><span class="line">d) Delete remote</span><br><span class="line">r) Rename remote</span><br><span class="line">c) Copy remote</span><br><span class="line">s) Set configuration password</span><br><span class="line">q) Quit config</span><br><span class="line">e/n/d/r/c/s/q&gt; n</span><br><span class="line"><span class="comment">#输入n 新建一个remote</span></span><br><span class="line">name&gt; <span class="built_in">test</span></span><br><span class="line"><span class="comment">#输入自己想要的名字</span></span><br><span class="line">Type of storage to configure.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">Choose a number from below, or <span class="built_in">type</span> <span class="keyword">in</span> your own value</span><br><span class="line"> 1 / A stackable unification remote, <span class="built_in">which</span> can appear to merge the contents of several remotes</span><br><span class="line">   \ <span class="string">&quot;union&quot;</span></span><br><span class="line"> 2 / Alias <span class="keyword">for</span> a existing remote</span><br><span class="line">   \ <span class="string">&quot;alias&quot;</span></span><br><span class="line"> 3 / Amazon Drive</span><br><span class="line">   \ <span class="string">&quot;amazon cloud drive&quot;</span></span><br><span class="line"> 4 / Amazon S3 Compliant Storage Provider (AWS, Alibaba, Ceph, Digital Ocean, Dreamhost, IBM COS, Minio, etc)</span><br><span class="line">   \ <span class="string">&quot;s3&quot;</span></span><br><span class="line"> 5 / Backblaze B2</span><br><span class="line">   \ <span class="string">&quot;b2&quot;</span></span><br><span class="line"> 6 / Box</span><br><span class="line">   \ <span class="string">&quot;box&quot;</span></span><br><span class="line"> 7 / Cache a remote</span><br><span class="line">   \ <span class="string">&quot;cache&quot;</span></span><br><span class="line"> 8 / Dropbox</span><br><span class="line">   \ <span class="string">&quot;dropbox&quot;</span></span><br><span class="line"> 9 / Encrypt/Decrypt a remote</span><br><span class="line">   \ <span class="string">&quot;crypt&quot;</span></span><br><span class="line">10 / FTP Connection</span><br><span class="line">   \ <span class="string">&quot;ftp&quot;</span></span><br><span class="line">11 / Google Cloud Storage (this is not Google Drive)</span><br><span class="line">   \ <span class="string">&quot;google cloud storage&quot;</span></span><br><span class="line">12 / Google Drive</span><br><span class="line">   \ <span class="string">&quot;drive&quot;</span></span><br><span class="line">13 / Hubic</span><br><span class="line">   \ <span class="string">&quot;hubic&quot;</span></span><br><span class="line">14 / JottaCloud</span><br><span class="line">   \ <span class="string">&quot;jottacloud&quot;</span></span><br><span class="line">15 / Local Disk</span><br><span class="line">   \ <span class="string">&quot;local&quot;</span></span><br><span class="line">16 / Mega</span><br><span class="line">   \ <span class="string">&quot;mega&quot;</span></span><br><span class="line">17 / Microsoft Azure Blob Storage</span><br><span class="line">   \ <span class="string">&quot;azureblob&quot;</span></span><br><span class="line">18 / Microsoft OneDrive</span><br><span class="line">   \ <span class="string">&quot;onedrive&quot;</span></span><br><span class="line">19 / OpenDrive</span><br><span class="line">   \ <span class="string">&quot;opendrive&quot;</span></span><br><span class="line">20 / Openstack Swift (Rackspace Cloud Files, Memset Memstore, OVH)</span><br><span class="line">   \ <span class="string">&quot;swift&quot;</span></span><br><span class="line">21 / Pcloud</span><br><span class="line">   \ <span class="string">&quot;pcloud&quot;</span></span><br><span class="line">22 / QingCloud Object Storage</span><br><span class="line">   \ <span class="string">&quot;qingstor&quot;</span></span><br><span class="line">23 / SSH/SFTP Connection</span><br><span class="line">   \ <span class="string">&quot;sftp&quot;</span></span><br><span class="line">24 / Webdav</span><br><span class="line">   \ <span class="string">&quot;webdav&quot;</span></span><br><span class="line">25 / Yandex Disk</span><br><span class="line">   \ <span class="string">&quot;yandex&quot;</span></span><br><span class="line">26 / http Connection</span><br><span class="line">   \ <span class="string">&quot;http&quot;</span></span><br><span class="line">Storage&gt; 12</span><br><span class="line"><span class="comment">#输入12 回车</span></span><br><span class="line">** See <span class="built_in">help</span> <span class="keyword">for</span> drive backend at: https://rclone.org/drive/ **</span><br><span class="line"></span><br><span class="line">Google Application Client Id</span><br><span class="line">Leave blank normally.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">client_id&gt;</span><br><span class="line"><span class="comment">#作者注：client_id和client_secret不填的话会使用rclone的api，在高峰期的时候稳定性一般，可以考虑自己建立一个API，但是轻度使用没什么区别</span></span><br><span class="line">Google Application Client Secret</span><br><span class="line">Leave blank normally.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">client_secret&gt;</span><br><span class="line"><span class="comment">#回车 使用默认api</span></span><br><span class="line">Scope that rclone should use when requesting access from drive.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">Choose a number from below, or <span class="built_in">type</span> <span class="keyword">in</span> your own value</span><br><span class="line"> 1 / Full access all files, excluding Application Data Folder.</span><br><span class="line">   \ <span class="string">&quot;drive&quot;</span></span><br><span class="line"> 2 / Read-only access to file metadata and file contents.</span><br><span class="line">   \ <span class="string">&quot;drive.readonly&quot;</span></span><br><span class="line">   / Access to files created by rclone only.</span><br><span class="line"> 3 | These are visible <span class="keyword">in</span> the drive website.</span><br><span class="line">   | File authorization is revoked when the user deauthorizes the app.</span><br><span class="line">   \ <span class="string">&quot;drive.file&quot;</span></span><br><span class="line">   / Allows <span class="built_in">read</span> and write access to the Application Data folder.</span><br><span class="line"> 4 | This is not visible <span class="keyword">in</span> the drive website.</span><br><span class="line">   \ <span class="string">&quot;drive.appfolder&quot;</span></span><br><span class="line">   / Allows read-only access to file metadata but</span><br><span class="line"> 5 | does not allow any access to <span class="built_in">read</span> or download file content.</span><br><span class="line">   \ <span class="string">&quot;drive.metadata.readonly&quot;</span></span><br><span class="line">scope&gt; 1</span><br><span class="line"><span class="comment">#填1</span></span><br><span class="line">ID of the root folder</span><br><span class="line">Leave blank normally.</span><br><span class="line">Fill <span class="keyword">in</span> to access <span class="string">&quot;Computers&quot;</span> folders. (see docs).</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">root_folder_id&gt;</span><br><span class="line"><span class="comment">#直接回车</span></span><br><span class="line">Service Account Credentials JSON file path </span><br><span class="line">Leave blank normally.</span><br><span class="line">Needed only <span class="keyword">if</span> you want use SA instead of interactive login.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line"><span class="comment">#直接回车</span></span><br><span class="line">service_account_file&gt;</span><br><span class="line">Edit advanced config? (y/n)</span><br><span class="line">y) Yes</span><br><span class="line">n) No</span><br><span class="line">y/n&gt; n</span><br><span class="line"><span class="comment">#不需要高级设置</span></span><br><span class="line">Remote config</span><br><span class="line">Use auto config?</span><br><span class="line"> * Say Y <span class="keyword">if</span> not sure</span><br><span class="line"> * Say N <span class="keyword">if</span> you are working on a remote or headless machine</span><br><span class="line">y) Yes</span><br><span class="line">n) No</span><br><span class="line">y/n&gt; n</span><br><span class="line"><span class="comment">#交给rclone自动认证</span></span><br><span class="line">If your browser doesn<span class="string">&#x27;t open automatically go to the following link: https://accounts.google.com/o/oauth2/auth?access_type=offline&amp;clienxxxxxxxx</span></span><br><span class="line"><span class="string">Log in and authorize rclone for access</span></span><br><span class="line"><span class="string">#复制打开上述网址，并且登入你想要的gg账号，然后会获得一个4开头的授权码，粘贴到下方，并且回车</span></span><br><span class="line"><span class="string">Enter verification code&gt; 4/xxxxxxxB-xxx</span></span><br><span class="line"><span class="string">Configure this as a team drive?</span></span><br><span class="line"><span class="string">y) Yes</span></span><br><span class="line"><span class="string">n) No</span></span><br><span class="line"><span class="string">y/n&gt; y</span></span><br><span class="line"><span class="string">#是否是团队盘</span></span><br><span class="line"><span class="string">Fetching team drive list...</span></span><br><span class="line"><span class="string">Choose a number from below, or type in your own value</span></span><br><span class="line"><span class="string"> 1 / seedbox</span></span><br><span class="line"><span class="string">   \ &quot;0Axxxx&quot;</span></span><br><span class="line"><span class="string"> 2 / YeZi</span></span><br><span class="line"><span class="string">   \ &quot;0AOxxxx&quot;</span></span><br><span class="line"><span class="string">Enter a Team Drive ID&gt; 2</span></span><br><span class="line"><span class="string">#选择一个团队盘</span></span><br><span class="line"><span class="string">--------------------</span></span><br><span class="line"><span class="string">[test]</span></span><br><span class="line"><span class="string">type = drive</span></span><br><span class="line"><span class="string">scope = drive</span></span><br><span class="line"><span class="string">token = &#123;&quot;access_token&quot;:&quot;xxxxxx&quot;,&quot;token_type&quot;:&quot;xxxx&quot;,&quot;refresh_token&quot;:&quot;xxxx</span></span><br><span class="line"><span class="string">x&quot;,&quot;expiry&quot;:&quot;2x&quot;&#125;</span></span><br><span class="line"><span class="string">team_drive = xxxx</span></span><br><span class="line"><span class="string">--------------------</span></span><br><span class="line"><span class="string">y) Yes this is OK</span></span><br><span class="line"><span class="string">e) Edit this remote</span></span><br><span class="line"><span class="string">d) Delete this remote</span></span><br><span class="line"><span class="string">y/e/d&gt; y</span></span><br><span class="line"><span class="string">#展示一下本次配置的信息，没问题就y回车 添加成功</span></span><br><span class="line"><span class="string">Current remotes:</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">Name                 Type</span></span><br><span class="line"><span class="string">====                 ====</span></span><br><span class="line"><span class="string">gd                   drive</span></span><br><span class="line"><span class="string">gd2                  drive</span></span><br><span class="line"><span class="string">gd3                  drive</span></span><br><span class="line"><span class="string">my                   drive</span></span><br><span class="line"><span class="string">test                 drive</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">e) Edit existing remote</span></span><br><span class="line"><span class="string">n) New remote</span></span><br><span class="line"><span class="string">d) Delete remote</span></span><br><span class="line"><span class="string">r) Rename remote</span></span><br><span class="line"><span class="string">c) Copy remote</span></span><br><span class="line"><span class="string">s) Set configuration password</span></span><br><span class="line"><span class="string">q) Quit config</span></span><br><span class="line"><span class="string">e/n/d/r/c/s/q&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>上述操作是在windows下进行的，linux目前方式一样</p>
+<h3 id="rclone常用命令："><a href="#rclone常用命令：" class="headerlink" title="rclone常用命令："></a>rclone常用命令：</h3><p><code>rclone copy SRC DST</code></p>
+<p>其中SRC指代源文件位置，假设源文件在本地”d:/test” 目的地是test这个网盘的1文件夹</p>
+<p><code>rclone copy d:/test test:1</code></p>
+<p>也可以是从一个网盘到另一个网盘</p>
+<p>比如</p>
+<p><code>rclone copy gd1:web gd2:web</code></p>
+<p>在后面加参数–transfer x 可以修改传输进程数 较吃资源</p>
+<p>(其他指令我也不知道了</p>
+<p>嘛 就酱紫吧 每日上限是单账号750G，所以你可以开一堆小号都加到团队盘里然后换着号上传，copy会自动校验文件创建时间和hash，一般不会出现损坏。</p>
+<p>rclone过滤或者仅包括部分文件格式</p>
+<p><code>rclone [filter] [action] [src] [dst] [flag]</code></p>
+<p><code>filter</code>代指各类过滤规则 包括<code>include exclude</code> </p>
+<p><code>action</code>代指本次需要执行的行为 包括 <code>move copy sync</code> </p>
+<p><code>src dst</code> 为源路径和目的路径</p>
+<p><code>flag</code>为本次运行的其他参数</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/Linux/" rel="tag"># Linux</a>
+              <a href="/tags/Windows/" rel="tag"># Windows</a>
+              <a href="/tags/Google/" rel="tag"># Google</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wp_rating">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2019/10/02/ssh-proxy-connect/" rel="prev" title="为本地的ssh设置代理，通过connect">
+      <i class="fa fa-chevron-left"></i> 为本地的ssh设置代理，通过connect
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2019/12/31/t-rss/" rel="next" title="t-rss">
+      t-rss <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+  </div>
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let activeClass = CONFIG.comments.activeClass;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%89%8D%E8%A8%80%EF%BC%9A"><span class="nav-number">1.</span> <span class="nav-text">前言：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AE%89%E8%A3%85%EF%BC%9A"><span class="nav-number">2.</span> <span class="nav-text">安装：</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Linux%EF%BC%9A"><span class="nav-number">2.1.</span> <span class="nav-text">Linux：</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Windows%EF%BC%9A"><span class="nav-number">2.2.</span> <span class="nav-text">Windows：</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#rclone%E9%85%8D%E7%BD%AE%EF%BC%9A"><span class="nav-number">3.</span> <span class="nav-text">rclone配置：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#rclone%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%EF%BC%9A"><span class="nav-number">4.</span> <span class="nav-text">rclone常用命令：</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="YeZi"
+      src="/images/Yezi-Icon.jpg">
+  <p class="site-author-name" itemprop="name">YeZi</p>
+  <div class="site-description" itemprop="description">None</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">31</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">21</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/yezi1000" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;yezi1000" rel="noopener" target="_blank"><i class="fa fa-fw fa-github"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:yukinoyezi@gmail.com" title="E-Mail → mailto:yukinoyezi@gmail.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="/atom.xml" title="RSS → &#x2F;atom.xml"><i class="fa fa-fw fa-rss"></i>RSS</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title">
+      <i class="fa fa-fw fa-link"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://shura.eu.org/" title="https:&#x2F;&#x2F;shura.eu.org&#x2F;" rel="noopener" target="_blank">Shura</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://jocket.top/" title="https:&#x2F;&#x2F;jocket.top&#x2F;" rel="noopener" target="_blank">知津</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://capriccio.moe/" title="https:&#x2F;&#x2F;capriccio.moe&#x2F;" rel="noopener" target="_blank">包包</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.vhaey.com/" title="https:&#x2F;&#x2F;www.vhaey.com&#x2F;" rel="noopener" target="_blank">季风</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.issacc.top/" title="https:&#x2F;&#x2F;www.issacc.top&#x2F;" rel="noopener" target="_blank">issacc</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://greedbob.github.io/" title="https:&#x2F;&#x2F;greedbob.github.io&#x2F;" rel="noopener" target="_blank">Greedbob</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lss.moe/" title="https:&#x2F;&#x2F;lss.moe&#x2F;" rel="noopener" target="_blank">clover</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://limee.dev/" title="https:&#x2F;&#x2F;limee.dev&#x2F;" rel="noopener" target="_blank">威廉</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://breakertt.moe/" title="https:&#x2F;&#x2F;breakertt.moe&#x2F;" rel="noopener" target="_blank">断总</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://hanamura.cc/" title="https:&#x2F;&#x2F;hanamura.cc&#x2F;" rel="noopener" target="_blank">花村</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://huanghaozi.cn/" title="https:&#x2F;&#x2F;huanghaozi.cn&#x2F;" rel="noopener" target="_blank">HHz的编程日记</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://zexwoo.blog/" title="https:&#x2F;&#x2F;zexwoo.blog" rel="noopener" target="_blank">ZexWoo</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">YeZi</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-area-chart"></i>
+    </span>
+      <span class="post-meta-item-text">站点总字数：</span>
+    <span title="站点总字数">49k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
+    <span title="站点阅读时长">1:29</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动 v5.4.0
+  </div>
+  <span class="post-meta-divider">|</span>
+  <div class="theme-info">主题 – <a href="https://pisces.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Pisces</a> v7.6.0
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+  <script>
+  if (CONFIG.page.isPost) {
+    wpac_init = window.wpac_init || [];
+    wpac_init.push({
+      widget: 'Rating',
+      id: ,
+      el: 'wpac-rating',
+      color: 'fc6423'
+    });
+    (function() {
+      if ('WIDGETPACK_LOADED' in window) return;
+      WIDGETPACK_LOADED = true;
+      var mc = document.createElement('script');
+      mc.type = 'text/javascript';
+      mc.async = true;
+      mc.src = '//embed.widgetpack.com/widget.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+    })();
+  }
+  </script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+  <script src="//cdn.jsdelivr.net/npm/quicklink@1/dist/quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink({
+        timeout: 3000,
+        priority: true,
+        ignores: [uri => uri.includes('#'),uri => uri == 'https://yukino.nl/2019/10/04/rclone-config/',]
+      });
+      });
+  </script>
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el: '#valine-comments',
+      verify: true,
+      notify: false,
+      appId: '61WthKY33a67N2OqUck3gpBC-gzGzoHsz',
+      appKey: 'pzFMQwkTHCUpmhVxsKk2RkuL',
+      placeholder: "Just go go",
+      avatar: 'retro',
+      meta: guest,
+      pageSize: '10' || 10,
+      visitor: true,
+      lang: 'zh-cn' || 'zh-cn',
+      path: location.pathname,
+      recordIP: true,
+      serverURLs: ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

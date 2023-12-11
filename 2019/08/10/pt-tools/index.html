@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+  <link rel="mask-icon" href="/favicon.ico" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
+
+
+<script id="hexo-configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    hostname: new URL('https://yukino.nl').hostname,
+    root: '/',
+    scheme: 'Pisces',
+    version: '7.6.0',
+    exturl: false,
+    sidebar: {"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},
+    copycode: {"enable":false,"show_result":false,"style":null},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    bookmark: {"enable":false,"color":"#222","save":"auto"},
+    fancybox: false,
+    mediumzoom: false,
+    lazyload: false,
+    pangu: false,
+    comments: {"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},
+    algolia: {
+      appID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    },
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":true},
+    path: 'search.xml',
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
+  };
+</script>
+
+  <meta name="description" content="前言不止不觉入坑快一年了，我已经忘记了当初注册蒲公英的目的是啥，但是无非就是想快速下东西、想看电影罢了。一年花在PT上的时间也蛮多的，或许也是一种逃避？ 当初小白的时候总是能问出各种各样的沙雕问题，还好当初的前辈都很和蔼，至少不像我一样暴躁，感谢就不写在这了，本文主要是一个个人认为有价值的脚本&amp;知识的一个收录合集，希望后来者能少走点弯路。 本文建议当成一个简单的Q&amp;A使用，具体请点">
+<meta property="og:type" content="article">
+<meta property="og:title" content="PT实用工具&amp;脚本分享">
+<meta property="og:url" content="https://yukino.nl/2019/08/10/pt-tools/index.html">
+<meta property="og:site_name" content="YeZi">
+<meta property="og:description" content="前言不止不觉入坑快一年了，我已经忘记了当初注册蒲公英的目的是啥，但是无非就是想快速下东西、想看电影罢了。一年花在PT上的时间也蛮多的，或许也是一种逃避？ 当初小白的时候总是能问出各种各样的沙雕问题，还好当初的前辈都很和蔼，至少不像我一样暴躁，感谢就不写在这了，本文主要是一个个人认为有价值的脚本&amp;知识的一个收录合集，希望后来者能少走点弯路。 本文建议当成一个简单的Q&amp;A使用，具体请点">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://i.loli.net/2019/08/10/tv9ONmpwkqUsTLP.png">
+<meta property="og:image" content="https://p.sda1.dev/0/267239fc9cc4cb6534a119f9399690cb/Snipaste_2019-12-28_13-19-09.png">
+<meta property="og:image" content="https://p.sda1.dev/0/b0b5dc89395c2d0f6682019fa45cab8e/Snipaste_2019-12-28_13-19-28.png">
+<meta property="og:image" content="https://i.loli.net/2019/08/10/SwEej4gTFkGfI82.png">
+<meta property="og:image" content="https://i.loli.net/2019/08/10/ZWPSGTpLEe2uwjD.png">
+<meta property="og:image" content="https://i.loli.net/2019/10/02/WuQn9vpJHsSNa6U.png">
+<meta property="og:image" content="https://i.loli.net/2019/08/10/rRdft2WkmuXH937.jpg">
+<meta property="og:image" content="https://i.loli.net/2019/08/10/7Kctoex3aIR1QfM.png">
+<meta property="article:published_time" content="2019-08-10T03:59:09.000Z">
+<meta property="article:modified_time" content="2019-08-10T03:59:09.000Z">
+<meta property="article:author" content="YeZi">
+<meta property="article:tag" content="Linux">
+<meta property="article:tag" content="Bash">
+<meta property="article:tag" content="Tools">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://i.loli.net/2019/08/10/tv9ONmpwkqUsTLP.png">
+
+<link rel="canonical" href="https://yukino.nl/2019/08/10/pt-tools/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome: false,
+    isPost: true
+  };
+</script>
+
+  <title>PT实用工具&脚本分享 | YeZi</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-meta">
+
+    <div>
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">YeZi</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+        <h1 class="site-subtitle" itemprop="description">vegatable</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+</div>
+
+
+<nav class="site-nav">
+  
+  <ul id="menu" class="menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-fw fa-home"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-fw fa-user"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+
+</nav>
+  <div class="site-search">
+    <div class="popup search-popup">
+    <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocorrect="off" autocapitalize="none"
+           placeholder="搜索..." spellcheck="false"
+           type="text" id="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result"></div>
+
+</div>
+<div class="search-pop-overlay"></div>
+
+  </div>
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content">
+            
+
+  <div class="posts-expand">
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://yukino.nl/2019/08/10/pt-tools/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/Yezi-Icon.jpg">
+      <meta itemprop="name" content="YeZi">
+      <meta itemprop="description" content="None">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="YeZi">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          PT实用工具&脚本分享
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2019-08-10 11:59:09" itemprop="dateCreated datePublished" datetime="2019-08-10T11:59:09+08:00">2019-08-10</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/PT/" itemprop="url" rel="index">
+                    <span itemprop="name">PT</span>
+                  </a>
+                </span>
+            </span>
+
+          
+            <span id="/2019/08/10/pt-tools/" class="post-meta-item leancloud_visitors" data-flag-title="PT实用工具&脚本分享" title="阅读次数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span class="leancloud-visitors-count"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="fa fa-comment-o"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/2019/08/10/pt-tools/#comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2019/08/10/pt-tools/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>10k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>18 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>不止不觉入坑快一年了，我已经忘记了当初注册蒲公英的目的是啥，但是无非就是想快速下东西、想看电影罢了。一年花在PT上的时间也蛮多的，或许也是一种逃避？</p>
+<p>当初小白的时候总是能问出各种各样的沙雕问题，还好当初的前辈都很和蔼，至少不像我一样暴躁，感谢就不写在这了，本文主要是一个个人认为有价值的脚本&amp;知识的一个收录合集，希望后来者能少走点弯路。</p>
+<p>本文建议当成一个简单的Q&amp;A使用，具体请点击右侧相关问题TAG跳转</p>
+<p><font color=red>Attention：如果你是个大佬，应该不会在本文中看到什么出彩的东西，全都是抄的或者干脆丢了个链接。</font></p>
+<p>PS：本人又懒又喜欢废话，还喜欢说一些错的东西，希望有大佬看到哪里错了可以说一下。</p>
+<h1 id="盒子篇"><a href="#盒子篇" class="headerlink" title="盒子篇"></a>盒子篇</h1><h2 id="盒子（seedbox）是什么"><a href="#盒子（seedbox）是什么" class="headerlink" title="盒子（seedbox）是什么"></a>盒子（seedbox）是什么</h2><p>个人理解盒子是一类用于进行PT/BT下载的远程服务器。</p>
+<p>盒子主要类型，从IP情况来说分为：共享盒子和非共享，前者主要是一些专业seedbox提供商，例如SeedHost、Feral Hosting等，后者例如hetzner等独立服务器提供商。</p>
+<h2 id="盒子的选购："><a href="#盒子的选购：" class="headerlink" title="盒子的选购："></a>盒子的选购：</h2><h3 id="盒子的选择："><a href="#盒子的选择：" class="headerlink" title="盒子的选择："></a>盒子的选择：</h3><p>这方面受到时间限制较为大，而且我用的也不是很多，就随便说一点了</p>
+<p>在挑选的过程中，你需要先明确几个问题：</p>
+<p>1.预算 2.需要刷什么站 3.打算刷多少 4.有没有自己购买的能力（Visa 或者Master信用卡）</p>
+<p>内站由于一些seedbox的限制（不能超过100M/S、部分站点不可使用共享盒）无法使用共享盒。</p>
+<p>最新站点盒子限制表 <a target="_blank" rel="noopener" href="https://www.kdocs.cn/l/sEi6Sg5iu">https://www.kdocs.cn/l/sEi6Sg5iu</a></p>
+<p>常见盒子收集表（里面很多价格是买不到的，具体请阅读备注页）</p>
+<p><del>具体可以参考<a target="_blank" rel="noopener" href="https://github.com/Aniverse">@Aniverse</a>收集的盒子限制表如下</del></p>
+<p><del><img src="https://i.loli.net/2019/08/10/tv9ONmpwkqUsTLP.png" alt="国内站部分限速图.png"></del></p>
+<p><del>图片可能看不清 可以尝试直接访问 <a target="_blank" rel="noopener" href="https://sm.ms/image/tv9ONmpwkqUsTLP">https://sm.ms/image/tv9ONmpwkqUsTLP</a></del></p>
+<p>独立服务器（杜甫）</p>
+<p>比较常见的盒子有oneprovider的各价位机型、hetzner的拍卖机、scaleway的特价机，</p>
+<p><a target="_blank" rel="noopener" href="https://oneprovider.com/dedicated-servers/1gbps">oneprovider</a>  下文简称其为op。一般都是买他家的巴黎机器，他家巴黎的机器一般是替scaleway分销 个人点评：客服回复速度较慢，机子容易出问题，提供的系统镜像版本少且版本较老，低价位可以考虑购买。退款较难。</p>
+<p><a target="_blank" rel="noopener" href="https://www.hetzner.com/">hetzner</a>：其普通机器在非活动期间有安装费且费用较高（34欧元）起步，属于中高档机器，而大部分人购买的是其<a target="_blank" rel="noopener" href="https://www.hetzner.com/sb">拍卖机</a>，拍卖机价格浮动，有的时候可以遇到比较好的传家宝机器，其后台支持机器转让，因此在hostloc上有不少人转手机器赚取差价。机器使用不满14天可以无条件退款，请勿滥用，可能导致封号。</p>
+<p><a target="_blank" rel="noopener" href="https://www.scaleway.com/fr/dedibox/">scaleway</a>：以前叫online，现在改名了，他家的机房主要在荷兰和法国，平常的价格很黑基本买不起，促销的时候力度大的机器一般很棒，例如ST8 ST12等，但是有些机器跑的流量多了可能会被限速。</p>
+<p>共享盒子：</p>
+<p><a target="_blank" rel="noopener" href="https://www.seedhost.eu/">Seedhost</a>：流量少，盘一般大，刷力尚可，超过流量上限后限速至100mbps，提供安装rt de，起步6欧元，这家其实也有提供杜甫出租，但是常年无货。其SSD机器据说刷力不错，外站经常见到。</p>
+<p><a target="_blank" rel="noopener" href="https://www.feralhosting.com/">Feral Hosting</a>：不限流，机子看脸，运气好可以跑得很快，起步10英镑。</p>
+<p><a target="_blank" rel="noopener" href="https://ultraseedbox.com/">ultraseedbox</a>：有限流与不限流的机器可供选择，买过一个5欧元的小鸡，体验尚可，小鸡流量太少了。现在的NVME SSD机器不建议选购，网相比老SSD机器差了很多。</p>
+<p>保种鸡：</p>
+<p>由于大部分保种鸡需求和上述两者不同，保种鸡只要能一直开机盘体积大就行，性能是不需要考虑的(x)</p>
+<p><a target="_blank" rel="noopener" href="https://www.soyoustart.com/">SoYouStart</a>: 现在已经买不到了，只能从已有机器的人那里租或者收账号，配置可以使用 <a target="_blank" rel="noopener" href="https://github.com/amefs/quickbox-arm">quickbox-arm</a> </p>
+<p>一些大盘VPS：注意此处雷区还是比较多的，有些one-man idc 例如hostsolution 之类的就不要去送人头了</p>
+<p>一些个人seedbox provider：</p>
+<p>Andy：一个很著名的seedbox provider，提供的机器主要使用 OVH / NForce / LeaseWeb / Hetzner的网络，主要活跃在discord：<a target="_blank" rel="noopener" href="https://discord.gg/7Gv8tdM"><strong>https://discord.gg/7Gv8tdM</strong></a> 和<a target="_blank" rel="noopener" href="https://www.reddit.com/user/Andy10gbit">reddit</a> （均需要科学上网）机器价位相对偏高 </p>
+<ol>
+<li>帮你配置+各类软件的技术支持，不给 root，这种情况下给最好的优化</li>
+<li>帮你配置+各类软件的技术支持，给 root，但是给你的优化要差一点</li>
+<li>给 root，软件自己装</li>
+<li>你提供自己买的服务器的 root 给他，他帮你配置，配置完以后你仍然有 root 权限（给的是和 2 一样的优化方案）</li>
+</ol>
+<h3 id="盒子的购买："><a href="#盒子的购买：" class="headerlink" title="盒子的购买："></a>盒子的购买：</h3><p>仅列举几个自己购买过的</p>
+<p>VISA&amp;Master信用卡：全部</p>
+<p>支持pp：hetzner、oneprovider、seedhost、ultraseedbox、</p>
+<p>支持支付宝&amp;微信：oneprovider</p>
+<p>其中hetzner新账号注册需要验证，你可以选择pp支付20欧元，或者提交身份证明，例如身份证+信用卡背面（记得遮挡CVV码），或者护照、驾照、具体抄了一下盒子群的bot</p>
+<p> <u>①拍卖页面购买的机器不会立即生成账单，14天以内取消机器算免费试用，但不要多次尝试，账号会被封！</u></p>
+<p><u>②账号注册后需要验证身份，会收到一封要求验证身份的邮件，将身份证或者护照和信用卡放在一起拍照片发过去，为了安全可以适当打码并且用证件水印助手APP处理下</u></p>
+<p><u>③也可以直接付款20欧让账号生效,但也不是百分百靠谱，可能仍然需要验证，付的20欧作为余额可以在购买机器时消费,如果收到如下邮件等个10分钟左右可能就成功了，否则会继续收到需要验证身份信息</u><br><u><a target="_blank" rel="noopener" href="https://pic.ymgblog.com/images/2019/06/23/e3a42dd6acefaf3f3e70200ee1e88440.png">https://pic.ymgblog.com/images/2019/06/23/e3a42dd6acefaf3f3e70200ee1e88440.png</a></u></p>
+<p><u>④购买机器时如果费用带税可以按下图设置 <a target="_blank" rel="noopener" href="https://pic.ymgblog.com/images/2019/06/23/b1000f5014824ee249ebfd8cf48b0d2b.png">https://pic.ymgblog.com/images/2019/06/23/b1000f5014824ee249ebfd8cf48b0d2b.png</a></u></p>
+<p>找人代购盒子的注意事项：</p>
+<p>​    有能力自己买就不推荐代购</p>
+<p>Feral hosting：仅信用卡</p>
+<h2 id="盒子的安装："><a href="#盒子的安装：" class="headerlink" title="盒子的安装："></a>盒子的安装：</h2><h3 id="共享盒子RSS："><a href="#共享盒子RSS：" class="headerlink" title="共享盒子RSS："></a>共享盒子RSS：</h3><p>由于有些共享盒子没有提供flexget安装选项，而且几乎所有共享盒子都提供了rTorrent+RuTorrent的组合，你可以直接使用组合自带的RSS功能进行RSS。</p>
+<p>1.首先在rut中添加RSS订阅</p>
+<p><img src="https://p.sda1.dev/0/267239fc9cc4cb6534a119f9399690cb/Snipaste_2019-12-28_13-19-09.png"></p>
+<p>2.设置RSS自动下载规则</p>
+<p><img src="https://p.sda1.dev/0/b0b5dc89395c2d0f6682019fa45cab8e/Snipaste_2019-12-28_13-19-28.png"></p>
+<p>这里的规则你可以自己写 怎么写清自行百度 我图上的规则意思是全部下载 并且不会自动在rt中自动开始下载。</p>
+<p>3.设置deluge监听目录到 <code>/home36/yezi/.config/.session</code></p>
+<p>4.修改rt的RSS更新频率，在webui中仅能设置到2min，修改文件可以修改到1min</p>
+<p>​    修改文件使得更新频率到1min方法:</p>
+<p>​    <code>/home36/yezi/www/yezi.gold.seedhost.eu/yezi/rutorrent/plugins/rss/conf.php</code></p>
+<p>​    <code>$minInterval = 1;       // in minutes</code></p>
+<h3 id="seedhost-deluge刷新tracker脚本"><a href="#seedhost-deluge刷新tracker脚本" class="headerlink" title="seedhost deluge刷新tracker脚本"></a>seedhost deluge刷新tracker脚本</h3><p><a target="_blank" rel="noopener" href="https://www.seedhost.eu/whmcs/knowledgebase/266/Deluge-update-tracker-script.html">https://www.seedhost.eu/whmcs/knowledgebase/266/Deluge-update-tracker-script.html</a></p>
+<h3 id="连接服务器："><a href="#连接服务器：" class="headerlink" title="连接服务器："></a>连接服务器：</h3><p>用法是使用putty或者xshell等连接上你的服务器，具体如何连接不赘述了，可以参考 <a target="_blank" rel="noopener" href="https://jingyan.baidu.com/article/ed2a5d1f6b31af09f7be1748.html">https://jingyan.baidu.com/article/ed2a5d1f6b31af09f7be1748.html</a> 等之类的教程。</p>
+<h3 id="限制同时进行下载的任务数："><a href="#限制同时进行下载的任务数：" class="headerlink" title="限制同时进行下载的任务数："></a>限制同时进行下载的任务数：</h3><p>考虑到有的时候我们需要进行全站RSS，这个时候可能对我们的盒子性能有比较高的要求，我们观察后可以通过限制同时下载任务数稍微提升一点表现，但是由于目前删种的条件较难以控制，属于中下解。。。但也不是不能用。</p>
+<p>qb+autoremove-torrents：</p>
+<p>​    设置当前最大任务数，所以同时加进去的种子会进入排队状态，而使用autoremove-torrents每分钟检查并且移除排队种子。如果对应站点有不少的低速种子可以在qb里设置若干速度以下排除排队。</p>
+<p>随便写的一个配置文件 没上机测试过</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">noob:</span></span><br><span class="line">  <span class="attr">client:</span> <span class="string">qbittorrent</span></span><br><span class="line">  <span class="attr">host:</span> <span class="string">http://127.0.0.1:2017</span></span><br><span class="line">  <span class="attr">username:</span> <span class="string">admin</span></span><br><span class="line">  <span class="attr">password:</span> <span class="string">adminadmin</span></span><br><span class="line">  <span class="attr">strategies:</span></span><br><span class="line">    <span class="attr">remove-queued:</span></span><br><span class="line">      <span class="attr">status:</span> <span class="string">queued</span></span><br><span class="line">      <span class="attr">remove:</span> <span class="string">ratio</span> <span class="string">&lt;</span> <span class="number">1</span></span><br><span class="line">    <span class="attr">avoid-boom:</span></span><br><span class="line">      <span class="attr">seed_size:</span> </span><br><span class="line">        <span class="attr">limit:</span> <span class="number">6500</span></span><br><span class="line">        <span class="attr">action:</span> <span class="string">remove-old-seeds</span></span><br><span class="line">  <span class="attr">delete_data:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<p>移除所有排队的 ratio小于1的种子（默认顺序是先加入的在队头</p>
+<p>并且在所有种子的size大于6500GiB的时候开始移除老种子</p>
+<h3 id="软件安装："><a href="#软件安装：" class="headerlink" title="软件安装："></a>软件安装：</h3><p>这部分 个人认为一般的刷子完全可以仅依赖星大的脚本: <a target="_blank" rel="noopener" href="https://github.com/Aniverse/inexistence">https://github.com/Aniverse/inexistence</a></p>
+<p>此时还可以大喊efs牛逼！ <a target="_blank" rel="noopener" href="https://github.com/amefs/quickbox-lite">https://github.com/amefs/quickbox-lite</a></p>
+<p>这两者的对比，前者更齐全，制种、发种工具一应俱全，后者有一个统一的WEBUI界面，而且大部分操作（卸载、安装、重启）可以在webui执行。</p>
+<p>星大脚本：</p>
+<p>​    在shell中输入</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bash &lt;(wget --no-check-certificate -qO- https://github.com/Aniverse/inexistence/raw/master/inexistence.sh)</span><br></pre></td></tr></table></figure>
+
+<p>回车运行即可，在运行前请仔细阅读GitHub上的readme，例如安装跳检客户端等等均有描述。</p>
+<p>例如：</p>
+<p><img src="https://i.loli.net/2019/08/10/SwEej4gTFkGfI82.png" alt="Snipaste_2019-08-10_12-36-04.png"></p>
+<p>需要提一嘴的是部分机子不提供root用户的登录，需要先使用你在后台设置的用户名密码登入然后使用 <code>su - root</code> 进行提权成为root用户，这样的厂商有online.net &amp; oneprovider等</p>
+<h3 id="ipv6："><a href="#ipv6：" class="headerlink" title="ipv6："></a>ipv6：</h3><p>部分用户可能有这个需求。</p>
+<p>online:</p>
+<p>​    online在账户里有ipv6选项（新账号需要先order一个free ipv6 block) 然后自己分subnet。</p>
+<p>oneprovider：</p>
+<p>默认不会给ipv6地址块和DUID，需要你新建一个ticket然后和客服交流获取。</p>
+<p>和oneprovider客服交流过程举例：</p>
+<p><img src="https://i.loli.net/2019/08/10/ZWPSGTpLEe2uwjD.png" alt="Snipaste_2019-08-10_12-42-52.png"></p>
+<p>配置ipv6脚本</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bash &lt;(wget -qO- https://github.com/Aniverse/aBox/raw/master/scripts/ipv6)</span><br></pre></td></tr></table></figure>
+
+<p>​    scw/ik/lw 的 debian 8-10/ubuntu 16.04-18.04 配置（20.04 应该也可以，没试过，应该也是 netplan 吧）</p>
+<p>手动配置:</p>
+<p>​    ubuntu 18.04:</p>
+<p>​        <a target="_blank" rel="noopener" href="https://blog.gloriousdays.pw/2019/03/14/configure-online-net-ipv6-on-ubuntu-18-04/">https://blog.gloriousdays.pw/2019/03/14/configure-online-net-ipv6-on-ubuntu-18-04/</a></p>
+<p>​    debian: </p>
+<p>​        <a target="_blank" rel="noopener" href="https://github.com/jxzy199306/ipv6_dhclient_online_net">https://github.com/jxzy199306/ipv6_dhclient_online_net</a></p>
+<h3 id="服务器运行状态："><a href="#服务器运行状态：" class="headerlink" title="服务器运行状态："></a>服务器运行状态：</h3><p>综合状态判断：常见指令有atop、htop指令，但是如果需求不是很高而且想要一个好看的图形界面可以使用gotop具体可以参考我的<a href="https://yukino.nl/2019/07/19/Gotop/">博文</a></p>
+<p>硬盘状态判断：<code>iostat -dxm 1</code> 如果是安装了星大脚本的可以直接使用<code>ios</code> ，查看最右侧数值为0-100的数值，若较高说明硬盘负载较大</p>
+<h3 id="RSS"><a href="#RSS" class="headerlink" title="RSS"></a>RSS</h3><p>由于qbittorrent的webui没有RSS功能，因此RSS要实现的话需要依赖其他软件，例如flexget、rutorrent的RSS功能，<a target="_blank" rel="noopener" href="https://github.com/capric98/GoRSS">GORSS</a>等其他软件实现。</p>
+<p>flexget可以由星大脚本（推荐）安装，或是手动安装。</p>
+<p>手动安装：参考<a target="_blank" rel="noopener" href="https://linkthis.me/2018/02/15/the-note-of-using-flexget/">https://linkthis.me/2018/02/15/the-note-of-using-flexget/</a></p>
+<p>配置文件个人认为星大的配置方法比较容易懂好上手</p>
+<p>Link: <a target="_blank" rel="noopener" href="https://github.com/Aniverse/WiKi/blob/master/Flexget.md">https://github.com/Aniverse/WiKi/blob/master/Flexget.md</a></p>
+<p>其中deluge和qbittorrent的限速配置不同，均为限制单种上传10000kb/s 下载30000kb/s</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">qbittorrent:</span></span><br><span class="line">  <span class="attr">maxdownspeed:</span> <span class="number">30000</span></span><br><span class="line">  <span class="attr">maxupspeed:</span> <span class="number">10000</span></span><br><span class="line"><span class="attr">deluge:</span></span><br><span class="line">  <span class="attr">max_down_speed:</span> <span class="number">30000</span></span><br><span class="line">  <span class="attr">max_up_speed:</span> <span class="number">10000</span></span><br></pre></td></tr></table></figure>
+
+<p>至于flexget的定时运行个人推荐crontab方式，频率不宜过高，flexget每次execute会占用大量硬盘io，很容易出现种子骤然掉速情况。</p>
+<p>解决flexget的io占用有两个方式：</p>
+<p>1.开一台专门的机器负责flexget，配置不需要太高，普通vps或者你科学上网使用的机器即可。</p>
+<p>2.使用<a target="_blank" rel="noopener" href="https://github.com/capric98/GoRSS">GORSS</a> GORSS是由<a target="_blank" rel="noopener" href="https://capriccio.moe/">capriccio</a>开发的使用go编写的rss文件，支持push种子到qb和下载种子deluge的watch folder </p>
+<p>2019.10.02更新：</p>
+<p>考虑不少人对于这个修改还是不太熟悉，就大致描述一下，一台刚装好星大脚本的机器需要干什么。</p>
+<p>1.登录进flexget的webui地址</p>
+<p>星大脚本默认是 <code>your_ip:6566</code></p>
+<p>修改配置文件中的tasks部分</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Here are some guides</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># https://ymgblog.com/2018/04/30/396/</span></span><br><span class="line"><span class="comment"># https://npchk.info/linux-flexget-rss/</span></span><br><span class="line"><span class="comment"># https://linkthis.me/2018/02/15/the-note-of-using-flexget/</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># https://github.com/Aniverse/WiKi/blob/master/Flexget.md</span></span><br><span class="line"><span class="comment"># https://github.com/Aniverse/WiKi/blob/master/How.to.use.RSS.md#flexget-rss</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For more usages, check the offical site: https://flexget.com</span></span><br><span class="line"></span><br><span class="line"><span class="attr">templates:</span></span><br><span class="line">  <span class="attr">freespace:</span></span><br><span class="line">    <span class="attr">free_space:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi</span></span><br><span class="line">      <span class="attr">space:</span> <span class="number">10240</span></span><br><span class="line">  <span class="attr">qb:</span></span><br><span class="line">    <span class="attr">qbittorrent:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi/qbittorrent/download/</span> <span class="comment">#默认下载路径</span></span><br><span class="line">      <span class="attr">host:</span> <span class="string">localhost</span></span><br><span class="line">      <span class="attr">port:</span> <span class="number">2017</span></span><br><span class="line">      <span class="attr">username:</span> <span class="string">yezi</span></span><br><span class="line">      <span class="attr">password:</span> <span class="number">123456</span></span><br><span class="line">  <span class="attr">tr:</span></span><br><span class="line">    <span class="attr">transmission:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi/transmission/download/</span> <span class="comment">#默认下载路径</span></span><br><span class="line">      <span class="attr">host:</span> <span class="string">localhost</span></span><br><span class="line">      <span class="attr">port:</span> <span class="number">9099</span></span><br><span class="line">      <span class="attr">username:</span> <span class="string">yezi</span></span><br><span class="line">      <span class="attr">password:</span> <span class="number">123456</span></span><br><span class="line">  <span class="attr">de:</span></span><br><span class="line">    <span class="attr">deluge:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi/deluge/download/</span> <span class="comment">#默认下载路径</span></span><br><span class="line">      <span class="attr">host:</span> <span class="string">localhost</span></span><br><span class="line">      <span class="attr">port:</span> <span class="number">58846</span></span><br><span class="line">      <span class="attr">username:</span> <span class="string">yezi</span></span><br><span class="line">      <span class="attr">password:</span> <span class="number">123456</span></span><br><span class="line">  <span class="attr">size:</span></span><br><span class="line">    <span class="attr">content_size:</span></span><br><span class="line">      <span class="attr">min:</span> <span class="number">6000</span></span><br><span class="line">      <span class="attr">max:</span> <span class="number">666666</span></span><br><span class="line">      <span class="attr">strict:</span> <span class="literal">no</span></span><br><span class="line"><span class="attr">tasks:</span></span><br><span class="line">  <span class="attr">tjupt:</span></span><br><span class="line">    <span class="attr">rss:</span> <span class="string">your_link</span> <span class="comment">#你的rss_link</span></span><br><span class="line">    <span class="attr">template:</span> <span class="comment">#调用上面定义的qb模板</span></span><br><span class="line">     <span class="bullet">-</span> <span class="string">qb</span></span><br><span class="line">    <span class="attr">content_size:</span> <span class="comment">#300M-4000M体积过滤</span></span><br><span class="line">     <span class="bullet">-</span> <span class="attr">min:</span> <span class="number">300</span></span><br><span class="line">     <span class="bullet">-</span> <span class="attr">max:</span> <span class="number">4000</span></span><br><span class="line">    <span class="attr">qbittorrent:</span></span><br><span class="line">      <span class="attr">label:</span> <span class="string">tjupt</span> </span><br><span class="line">      <span class="attr">maxupspeed:</span> <span class="number">50000</span> <span class="comment">#kb/s</span></span><br><span class="line">    <span class="attr">accept_all:</span> <span class="literal">yes</span> <span class="comment">#接受所有种子</span></span><br><span class="line"><span class="attr">web_server:</span></span><br><span class="line">  <span class="attr">port:</span> <span class="number">6566</span></span><br><span class="line">  <span class="attr">web_ui:</span> <span class="literal">yes</span></span><br><span class="line"><span class="comment"># This is prepared for reverse proxy, do not uncomment it unless you know how it works</span></span><br><span class="line"><span class="comment"># base_url: /flexget</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># schedules is disabled by default, you need to enable it or use cron to RSS</span></span><br><span class="line"><span class="attr">schedules:</span> <span class="literal">no</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>上面的<code>templates:</code>是一些星大脚本自带的模板，一般是不需要进行修改的。</p>
+<p>这样改完以后，有可能会rss到一些旧种子，你可以在webui的execute菜单进行如下操作，标记掉旧种子</p>
+<p><img src="https://i.loli.net/2019/10/02/WuQn9vpJHsSNa6U.png" alt="QQ截图20191002155838.png"></p>
+<p>右侧勾选learn并且点击execute 就会进行第一次运行且标记掉旧种子</p>
+<p>2.开启定时运行</p>
+<p>假设你运行在了<font color=red>root</font>下，如果不是<font color=red>root</font>下</p>
+<p><code>sudo su -</code> 切换到root</p>
+<p>在ssh窗口输入 <code>crontab -e</code></p>
+<p>默认会有个提示，问你用哪个文本编辑器，直接回车，使用nano</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Edit this file to introduce tasks to be run by cron.</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Each task to run has to be defined through a single line</span></span><br><span class="line"><span class="comment"># indicating with different fields when the task will be run</span></span><br><span class="line"><span class="comment"># and what command to run for the task</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># To define the time you can provide concrete values for</span></span><br><span class="line"><span class="comment"># minute (m), hour (h), day of month (dom), month (mon),</span></span><br><span class="line"><span class="comment"># and day of week (dow) or use &#x27;*&#x27; in these fields (for &#x27;any&#x27;).#</span></span><br><span class="line"><span class="comment"># Notice that tasks will be started based on the cron&#x27;s system</span></span><br><span class="line"><span class="comment"># daemon&#x27;s notion of time and timezones.</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Output of the crontab jobs (including errors) is sent through</span></span><br><span class="line"><span class="comment"># email to the user the crontab file belongs to (unless redirected).</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For example, you can run a backup of all your user accounts</span></span><br><span class="line"><span class="comment"># at 5 a.m every week with:</span></span><br><span class="line"><span class="comment"># 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For more information see the manual pages of crontab(5) and cron(8)</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># m h  dom mon dow   command</span></span><br><span class="line">*/2 * * * * /usr/<span class="built_in">local</span>/bin/flexget --cron execute</span><br></pre></td></tr></table></figure>
+
+<p>最下或者其他任何地方加 上面代码块最后一行即可</p>
+<p>然后ctrl+x退出编辑，编辑器会提问是否保存，输入Y，回车就保存成功了，过2分钟在ssh里输入</p>
+<p><code>flexget status</code>查看flexget运行状态</p>
+<h3 id="Autodl-irssi："><a href="#Autodl-irssi：" class="headerlink" title="Autodl-irssi："></a>Autodl-irssi：</h3><p>这篇主要是给外站使用的，大部分使用在外站对应的wiki中均有，就不多谈了，配置较为简单，直接在rutorrent的webui中就可以配置，部分站点需要先去irc注册一下你的bot的nick，具体请参考具体站点的WiKi等。</p>
+<h3 id="文件传输："><a href="#文件传输：" class="headerlink" title="文件传输："></a>文件传输：</h3><p>星大脚本在安装rt的同时会安装h5ai，h5ai可以用于拖回单文件的情况，使用idm加大进程数可以有效提升拖回速度。</p>
+<p>如果是多文件，可以采用sftp的方式拖回，但是sftp对单一文件只会使用单线程，传输较慢。</p>
+<p>如果要传输文件至盒子上，也可以使用sftp</p>
+<p>当然可以使用网盘（onedrive或者google drive进行中转）具体实现可以google rclone</p>
+<p>例如：</p>
+<p><img src="https://i.loli.net/2019/08/10/rRdft2WkmuXH937.jpg" alt="photo_2019-08-10_13-05-44.jpg"></p>
+<h3 id="优化："><a href="#优化：" class="headerlink" title="优化："></a>优化：</h3><p>我也不会，不要问我。</p>
+<h3 id="自动移除种子及其数据："><a href="#自动移除种子及其数据：" class="headerlink" title="自动移除种子及其数据："></a>自动移除种子及其数据：</h3><p>我很懒，我不想手动删种，我想要程序自动删除某些符合条件的种子。</p>
+<p>对于qbittorrent来说只能使用<a target="_blank" rel="noopener" href="https://github.com/jerrymakesjelly/autoremove-torrents">autoremove-torrents</a> </p>
+<p>对于deluge来说方案有两种，推荐前者，稳定且不易崩溃，后者崩溃概率较大</p>
+<p>​    1.使用<a target="_blank" rel="noopener" href="https://github.com/jerrymakesjelly/autoremove-torrents">autoremove-torrents</a> </p>
+<p>​    2.使用<a target="_blank" rel="noopener" href="https://github.com/omaralvarez/deluge-autoremoveplus">autoremoveplus</a></p>
+<p>前者的使用文档十分详细，且有中文，本文不复读了</p>
+<p>后者的话是deluge的一个插件，星大脚本默认是安装了但是没启用，可以在deluge的webui 设置里勾选此插件，配置还是比较丰富的。</p>
+<p><img src="https://i.loli.net/2019/08/10/7Kctoex3aIR1QfM.png" alt="Snipaste_2019-08-10_13-12-50.png"></p>
+<p>我解释一下上图的配置文件，</p>
+<p>check every： 每T天检查一次 0.0416为大约一小时</p>
+<p>Max.Torrents: 当deluge有N个种子时进行check ，0为无视当前有多少个种</p>
+<p>Min.HDD Space：当硬盘剩下M GB 进行check，-1为无视当前有多少空间。</p>
+<p>所以结合起来就是，每T天进行一次检查，当且仅当有N个种，硬盘剩下M GB时进行后面对每个种子进行条件判断</p>
+<p>条件可以有2条进行组合，比如图上就是移除已做种0.042天的种子。</p>
+<p>examption rules指的是部分类型的种子可以豁免删除 </p>
+<p>exampted torrents count toward maximun指的是豁免种是否统计在 max torrents里</p>
+<p>remove torrents指的是是否移除种子</p>
+<p>remove torrent data指的是是否移除种子下载的数据。</p>
+<p>结合起来我的示例图是 当硬盘空间小于150G时每小时检查一次并且删除做种时间超过一小时的种及其数据。</p>
+<h3 id="如何制种："><a href="#如何制种：" class="headerlink" title="如何制种："></a>如何制种：</h3><p>本人使用盒子制种较少，但是可以依赖星大脚本里的 <code>zuozhong</code> 命令制种，获取视频的mediainfo以及截图可以使用<code>jietu</code>命令，具体可以参考星大写的readme</p>
+<h3 id="如何管理客户端（重启等）"><a href="#如何管理客户端（重启等）" class="headerlink" title="如何管理客户端（重启等）"></a>如何管理客户端（重启等）</h3><p>使用星大脚本安装且勾选了system tweaks的可以使用<code>mingling</code>指令调出脚本菜单，根据菜单指引进行重启或者监视客户端</p>
+<h3 id="共享盒子想装别的软件："><a href="#共享盒子想装别的软件：" class="headerlink" title="共享盒子想装别的软件："></a>共享盒子想装别的软件：</h3><p>可以使用星大写的脚本(星大牛逼) <a target="_blank" rel="noopener" href="https://github.com/Aniverse/iFeral">https://github.com/Aniverse/iFeral</a></p>
+<h3 id="ARM盒子如何配置："><a href="#ARM盒子如何配置：" class="headerlink" title="ARM盒子如何配置："></a>ARM盒子如何配置：</h3><p>配置较低，建议使用tr或者rt，可以参考B大的<a target="_blank" rel="noopener" href="https://blog.mabors.com/archives/armstorage.html">安装指南</a></p>
+<h3 id="如何抓取免费种："><a href="#如何抓取免费种：" class="headerlink" title="如何抓取免费种："></a>如何抓取免费种：</h3><p><a target="_blank" rel="noopener" href="https://github.com/Alvinnfly/promotion">https://github.com/Alvinnfly/promotion</a></p>
+<p><a target="_blank" rel="noopener" href="https://github.com/Juszoe/flexget-nexusphp">https://github.com/Juszoe/flexget-nexusphp</a></p>
+<p>星大脚本plugin路径位置</p>
+<p><code>~/.config/flexget/plugins</code></p>
+<p>本人未使用过 也不知道怎么用 会不会被ban我也不知道</p>
+<h3 id="Hetzner-RAID0以及安装系统："><a href="#Hetzner-RAID0以及安装系统：" class="headerlink" title="Hetzner-RAID0以及安装系统："></a>Hetzner-RAID0以及安装系统：</h3><p><a target="_blank" rel="noopener" href="https://npchk.info/hetzner-raid0/">https://npchk.info/hetzner-raid0/</a></p>
+<h3 id="手动编译安装qbittorrent："><a href="#手动编译安装qbittorrent：" class="headerlink" title="手动编译安装qbittorrent："></a>手动编译安装qbittorrent：</h3><p><a target="_blank" rel="noopener" href="https://npchk.info/ubuntu-debian-install-qbittorrent/">https://npchk.info/ubuntu-debian-install-qbittorrent/</a></p>
+<h3 id="开启root用户远程登录："><a href="#开启root用户远程登录：" class="headerlink" title="开启root用户远程登录："></a>开启root用户远程登录：</h3><p>一键版：完成后不会有提示</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sed -i <span class="string">&#x27;/.*PermitRootLogin.*/d&#x27;</span> /etc/ssh/sshd_config ; <span class="built_in">echo</span> <span class="string">&#x27;PermitRootLogin yes&#x27;</span> &gt;&gt; /etc/ssh/sshd_config ; /etc/init.d/ssh restart</span><br></pre></td></tr></table></figure>
+
+<p>手动版</p>
+<p><code>sudo nano /etc/ssh/sshd_config</code></p>
+<p>找到<code>PermitRootLogin </code> 将其值修改为yes </p>
+<p>按ctrl+X保存并关闭文件，按Y确认保存文件，按ENTER退出nano。</p>
+<p>重启sshd服务</p>
+<p><code>sudo systemctl restart ssh</code></p>
+<h3 id="一些杂物："><a href="#一些杂物：" class="headerlink" title="一些杂物："></a>一些杂物：</h3><p>简介生成工具：<a target="_blank" rel="noopener" href="https://github.com/BFDZ/PT-Gen">PT-GEN</a> &amp; <a target="_blank" rel="noopener" href="https://github.com/Rhilip/pt-gen-cfworker">PT-GEN-cfworker</a></p>
+<p>​    不想自己部署的话可以使用：<a target="_blank" rel="noopener" href="https://rhilip.github.io/PT-help/ptgen">https://rhilip.github.io/PT-help/ptgen</a></p>
+<p>​    或者我部署的<a target="_blank" rel="noopener" href="https://yezi.ga/">https://yezi.ga/</a></p>
+<p>​    注意一些站点要求图片不能使用豆瓣，请自行上传至网站服务器或者图床</p>
+<p>​    R酱的PT-GEN收录文章：<a target="_blank" rel="noopener" href="https://blog.rhilip.info/archives/1063/">https://blog.rhilip.info/archives/1063/</a></p>
+<p>常用图床：</p>
+<p><a target="_blank" rel="noopener" href="http://www.imagebam.com/">http://imagebam.com</a> 支持纯porn图片 自动生成缩略图</p>
+<p><a target="_blank" rel="noopener" href="https://imgbox.com/">https://imgbox.com/</a> </p>
+<p><a target="_blank" rel="noopener" href="https://pixhost.to/">https://pixhost.to/</a> 支持porn</p>
+<h1 id="To-be-continued······"><a href="#To-be-continued······" class="headerlink" title="To be continued······"></a>To be continued······</h1><p>已知要写的：</p>
+<p><del>1.找人代购盒子或者自己购买需要注意的地方</del> 好像也没啥能写的</p>
+<p><del>2.关于vps的一些tips</del>   不想写了</p>
+<p>3.一些影视有关基础科普 太难了</p>
+<p>4.重新优化结构 咕咕咕</p>
+<p>5.一键上传至部分图床的脚本 </p>
+<p>不知道还能写点什么，回头看了看自己写了啥，感觉都在解释一些常见用法，如果有什么想问的可以在评论区留言，记得填一个能联系到你的邮箱，这样如果其他人有回复了会有邮件提醒。</p>
+<p>如果有错误部分请大力指出，</p>
+<p>感谢观看 &amp; Thanks for everyone </p>
+<p>本文发布于我的<a href="https://yukino.nl/2019/08/10/pt-tools/">blog</a>，后续更新等均在blog里，转载请注明出处。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/Linux/" rel="tag"># Linux</a>
+              <a href="/tags/Bash/" rel="tag"># Bash</a>
+              <a href="/tags/Tools/" rel="tag"># Tools</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wp_rating">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2019/07/19/Gotop/" rel="prev" title="Gotop">
+      <i class="fa fa-chevron-left"></i> Gotop
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2019/09/12/backup-your-cookie/" rel="next" title="备份你的cookie">
+      备份你的cookie <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+  </div>
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let activeClass = CONFIG.comments.activeClass;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-number">1.</span> <span class="nav-text">前言</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9B%92%E5%AD%90%E7%AF%87"><span class="nav-number">2.</span> <span class="nav-text">盒子篇</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%9B%92%E5%AD%90%EF%BC%88seedbox%EF%BC%89%E6%98%AF%E4%BB%80%E4%B9%88"><span class="nav-number">2.1.</span> <span class="nav-text">盒子（seedbox）是什么</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%9B%92%E5%AD%90%E7%9A%84%E9%80%89%E8%B4%AD%EF%BC%9A"><span class="nav-number">2.2.</span> <span class="nav-text">盒子的选购：</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%9B%92%E5%AD%90%E7%9A%84%E9%80%89%E6%8B%A9%EF%BC%9A"><span class="nav-number">2.2.1.</span> <span class="nav-text">盒子的选择：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%9B%92%E5%AD%90%E7%9A%84%E8%B4%AD%E4%B9%B0%EF%BC%9A"><span class="nav-number">2.2.2.</span> <span class="nav-text">盒子的购买：</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%9B%92%E5%AD%90%E7%9A%84%E5%AE%89%E8%A3%85%EF%BC%9A"><span class="nav-number">2.3.</span> <span class="nav-text">盒子的安装：</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%B1%E4%BA%AB%E7%9B%92%E5%AD%90RSS%EF%BC%9A"><span class="nav-number">2.3.1.</span> <span class="nav-text">共享盒子RSS：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#seedhost-deluge%E5%88%B7%E6%96%B0tracker%E8%84%9A%E6%9C%AC"><span class="nav-number">2.3.2.</span> <span class="nav-text">seedhost deluge刷新tracker脚本</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BF%9E%E6%8E%A5%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9A"><span class="nav-number">2.3.3.</span> <span class="nav-text">连接服务器：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%99%90%E5%88%B6%E5%90%8C%E6%97%B6%E8%BF%9B%E8%A1%8C%E4%B8%8B%E8%BD%BD%E7%9A%84%E4%BB%BB%E5%8A%A1%E6%95%B0%EF%BC%9A"><span class="nav-number">2.3.4.</span> <span class="nav-text">限制同时进行下载的任务数：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%EF%BC%9A"><span class="nav-number">2.3.5.</span> <span class="nav-text">软件安装：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#ipv6%EF%BC%9A"><span class="nav-number">2.3.6.</span> <span class="nav-text">ipv6：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81%EF%BC%9A"><span class="nav-number">2.3.7.</span> <span class="nav-text">服务器运行状态：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#RSS"><span class="nav-number">2.3.8.</span> <span class="nav-text">RSS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Autodl-irssi%EF%BC%9A"><span class="nav-number">2.3.9.</span> <span class="nav-text">Autodl-irssi：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%EF%BC%9A"><span class="nav-number">2.3.10.</span> <span class="nav-text">文件传输：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BC%98%E5%8C%96%EF%BC%9A"><span class="nav-number">2.3.11.</span> <span class="nav-text">优化：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%87%AA%E5%8A%A8%E7%A7%BB%E9%99%A4%E7%A7%8D%E5%AD%90%E5%8F%8A%E5%85%B6%E6%95%B0%E6%8D%AE%EF%BC%9A"><span class="nav-number">2.3.12.</span> <span class="nav-text">自动移除种子及其数据：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A6%82%E4%BD%95%E5%88%B6%E7%A7%8D%EF%BC%9A"><span class="nav-number">2.3.13.</span> <span class="nav-text">如何制种：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%88%E9%87%8D%E5%90%AF%E7%AD%89%EF%BC%89"><span class="nav-number">2.3.14.</span> <span class="nav-text">如何管理客户端（重启等）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%B1%E4%BA%AB%E7%9B%92%E5%AD%90%E6%83%B3%E8%A3%85%E5%88%AB%E7%9A%84%E8%BD%AF%E4%BB%B6%EF%BC%9A"><span class="nav-number">2.3.15.</span> <span class="nav-text">共享盒子想装别的软件：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#ARM%E7%9B%92%E5%AD%90%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%EF%BC%9A"><span class="nav-number">2.3.16.</span> <span class="nav-text">ARM盒子如何配置：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A6%82%E4%BD%95%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9%E7%A7%8D%EF%BC%9A"><span class="nav-number">2.3.17.</span> <span class="nav-text">如何抓取免费种：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Hetzner-RAID0%E4%BB%A5%E5%8F%8A%E5%AE%89%E8%A3%85%E7%B3%BB%E7%BB%9F%EF%BC%9A"><span class="nav-number">2.3.18.</span> <span class="nav-text">Hetzner-RAID0以及安装系统：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%89%8B%E5%8A%A8%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85qbittorrent%EF%BC%9A"><span class="nav-number">2.3.19.</span> <span class="nav-text">手动编译安装qbittorrent：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BC%80%E5%90%AFroot%E7%94%A8%E6%88%B7%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95%EF%BC%9A"><span class="nav-number">2.3.20.</span> <span class="nav-text">开启root用户远程登录：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%80%E4%BA%9B%E6%9D%82%E7%89%A9%EF%BC%9A"><span class="nav-number">2.3.21.</span> <span class="nav-text">一些杂物：</span></a></li></ol></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#To-be-continued%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7"><span class="nav-number">3.</span> <span class="nav-text">To be continued······</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="YeZi"
+      src="/images/Yezi-Icon.jpg">
+  <p class="site-author-name" itemprop="name">YeZi</p>
+  <div class="site-description" itemprop="description">None</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">31</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">21</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/yezi1000" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;yezi1000" rel="noopener" target="_blank"><i class="fa fa-fw fa-github"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:yukinoyezi@gmail.com" title="E-Mail → mailto:yukinoyezi@gmail.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="/atom.xml" title="RSS → &#x2F;atom.xml"><i class="fa fa-fw fa-rss"></i>RSS</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title">
+      <i class="fa fa-fw fa-link"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://shura.eu.org/" title="https:&#x2F;&#x2F;shura.eu.org&#x2F;" rel="noopener" target="_blank">Shura</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://jocket.top/" title="https:&#x2F;&#x2F;jocket.top&#x2F;" rel="noopener" target="_blank">知津</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://capriccio.moe/" title="https:&#x2F;&#x2F;capriccio.moe&#x2F;" rel="noopener" target="_blank">包包</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.vhaey.com/" title="https:&#x2F;&#x2F;www.vhaey.com&#x2F;" rel="noopener" target="_blank">季风</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.issacc.top/" title="https:&#x2F;&#x2F;www.issacc.top&#x2F;" rel="noopener" target="_blank">issacc</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://greedbob.github.io/" title="https:&#x2F;&#x2F;greedbob.github.io&#x2F;" rel="noopener" target="_blank">Greedbob</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://lss.moe/" title="https:&#x2F;&#x2F;lss.moe&#x2F;" rel="noopener" target="_blank">clover</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://limee.dev/" title="https:&#x2F;&#x2F;limee.dev&#x2F;" rel="noopener" target="_blank">威廉</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://breakertt.moe/" title="https:&#x2F;&#x2F;breakertt.moe&#x2F;" rel="noopener" target="_blank">断总</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://hanamura.cc/" title="https:&#x2F;&#x2F;hanamura.cc&#x2F;" rel="noopener" target="_blank">花村</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://huanghaozi.cn/" title="https:&#x2F;&#x2F;huanghaozi.cn&#x2F;" rel="noopener" target="_blank">HHz的编程日记</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://zexwoo.blog/" title="https:&#x2F;&#x2F;zexwoo.blog" rel="noopener" target="_blank">ZexWoo</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">YeZi</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-area-chart"></i>
+    </span>
+      <span class="post-meta-item-text">站点总字数：</span>
+    <span title="站点总字数">49k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
+    <span title="站点阅读时长">1:29</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动 v5.4.0
+  </div>
+  <span class="post-meta-divider">|</span>
+  <div class="theme-info">主题 – <a href="https://pisces.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Pisces</a> v7.6.0
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+  <script>
+  if (CONFIG.page.isPost) {
+    wpac_init = window.wpac_init || [];
+    wpac_init.push({
+      widget: 'Rating',
+      id: ,
+      el: 'wpac-rating',
+      color: 'fc6423'
+    });
+    (function() {
+      if ('WIDGETPACK_LOADED' in window) return;
+      WIDGETPACK_LOADED = true;
+      var mc = document.createElement('script');
+      mc.type = 'text/javascript';
+      mc.async = true;
+      mc.src = '//embed.widgetpack.com/widget.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+    })();
+  }
+  </script>
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+  <script src="//cdn.jsdelivr.net/npm/quicklink@1/dist/quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink({
+        timeout: 3000,
+        priority: true,
+        ignores: [uri => uri.includes('#'),uri => uri == 'https://yukino.nl/2019/08/10/pt-tools/',]
+      });
+      });
+  </script>
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el: '#valine-comments',
+      verify: true,
+      notify: false,
+      appId: '61WthKY33a67N2OqUck3gpBC-gzGzoHsz',
+      appKey: 'pzFMQwkTHCUpmhVxsKk2RkuL',
+      placeholder: "Just go go",
+      avatar: 'retro',
+      meta: guest,
+      pageSize: '10' || 10,
+      visitor: true,
+      lang: 'zh-cn' || 'zh-cn',
+      path: location.pathname,
+      recordIP: true,
+      serverURLs: ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

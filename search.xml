@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2022_leaf_summary</title>
+    <url>/2023/12/11/2022-leaf-summary/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>2021其实就半年时间了，上篇不更咯（咕咕咕</p>
+<p>2022其实也..一成不变？ 变化的也许只有体重和身边的人。</p>
+<p>2023的等元旦更新吧，万一有什么变数呢，flag先立起来咯</p>
+<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>铁打的开发，流水的产品，算了下比例确实还是差不多，合作的产品又换了一轮。已经有点麻木了，仿佛也习惯了。甚至有点触动，在设想没有我的时候会是啥样，但是应该是没什么区别的，毕竟大家都是可替代的，总会有人顶上。</p>
+<p>流向上，好多人跳槽去了上海，至于公司，或许有几个是字节，但是处于竞业，对于不太熟的同事大家也不会说太多。</p>
+<p>比较特殊的应该就是一个产培，因为一年之期到了，必须在tx内转岗，不过也是去继续坐商业化，进行她的搞钱行业。</p>
+<p>but…今年也有去读书的，本科毕业打了一年工，然后又去申请了个Master继续读，也许这就是追梦？</p>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>今年的生活就是典型后疫情时代啦，戴口罩、每天做核酸、甚至快递也喷酒精，深圳这边的政策变化还是比较快的，核酸有效期变化实在是快…</p>
+<p>不过聚餐什么的，其实并没有太受到影响，团建、约饭啥的是一顿不漏，该吃的都吃了，体重也该涨的涨了（</p>
+<p>另外疫情影响下，好像也没怎么关注那年的经济走向，从23年回头看的话，应该22年就有趋势了，但是却完全没有印象…</p>
+<p>btw，上班以后剁手好像有点管不住… </p>
+<p>今年把1080p 240hz换成了卓威的2566k，体验了下顶级外设的显示器功力，zowie配的Control panel确实很好用，比显示器上的支架要方便太多了。</p>
+<p>Nas也逐渐插满了，4 * 12 + 4 * 14，混合批次组了raid 1。</p>
+<p>不过需要吐槽的就是FreeBsd还是挺难用的…Nas选的TrueNas，还是有蛮多应用跑不了或者设置起来比较逆天，比如定期重启某个jails这个指令只work了几次.</p>
+<p>然而TrueNas core 并不能无损迁移scale，考虑到配置又作罢了。</p>
+<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>CRUD Boy，工作内容平平无奇，</p>
+<p>做的大部分事情是在框架上加个字段之类的，但是也可以尝试用更common的方式去解决，总结下一些方法论，可以给之后的自己或者同事用。</p>
+<p>也恰好倒霉赶上了腾讯职级晋升一年一次，升9又晚了半年…</p>
+<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>今年还是继续在沉迷Apex，被人戏称为Apex仙人，上线就在A。</p>
+<p>单机游戏实在是有点提不起劲，可能还是上班以后追求更多刺激感…而这些确实fps能带来更多</p>
+<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
+<li>还是减肥，sad</li>
+<li>脱单？</li>
+</ol>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021_summary</title>
+    <url>/2022/01/03/2021-summary/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>不知不觉又到了该写流水账的时候，但是其实今年几乎没有什么能写的</p>
+<p>未完成 Zzz</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>One_Month_After_Work</title>
+    <url>/2020/08/20/After-Work/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="入职有感"><a href="#入职有感" class="headerlink" title="#入职有感"></a>#入职有感</h1><h2 id="不是太快乐的摸鱼"><a href="#不是太快乐的摸鱼" class="headerlink" title="不是太快乐的摸鱼"></a>不是太快乐的摸鱼</h2><p>入职 没多久就要外出封培，前两周没有什么需求分配到我这，部门的主力语言也是cpp，cpp大型项目的阅读难度令人窒息，更何况我并没有怎么接触过大型项目的开发。<br>而且mentor和leader也不是太push，虽然工位安排的非常..裂开，网吧卡座，左手边就是我部门技术总监，每次光明正大的摸鱼(看相亲帖)都被看到…感觉每次路过我都是处于放下手机or关闭一个页面的状态，总感觉哪天我就被勒令辞职 or N+1了？<br>目前我对于工程、环境的知识仍然不充足，但是由于目前需求较少，仍然有比较多的自由时间，可以看点书。<br>然而mentor和leader不够push，对我来说可能是另一种的鞭笞，在一个全新环境里失去了奋斗的目标。无论是周末还是上班时间都很迷惘，很多情况下自己看的书究竟能不能派上用场成为摆在桌子上的一个问题。当然考虑到客观原因就是7.26封培，导致很多活是没法派给我的，然而不得不说的是文档真的是做得有点差，很多东西都靠口口相传，只能一点点按照mentor布置的东西看下去。</p>
+<h2 id="封培-用学生的方式告别学生时代"><a href="#封培-用学生的方式告别学生时代" class="headerlink" title="封培(用学生的方式告别学生时代)"></a>封培(用学生的方式告别学生时代)</h2><p>或许是这辈子玩的最疯的一次，也可能是仅次于相亲的纯粹目的活动，所有人都是抱着破冰、认识人的目的，尽管每个人的结果各不相同，但看起来都是好的。<br>封培一个班有大约50人 分为了6组，一个班级的人数有点大了，组内人数还算比较ok。从结果来说，实际上在封培过程中大多还是和同组的人交流，很难做到认识班上其他组的人，算是美中不足。<br>过程中到底有什么与什么，无非就是白天上课、晚上社(da)交(pai)，算是把工作上很大的一块社交漏洞给补上了，本身大学就没几个过来的，周末不认识人的情况下只能在家躺尸。<br>虽然并不能知道最后组里的人还能快乐多久，希望能溺死在快乐中。</p>
+<h2 id="一点总结"><a href="#一点总结" class="headerlink" title="一点总结"></a>一点总结</h2><p>目前的业务压力让我很难在目前的格局上有所突破，对于新环境的熟悉速度和当前代码能力、分析能力的提高速度在我看来也是比较缓慢的，甚至非常担心自己是否能度过试用期以及第一次绩效会不会喜提两星。<br>另外在过程中，或多或少感受到了以前没感受到的割裂，毕竟同事并不一定是同龄人，很多情况下大家并不一定有很多的共同话题。再等一段时间，曾经的同学们也走上了工作的轨道，连LOL或许都找不到人了，一个人游戏到底能减轻多少孤独是一个问号，回忆玩得最开心的时候似乎也仅仅是和特定的人会有快乐。</p>
+<p>当一个人把胜负欲看的太重，确实会丢失很多东西，总感觉被kaki or yuki 吐槽类似内容（实际上结果都是胜负欲摆弄着一切）了很多很多次了</p>
+<p>小目标，减肥+佛系哈哈哈哈哈</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CompareVersionNumbers</title>
+    <url>/2018/11/25/CompareVersionNumbers/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>大模拟吧…细节蛮多的(这个题我发现全是踩所以写一篇…)</p>
+<p>我是将字符串分割读入vector中 然后去掉vector中的末尾0</p>
+<p>按照比较字典序大小的方法逐个比较vector中的元素</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">vector&lt;<span class="keyword">int</span>&gt; <span class="title">div</span><span class="params">(string s)</span></span>&#123;</span><br><span class="line">        <span class="keyword">int</span> ss=s.<span class="built_in">size</span>();</span><br><span class="line">        vector&lt;<span class="keyword">int</span>&gt;ans;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;ss;)&#123;</span><br><span class="line">            <span class="keyword">if</span>(<span class="built_in">isdigit</span>(s[i]))&#123;</span><br><span class="line">                <span class="keyword">int</span> cnt=<span class="number">0</span>;</span><br><span class="line">                <span class="keyword">while</span>(<span class="built_in">isdigit</span>(s[i]))&#123;</span><br><span class="line">                    cnt=cnt*<span class="number">10</span>+s[i]-<span class="string">&#x27;0&#x27;</span>;</span><br><span class="line">                    i++;</span><br><span class="line">                &#125;</span><br><span class="line">                <span class="keyword">if</span>(cnt!=<span class="number">0</span>)ans.<span class="built_in">push_back</span>(cnt);</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span> i++;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">compareVersion</span><span class="params">(string version1, string version2)</span> </span>&#123;</span><br><span class="line">        vector&lt;<span class="keyword">int</span>&gt;v1=<span class="built_in">div</span>(version1);</span><br><span class="line">        vector&lt;<span class="keyword">int</span>&gt;v2=<span class="built_in">div</span>(version2);</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;<span class="built_in">min</span>(v1.<span class="built_in">size</span>(),v2.<span class="built_in">size</span>());i++)&#123;</span><br><span class="line">            <span class="keyword">if</span>(v1[i]&gt;v2[i]) <span class="keyword">return</span> <span class="number">1</span>;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span>(v1[i]&lt;v2[i]) <span class="keyword">return</span> <span class="number">-1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span>(v1.<span class="built_in">size</span>()&gt;v2.<span class="built_in">size</span>()) <span class="keyword">return</span> <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">else</span> <span class="keyword">if</span>(v2.<span class="built_in">size</span>()&gt;v1.<span class="built_in">size</span>()) <span class="keyword">return</span> <span class="number">-1</span>;</span><br><span class="line">        <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Gotop</title>
+    <url>/2019/07/19/Gotop/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>最近折腾盒子还是比较多的，想要一个还算能看的图形面板看看实时上传下载</p>
+<p>也不想装各类监控软件(反正也不需要看历史数据)</p>
+<p>此文章只是做一个备份，方便我装盒子的时候复制粘贴</p>
+<p>Github：<a href="https://github.com/cjbassi/gotop">https://github.com/cjbassi/gotop</a></p>
+<h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> --depth 1 https://github.com/cjbassi/gotop /tmp/gotop</span><br><span class="line">/tmp/gotop/scripts/download.sh</span><br><span class="line">cp gotop /usr/<span class="built_in">local</span>/bin</span><br><span class="line">chmod +x /usr/<span class="built_in">local</span>/bin/gotop</span><br></pre></td></tr></table></figure>
+
+<h4 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h4><p><img src="https://i.loli.net/2019/07/19/5d3183bf560f658032.png"></p>
+<h4 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h4><p>项目显示不全：</p>
+<p>​    请尝试调大shell窗口分辨率</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CppWithVSCode</title>
+    <url>/2020/04/28/CppWithVSCode/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>大学已经到尾声了，由于之前喜欢用CodeBlocks然后建一个单文件的工程，而且我还不怎么使用CB自带的工具进行调试，感觉完全浪费了功能，再加上打算把自己写的BUG传到GitHub上，思考了一下决定用VSCode来配一个cpp的编辑器+运行环境。不过目前我只有拿这个写题目的需求，所以主要还是适用于*cpc及oier的需求。</p>
+<p>本文仅作记录用</p>
+<h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>其实有点久远了 有些步骤记不太清了。。。</p>
+<ol>
+<li><p>下载Visual Studio Code</p>
+</li>
+<li><p><a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></p>
+</li>
+<li><p>设置一下代理：</p>
+</li>
+<li><p>启用<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools">C/C++ extension for VS Code</a></p>
+</li>
+<li><p>下载[Mingw-w64](<a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains">https://sourceforge.net/projects/mingw-w64/files/Toolchains</a> targetting Win32/Personal Builds/mingw-builds/installer/mingw-w64-install.exe/download)</p>
+</li>
+<li><p>添加环境变量 or 安装<a href="https://llvm.org/">LLVM</a> 然后将Mingw-w64的内容复制到LLVM安装目录</p>
+</li>
+<li><p>打开cmd窗口测试一下 g++ –version </p>
+</li>
+<li><p>安装<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a></p>
+</li>
+<li><p>避免Code Runner默认编译指令导致exe散一地的情况，修改默认的编译指令为        <em>“cpp”: “cd $dir &amp;&amp; g++ $fileName -o ..\template\$fileNameWithoutExt &amp;&amp; ..\template\$fileNameWithoutExt”</em> 这样就可以把默认和cpp文件同目录的exe合并到上级目录的template文件夹了</p>
+</li>
+<li><p>使用clang-format创建的format格式，应该在<em>C:\Users{user}.vscode\extensions\ms-vscode.cpptools-0.27.0\LLVM\bin</em> 下会有个clang-format.exe 在当前路径下打开cmd 输入<em>clang-format –style=Google -dump-config &gt; .clang-format</em> 应该就可以获取一个.clang-format文件 丢到visual 对应的workshop根目录即可</p>
+</li>
+</ol>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>coding</category>
+      </categories>
+      <tags>
+        <tag>coding</tag>
+        <tag>tools</tag>
+        <tag>cpp</tag>
+        <tag>VScode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SPOJ-COT</title>
+    <url>/2018/08/07/SPOJ-COT/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>题意：要求查询(u,v)之间路径点权第K小</p>
+<p>考虑如何用加减法构造出只包含u-&gt;v路径点的权值线段树</p>
+<p>我们可以考虑以根作为前缀，建立从根至叶子结点的主席树。</p>
+<p>很容易知道(u,v)路径点的权值线段树==sum[u]+sum[v]-sum[ lca(u,v)]-sum[ fa[ lca(u,v) ] ];</p>
+<p>(<del>我不会告诉你我一开始眼瞎看成了边权第K小然后看这个式子怎么看都和别人的不一样</del>)</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">inline</span> <span class="keyword">int</span> <span class="title">read</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> x=<span class="number">0</span>,f=<span class="number">1</span>;<span class="keyword">char</span> ch = <span class="built_in">getchar</span>();</span><br><span class="line">    <span class="keyword">while</span>(<span class="string">&#x27;0&#x27;</span>&gt;ch||ch&gt;<span class="string">&#x27;9&#x27;</span>)&#123;<span class="keyword">if</span>(<span class="string">&#x27;-&#x27;</span>==ch)f=<span class="number">-1</span>;ch=<span class="built_in">getchar</span>();&#125;</span><br><span class="line">    <span class="keyword">while</span>(<span class="string">&#x27;0&#x27;</span>&lt;=ch&amp;&amp;ch&lt;=<span class="string">&#x27;9&#x27;</span>)&#123;x=(x&lt;&lt;<span class="number">3</span>)+(x&lt;&lt;<span class="number">1</span>)+ch-<span class="string">&#x27;0&#x27;</span>;ch=<span class="built_in">getchar</span>();&#125;</span><br><span class="line">    <span class="keyword">return</span> x*f;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> N=<span class="number">100000</span>+<span class="number">10</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">//head end</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> n,m,w[N],b[N];</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">node</span>&#123;</span></span><br><span class="line">    <span class="keyword">int</span> to,next;</span><br><span class="line">&#125;G[N&lt;&lt;<span class="number">1</span>];</span><br><span class="line"><span class="keyword">int</span> head[N],tot;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">// chairTree begin</span></span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> MN=<span class="number">100000</span>+<span class="number">10</span>;</span><br><span class="line"><span class="keyword">int</span> rt[MN],ls[MN*<span class="number">20</span>],rs[MN*<span class="number">20</span>],sum[MN*<span class="number">20</span>],chairtree,siz;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">build</span><span class="params">(<span class="keyword">int</span> &amp;rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r)</span></span>&#123;</span><br><span class="line">    rt=++chairtree;</span><br><span class="line">    sum[rt]=<span class="number">0</span>;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r)<span class="keyword">return</span> ;</span><br><span class="line">    <span class="keyword">int</span> m =((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="built_in">build</span>(ls[rt],l,m);</span><br><span class="line">    <span class="built_in">build</span>(rs[rt],m+<span class="number">1</span>,r);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">update</span><span class="params">(<span class="keyword">int</span>&amp; rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r,<span class="keyword">int</span> last,<span class="keyword">int</span> pos)</span></span>&#123;</span><br><span class="line">    rt=++chairtree;</span><br><span class="line">    ls[rt]=ls[last];</span><br><span class="line">    rs[rt]=rs[last];</span><br><span class="line">    sum[rt]=sum[last]+<span class="number">1</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;</span><br><span class="line">    <span class="keyword">int</span> m=((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="keyword">if</span>(pos&lt;=m) <span class="built_in">update</span>(ls[rt],l  ,m,ls[last],pos);</span><br><span class="line">    <span class="keyword">else</span>       <span class="built_in">update</span>(rs[rt],m+<span class="number">1</span>,r,rs[last],pos);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">query</span><span class="params">(<span class="keyword">int</span> rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r,<span class="keyword">int</span> last,<span class="keyword">int</span> lca,<span class="keyword">int</span> flca,<span class="keyword">int</span> k)</span></span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> l;</span><br><span class="line">    <span class="keyword">int</span> m=((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="keyword">int</span> cnt=sum[ls[rt]]+sum[ls[last]]-sum[ls[lca]]-sum[ls[flca]];</span><br><span class="line">    <span class="keyword">if</span>(k&lt;=cnt) <span class="built_in">query</span>(ls[rt],l  ,m,ls[last],ls[lca],ls[flca],k);</span><br><span class="line">    <span class="keyword">else</span>       <span class="built_in">query</span>(rs[rt],m+<span class="number">1</span>,r,rs[last],rs[lca],rs[flca],k-cnt);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs</span><span class="params">(<span class="keyword">int</span> rt,<span class="keyword">int</span> l,<span class="keyword">int</span> r)</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> m = ((r-l)&gt;&gt;<span class="number">1</span>)+l;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,sum[rt]);</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;<span class="built_in">printf</span>(<span class="string">&quot;( &quot;</span>);</span><br><span class="line">    <span class="built_in">dfs</span>(ls[rt],l,m);<span class="built_in">printf</span>(<span class="string">&quot;_%*d,&quot;</span>,<span class="number">2</span>,ls[rt]);</span><br><span class="line">    <span class="built_in">dfs</span>(rs[rt],m+<span class="number">1</span>,r);<span class="built_in">printf</span>(<span class="string">&quot;_%*d )&quot;</span>,<span class="number">2</span>,rs[rt]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//chairTree end</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">add</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> v)</span></span>&#123;</span><br><span class="line">    G[++tot].to=v,G[tot].next=head[u],head[u]=tot;</span><br><span class="line">    G[++tot].to=u,G[tot].next=head[v],head[v]=tot;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> dep[N],fa[N],sz[N],son[N];</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs1</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> f,<span class="keyword">int</span> d)</span></span>&#123;</span><br><span class="line">    dep[u]=d,fa[u]=f,sz[u]=<span class="number">1</span>,son[u]=<span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=head[u],to;i;i=G[i].next)&#123;</span><br><span class="line">        to=G[i].to;</span><br><span class="line">        <span class="keyword">if</span>(to==f)<span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">dfs1</span>(to,u,d+<span class="number">1</span>);</span><br><span class="line">        sz[u]+=sz[to];</span><br><span class="line">        <span class="keyword">if</span>(sz[son[u]]&lt;sz[to])son[u]=to;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> tree[N],top[N],pre[N],cnt;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">dfs2</span><span class="params">(<span class="keyword">int</span> u,<span class="keyword">int</span> tp)</span></span>&#123;</span><br><span class="line">    top[u]=tp,tree[u]=++cnt,pre[tree[u]]=u;</span><br><span class="line">    <span class="built_in">update</span>(rt[u],<span class="number">1</span>,siz,rt[fa[u]],w[u]);</span><br><span class="line">    <span class="keyword">if</span>(!son[u])<span class="keyword">return</span>;</span><br><span class="line">    <span class="built_in">dfs2</span>(son[u],tp);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=head[u],to;i;i=G[i].next)&#123;</span><br><span class="line">        to=G[i].to;</span><br><span class="line">        <span class="keyword">if</span>(to==fa[u]||to==son[u])<span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">dfs2</span>(to,to);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">Lca</span><span class="params">(<span class="keyword">int</span> x,<span class="keyword">int</span> y)</span></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> fx=top[x],fy=top[y];</span><br><span class="line">    <span class="keyword">while</span>(fx!=fy)&#123;</span><br><span class="line">        <span class="keyword">if</span>(dep[fx]&lt;dep[fy])<span class="built_in">swap</span>(x,y),<span class="built_in">swap</span>(fx,fy);</span><br><span class="line">        x=fa[fx],fx=top[x];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">if</span>(dep[x]&gt;dep[y])<span class="built_in">swap</span>(x,y);</span><br><span class="line">    <span class="keyword">return</span> x;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">ifndef</span> ONLINE_JUDGE</span></span><br><span class="line">    <span class="built_in">freopen</span>(<span class="string">&quot;D:\\GitHub\\ACM-ICPC\\other\\in.txt&quot;</span>,<span class="string">&quot;r&quot;</span>,stdin);</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line">    n=<span class="built_in">read</span>(),m=<span class="built_in">read</span>();</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++) w[i]=<span class="built_in">read</span>(),b[i]=w[i];</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt; n;i++) <span class="built_in">add</span>(<span class="built_in">read</span>(),<span class="built_in">read</span>());</span><br><span class="line">    fa[<span class="number">1</span>]=<span class="number">0</span>;</span><br><span class="line">    <span class="built_in">sort</span>(b+<span class="number">1</span>,b+n+<span class="number">1</span>);</span><br><span class="line">    siz = <span class="built_in">unique</span>(b+<span class="number">1</span>,b+n+<span class="number">1</span>)-(b+<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++) w[i]=<span class="built_in">lower_bound</span>(b+<span class="number">1</span>,b+siz+<span class="number">1</span>,w[i])-b;</span><br><span class="line">    <span class="built_in">build</span>(rt[<span class="number">0</span>],<span class="number">1</span>,siz);</span><br><span class="line">    <span class="comment">//dfs(rt[0],1,siz);</span></span><br><span class="line">    <span class="built_in">dfs1</span>(<span class="number">1</span>,<span class="number">0</span>,<span class="number">1</span>),<span class="built_in">dfs2</span>(<span class="number">1</span>,<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">while</span>(m--)&#123;</span><br><span class="line">        <span class="keyword">int</span> u,v,k;</span><br><span class="line">        u=<span class="built_in">read</span>(),v=<span class="built_in">read</span>(),k=<span class="built_in">read</span>();</span><br><span class="line">        <span class="keyword">int</span> lca=<span class="built_in">Lca</span>(u,v);</span><br><span class="line">        <span class="built_in">printf</span>(<span class="string">&quot;%d\n&quot;</span>,(b[<span class="built_in">query</span>(rt[u],<span class="number">1</span>,siz,rt[v],rt[lca],rt[fa[lca]],k)]));</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">ifndef</span> ONLINE_JUDGE</span></span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;My Time:%.3lfms\n&quot;</span>,(<span class="keyword">double</span>)<span class="built_in">clock</span>()/CLOCKS_PER_SEC);</span><br><span class="line">    <span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>数据结构、树</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Min_stack</title>
+    <url>/2018/12/22/Min-stack/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>还是比较简单的，但是这个跟我在宁夏坑队友的一个题一模一样，权当纪念吧</p>
+<p>题目：实现一个数据结构，这个数据结构需要实现栈的插入，栈的弹出，返回栈顶元素，返回栈内最小值四种操作。</p>
+<p>My Ans：用vector保存从栈底到栈顶的前缀Min，可以知道每次插入的时候需要在Vector中插入Min(input,Vector.back())；</p>
+<p>跑的不是很快…28ms beat 50.39%而已</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">MinStack</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="comment">/** initialize your data structure here. */</span></span><br><span class="line">    vector&lt;<span class="keyword">int</span>&gt;m;</span><br><span class="line">    stack&lt;<span class="keyword">int</span>&gt;st;</span><br><span class="line">    <span class="built_in">MinStack</span>() &#123;</span><br><span class="line">        m.<span class="built_in">clear</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">void</span> <span class="title">push</span><span class="params">(<span class="keyword">int</span> x)</span> </span>&#123;</span><br><span class="line">        st.<span class="built_in">push</span>(x);</span><br><span class="line">        <span class="keyword">if</span>(m.<span class="built_in">empty</span>()) m.<span class="built_in">push_back</span>(x);</span><br><span class="line">        <span class="keyword">else</span> m.<span class="built_in">push_back</span>(<span class="built_in">min</span>(m.<span class="built_in">back</span>(),x));</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">void</span> <span class="title">pop</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        m.<span class="built_in">pop_back</span>();</span><br><span class="line">        st.<span class="built_in">pop</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">top</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> st.<span class="built_in">top</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">getMin</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> m.<span class="built_in">back</span>();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>合理加速校园网</title>
+    <url>/2018/10/10/IPV6-FAST/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>垃圾校园网（划掉）</p>
+<p>4M IPV4出口限速 50M IPV6出口限制（局域网内不限速）</p>
+<p>PS:有很多高校有IPV6的PT，上面有肥肠多的资源，例如</p>
+<p>​    <a href="https://npupt.com/">https://npupt.com</a></p>
+<p>​    <a href="https://www.tjupt.org/">https://www.tjupt.org/</a></p>
+<p>除此之外 我们就可以用IPV6来加速一下日常应用（不包括QQ等小流量需求软件，其实就是主要面向各类gamer）</p>
+<p>首先确保你的设备有IPV6网络（直连网线使用客户端or拨号上网，路由器配置好了NAT6，至于路由器怎么配NAT6随便百度一下应该都有，有需要可以留言迟点会补）</p>
+<p>test-ipv6.com 达到9分以上</p>
+<p>访问谷歌和油管可以直接修改hosts达成，一般情况下比较快，但是受限于hosts的新旧程度</p>
+<p>某些不支持ipv6的应用（战网、steam、<del>origin</del>）可以租一台支持ipv6/v4的服务器，用服务器接受东西然后通过IPV6发送到你的电脑上就好了。</p>
+<p>2018.10.20 UPD：有神仙（还是学校管理人员在内网搭建了一个cache服务器之类的东西？总之设置dns为172.18.1.2和172.18.1.3 有些软件的下载会被定向到172.18.x.x的服务器然后就6m/s)</p>
+<p>所以这篇加速暂时可以放弃了。</p>
+<p>你可以在服务器和电脑上配置V2RAY或者SSR，然后利用proxifier 将某些应用强制走SSR通道即可。</p>
+<p>具体以后填坑（flag）</p>
+<p><strong>现在看了一下 由于origin使用的akamai的cdn有良好的IPV6特性，可以利用dogfight360大大的锁定origin cdn+akamai cdn ipv6 hosts达到5M/S的稳定下载。</strong></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>WeeklyContest14</title>
+    <url>/2019/04/28/WeeklyContest14/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>其实没做过LeetCode的 contest</p>
+<p>url: <a href="https://leetcode.com/contest/leetcode-weekly-contest-14">https://leetcode.com/contest/leetcode-weekly-contest-14</a> </p>
+<p>今天头疼就virtual一场结果脸比较好 抽到的题很简单….</p>
+<p>Score 3: </p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/number-complement">Number Complement</a> : 简单的把一个数二进制下0换成1 1换成0</p>
+<p>xjb写 由于人比较蠢不会用位运算就全算出来了</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findComplement</span><span class="params">(<span class="keyword">int</span> num)</span> </span>&#123;</span><br><span class="line">        vector&lt;<span class="keyword">int</span>&gt;q;</span><br><span class="line">        <span class="keyword">while</span>(num)&#123;</span><br><span class="line">            q.<span class="built_in">push_back</span>(num%<span class="number">2</span>);</span><br><span class="line">            num/=<span class="number">2</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> ss=q.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=ss<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[i]==<span class="number">1</span>) q[i]=<span class="number">0</span>;</span><br><span class="line">            <span class="keyword">else</span> q[i]=<span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> ans=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=ss<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            ans*=<span class="number">2</span>;</span><br><span class="line">            ans+=q[i];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>Score 6:</p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/magical-string">Magical String</a> ：一个魔法字符串仅由1和2组成，这个字符串是自生成的。</p>
+<p>魔法字符串：“1221121221221121122”</p>
+<p>分组后：1 22 11 2 1 22 1 22 11 2 11 22..</p>
+<p>每组中个数为：1 2 2 1 1 2 1 2 2 1 2 2</p>
+<p>你会发现以上三个都是同一个字符串（无视空格）</p>
+<p>N不超过100000</p>
+<p>XJB模拟一瞎就好了…详情见代码</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">magicalString</span><span class="params">(<span class="keyword">int</span> n)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (n == <span class="number">0</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (n &gt;= <span class="number">1</span> &amp;&amp; n &lt;= <span class="number">3</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> count = <span class="number">1</span>, num = <span class="number">1</span>, head = <span class="number">2</span>, tail = <span class="number">3</span>;</span><br><span class="line">        <span class="keyword">int</span>* arr = <span class="keyword">new</span> <span class="keyword">int</span>[n + <span class="number">1</span>];</span><br><span class="line">        arr[<span class="number">0</span>] = <span class="number">1</span>;</span><br><span class="line">        arr[<span class="number">1</span>] = arr[<span class="number">2</span>] = <span class="number">2</span>;</span><br><span class="line">        <span class="keyword">while</span> (tail &lt; n) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; arr[head]; i++) &#123;</span><br><span class="line">                arr[tail] = num;</span><br><span class="line">                <span class="keyword">if</span> (tail &lt; n &amp;&amp; num == <span class="number">1</span>) &#123;</span><br><span class="line">                    count++;</span><br><span class="line">                &#125;</span><br><span class="line">                tail++;</span><br><span class="line">            &#125;</span><br><span class="line">            num = num ^ <span class="number">3</span>;</span><br><span class="line">            head++;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> count;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>Score 7:</p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/license-key-formatting">License Key Formatting</a> :</p>
+<p>给一个有大小写字母和’-‘的字符串 要你按照K个一组将他恢复成最开始的样子 最前的一组可以不满足K</p>
+<p>随便模拟一下</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">string <span class="title">licenseKeyFormatting</span><span class="params">(string S, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        string tmp;</span><br><span class="line">        <span class="keyword">int</span> ss=S.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;ss;i++)&#123;</span><br><span class="line">            <span class="keyword">if</span>(S[i]==<span class="string">&#x27;-&#x27;</span>) <span class="keyword">continue</span>;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span>(S[i]&gt;=<span class="string">&#x27;a&#x27;</span>&amp;&amp;S[i]&lt;=<span class="string">&#x27;z&#x27;</span>) tmp+=S[i]-<span class="string">&#x27;a&#x27;</span>+<span class="string">&#x27;A&#x27;</span>;</span><br><span class="line">            <span class="keyword">else</span> tmp+=S[i];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">int</span> st=tmp.<span class="built_in">size</span>();</span><br><span class="line">        string ans;</span><br><span class="line">        <span class="keyword">int</span> cnt=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=st<span class="number">-1</span>;i&gt;=<span class="number">0</span>;i--)&#123;</span><br><span class="line">            ans+=tmp[i];</span><br><span class="line">            cnt++;</span><br><span class="line">            <span class="keyword">if</span>(cnt==K&amp;&amp;i!=<span class="number">0</span>)&#123;</span><br><span class="line">                cnt=<span class="number">0</span>;</span><br><span class="line">                ans+=<span class="string">&#x27;-&#x27;</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="built_in">reverse</span>(ans.<span class="built_in">begin</span>(),ans.<span class="built_in">end</span>());</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>Score 9:</p>
+<p><a href="https://leetcode.com/contest/leetcode-weekly-contest-14/problems/sliding-window-median">Sliding Window Median</a> : 唯一一个难一点的题</p>
+<p>给一个数组，再给一个K长度的滑窗要，这个滑窗一点点向后移动，求滑窗内中位数。</p>
+<p>一开始想是平衡树，再看看感觉两个heap就够了，对于没用的数我们不一定要从heap里拿掉，可以标记一下。</p>
+<p>类似题：POJ 3784 Running Median </p>
+<p>详情见code</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">vector&lt;<span class="keyword">double</span>&gt; <span class="title">medianSlidingWindow</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; nums, <span class="keyword">int</span> k)</span> </span>&#123;</span><br><span class="line">        vector&lt;<span class="keyword">double</span>&gt; medians;</span><br><span class="line">        unordered_map&lt;<span class="keyword">int</span>, <span class="keyword">int</span>&gt; hash;                          </span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>, vector&lt;<span class="keyword">int</span>&gt;&gt; bheap;                </span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>, vector&lt;<span class="keyword">int</span>&gt;, greater&lt;<span class="keyword">int</span>&gt;&gt; theap;  </span><br><span class="line">        <span class="keyword">int</span> i = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">while</span> (i &lt; k)   bheap.<span class="built_in">push</span>(nums[i++]); </span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> count = k/<span class="number">2</span>; count &gt; <span class="number">0</span>; --count) theap.<span class="built_in">push</span>(bheap.<span class="built_in">top</span>()); bheap.<span class="built_in">pop</span>();</span><br><span class="line">        <span class="keyword">while</span> (<span class="literal">true</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (k % <span class="number">2</span>) medians.<span class="built_in">push_back</span>(bheap.<span class="built_in">top</span>());</span><br><span class="line">            <span class="keyword">else</span> medians.<span class="built_in">push_back</span>( ((<span class="keyword">double</span>)bheap.<span class="built_in">top</span>() + theap.<span class="built_in">top</span>()) / <span class="number">2</span> );</span><br><span class="line">            </span><br><span class="line">            <span class="keyword">if</span> (i == nums.<span class="built_in">size</span>()) <span class="keyword">break</span>;</span><br><span class="line">            <span class="keyword">int</span> m = nums[i-k], n = nums[i++], balance = <span class="number">0</span>;</span><br><span class="line">            <span class="keyword">if</span> (m &lt;= bheap.<span class="built_in">top</span>())  &#123; --balance;  <span class="keyword">if</span> (m == bheap.<span class="built_in">top</span>()) bheap.<span class="built_in">pop</span>(); <span class="keyword">else</span> ++hash[m]; &#125;</span><br><span class="line">            <span class="keyword">else</span>                   &#123; ++balance;  <span class="keyword">if</span> (m == theap.<span class="built_in">top</span>()) theap.<span class="built_in">pop</span>(); <span class="keyword">else</span> ++hash[m]; &#125;</span><br><span class="line">            <span class="keyword">if</span> (!bheap.<span class="built_in">empty</span>() &amp;&amp; n &lt;= bheap.<span class="built_in">top</span>())  &#123; ++balance; bheap.<span class="built_in">push</span>(n); &#125;</span><br><span class="line">            <span class="keyword">else</span>                                     &#123; --balance; theap.<span class="built_in">push</span>(n); &#125;</span><br><span class="line">            <span class="keyword">if</span>      (balance &lt; <span class="number">0</span>)  &#123; bheap.<span class="built_in">push</span>(theap.<span class="built_in">top</span>()); theap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">else</span> <span class="keyword">if</span> (balance &gt; <span class="number">0</span>)  &#123; theap.<span class="built_in">push</span>(bheap.<span class="built_in">top</span>()); bheap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">while</span> (!bheap.<span class="built_in">empty</span>() &amp;&amp; hash[bheap.<span class="built_in">top</span>()])  &#123; --hash[bheap.<span class="built_in">top</span>()]; bheap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">            <span class="keyword">while</span> (!theap.<span class="built_in">empty</span>() &amp;&amp; hash[theap.<span class="built_in">top</span>()])  &#123; --hash[theap.<span class="built_in">top</span>()]; theap.<span class="built_in">pop</span>(); &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> medians;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<p>总结：我好菜啊 WA了好多次….最后一题做的也好慢….我死了</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LeetCode.857.Minimum.Cost.to.Hire.K.Workers</title>
+    <url>/2019/04/18/Workers/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>LeetCode 857. Minimum Cost to Hire K Workers</p>
+<p>Desc：</p>
+<p>N个worker，每个worker有quality和wage，你需要雇佣K个worker，这K个worker之间的real wage比例和quality比例相同，且real wage不小于wage。<br>$$<br>1 \le K ,N \le 10000</p>
+<p>1\le quality,wage\le10000<br>$$<br>答案允许有10^-5的误差</p>
+<p>My_Ans:</p>
+<p>冷静分析，首先 worker之间严格按照比例发real wage 且<br>$$<br>real wage[i]\ge wage[i]<br>$$<br>定义<br>$$<br>ratio[i]=wage[i]/quality[i]<br>$$<br>假设已经选出了K个worker，那么这个standard worker就需要设置为ratio最大的那个worker</p>
+<p>否则会有worker的real wage&lt;wage。</p>
+<p>因此对于每个standard worker 我们需要找出k-1个ratio小于它的worker，而且K个worker的<br>$$<br>totalwage = ratio* \sum_{n=1}^K{quality}<br>$$<br>按照ratio对worker从小到大排序，枚举第i个worker作为standard worker</p>
+<p>所以第0~第i-1个worker均为满足ratio满足要求的，然后需要找出K-1个quality最小的即可</p>
+<p>考虑维护一个最多K个元素的单调队列 队首的worker的quality最大 队列中均满足ratio小于当前standard worker</p>
+<p>每次standard worker后移 将当前的standard worker的quality和队首quality进行比较，</p>
+<p>如果当前standard worker的quality小于队首quality 弹出队首 插入当前standard worker</p>
+<p>并且维护一个Sum记录当前queue里的quality之和</p>
+<p>不断更新最小值即可</p>
+<p>Code：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">double</span> <span class="title">mincostToHireWorkers</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; quality, vector&lt;<span class="keyword">int</span>&gt;&amp; wage, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">double</span> ans=<span class="number">0x3f3f3f3f</span>;</span><br><span class="line">        vector&lt;pair&lt;<span class="keyword">double</span>,<span class="keyword">int</span>&gt;&gt;rate;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;quality.<span class="built_in">size</span>();i++)</span><br><span class="line">            rate.<span class="built_in">push_back</span>(<span class="built_in">make_pair</span>(<span class="number">1.0</span>*wage[i]/quality[i],i));</span><br><span class="line">        <span class="built_in">sort</span>(rate.<span class="built_in">begin</span>(),rate.<span class="built_in">end</span>());</span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>&gt;que;</span><br><span class="line">        <span class="keyword">int</span> sum=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;rate.<span class="built_in">size</span>();i++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="keyword">if</span>(que.<span class="built_in">size</span>()&lt;K<span class="number">-1</span>)&#123;</span><br><span class="line">                que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                sum+=quality[rate[i].second];</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span>&#123;</span><br><span class="line">                ans=<span class="built_in">min</span>(ans,<span class="number">1.0</span>*rate[i].first*(sum+quality[rate[i].second]));</span><br><span class="line">                <span class="keyword">if</span>(!que.<span class="built_in">empty</span>()&amp;&amp;que.<span class="built_in">top</span>()&gt;quality[rate[i].second])&#123;</span><br><span class="line">                    <span class="keyword">int</span> tmp=que.<span class="built_in">top</span>();</span><br><span class="line">                    que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                    que.<span class="built_in">pop</span>();</span><br><span class="line">                    sum=sum-tmp+quality[rate[i].second];</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AWS-EC2-HK简单测试</title>
+    <url>/2019/09/24/aws-ec2-cernet/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于最近在找一些cernet直连的机器，虽然好像和我没啥关系了。。。</p>
+<p>不过还是试图总结一下吧，毕竟后来人也许有用呢2333</p>
+<p>随便测试一下备份一下路由情况，视情况会添加GCP等成本较低的vps。</p>
+<h3 id="去程测试："><a href="#去程测试：" class="headerlink" title="去程测试："></a>去程测试：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"> 1     8 ms     6 ms    &lt;1 毫秒 2001:250:7801:146::1</span><br><span class="line"> 2     *        4 ms     *     fc00:250:7801:146::102</span><br><span class="line"> 3    &lt;1 毫秒    1 ms     *     cernet2.net [2001:da8:ab:103::1]</span><br><span class="line"> 4    17 ms     4 ms    19 ms  2001:da8:2:119::1</span><br><span class="line"> 5     5 ms     4 ms     4 ms  2001:da8:2:2a::1</span><br><span class="line"> 6     9 ms     9 ms     9 ms  2001:da8:2:21::1</span><br><span class="line"> 7    26 ms    20 ms    19 ms  2001:da8:2:7::1</span><br><span class="line"> 8     *        *        *     请求超时。</span><br><span class="line"> 9    19 ms    19 ms    19 ms  cernet2.net [2001:252:0:100::2]</span><br><span class="line">10    57 ms     *        *     cernet2.net [2001:252:0:103::2]</span><br><span class="line">11    59 ms    60 ms    59 ms  amazon1-lacp-100g.hkix.net [2001:7fa:0:1::ca28:a1da]</span><br><span class="line">12     *        *        *     请求超时。</span><br><span class="line">13     *        *        *     请求超时。</span><br><span class="line">14     *        *        *     请求超时。</span><br><span class="line">15    65 ms    60 ms    61 ms  2400:6500:0:3::36</span><br><span class="line">16    64 ms    61 ms    61 ms  2400:6500:0:3::14</span><br><span class="line">17     *        *        *     请求超时。</span><br><span class="line">18     *        *        *     请求超时。</span><br><span class="line">19     *        *        *     请求超时。</span><br><span class="line">20    62 ms    62 ms    62 ms  </span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="回程测试："><a href="#回程测试：" class="headerlink" title="回程测试："></a>回程测试：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment">#======================================</span></span><br><span class="line"><span class="comment"># Project: testrace</span></span><br><span class="line"><span class="comment"># Version: 1.2</span></span><br><span class="line"><span class="comment"># Author: nanqinlang</span></span><br><span class="line"><span class="comment"># Blog:   https://sometimesnaive.org</span></span><br><span class="line"><span class="comment"># Github: https://github.com/nanqinlang</span></span><br><span class="line"><span class="comment">#======================================</span></span><br><span class="line"></span><br><span class="line">Reading package lists... Done</span><br><span class="line">Building dependency tree       </span><br><span class="line">Reading state information... Done</span><br><span class="line">mtr is already the newest version (0.92-1).</span><br><span class="line">traceroute is already the newest version (1:2.1.0-2).</span><br><span class="line">0 upgraded, 0 newly installed, 0 to remove and 61 not upgraded.</span><br><span class="line">[Info] 选择你要使用的功能: </span><br><span class="line">1.选择一个节点进行测试</span><br><span class="line">2.四网路由快速测试</span><br><span class="line">3.手动输入 ip 进行测试</span><br><span class="line">输入数字以选择:2</span><br><span class="line">[Info] 测试路由 到 上海电信(天翼云) 中 ...</span><br><span class="line">traceroute to 101.227.255.45 (101.227.255.45), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.0.97  0.33 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.46  1.26 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.13  1.68 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.23  1.10 ms  *  AMAZON.COM 骨干网 amazon.com</span><br><span class="line"> 8  prod05.x.hkg.fullmeshnetworks.com (203.131.247.229)  1.83 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-15.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.162)  48.24 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-11.r24.tkokhk01.hk.bb.gin.ntt.net (129.250.6.99)  2.22 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  ae-12.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.2.50)  44.81 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">12  ae-10.r27.tokyjp05.jp.bb.gin.ntt.net (129.250.2.156)  48.00 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">13  xe-3.chinanet.tokyjp05.jp.bb.gin.ntt.net (129.250.66.90)  148.83 ms  AS2914  中国 北京 ntt.com</span><br><span class="line">14  202.97.12.49  145.63 ms  AS4134  中国 北京 电信</span><br><span class="line">15  *</span><br><span class="line">16  101.95.120.81  155.61 ms  AS4812  中国 上海 电信</span><br><span class="line">17  *</span><br><span class="line">18  *</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  *</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 上海电信(天翼云) 完成 ！</span><br><span class="line">[Info] 测试路由 到 厦门电信CN2 中 ...</span><br><span class="line">traceroute to 117.28.254.129 (117.28.254.129), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.65  0.81 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.20  1.03 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  54.240.241.210  2.56 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  54.240.241.35  0.92 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  203.131.254.65  0.88 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-6.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.70)  1.87 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-1.a01.chwahk02.hk.bb.gin.ntt.net (129.250.5.161)  2.76 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  xe-0-0-21-2.a01.chwahk02.hk.ce.gin.ntt.net (203.131.241.70)  2.91 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">12  59.43.188.121  20.69 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">13  59.43.187.105  9.18 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">14  59.43.130.153  8.59 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">15  59.43.142.30  33.59 ms  AS4809  中国 电信</span><br><span class="line">16  27.159.81.246  67.90 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line">17  *</span><br><span class="line">18  117.25.141.110  67.39 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  117.28.254.129  27.48 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 厦门电信CN2 完成 ！</span><br><span class="line">[Info] 测试路由 到 浙江杭州联通 中 ...</span><br><span class="line">traceroute to 101.71.241.238 (101.71.241.238), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.161  8.40 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.42  7.27 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.83  3.97 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.101  1.07 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  *</span><br><span class="line"> 9  ae-14.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.178)  49.67 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-11.r24.tkokhk01.hk.bb.gin.ntt.net (129.250.6.99)  3.75 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  ae-12.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.2.50)  49.25 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">12  ae-10.r27.tokyjp05.jp.bb.gin.ntt.net (129.250.2.156)  52.43 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">13  xe-0.cnc-g.tokyjp05.jp.bb.gin.ntt.net (129.250.8.38)  139.29 ms  AS2914  中国 上海 ntt.com</span><br><span class="line">14  219.158.19.90  139.00 ms  AS4837  中国 上海 联通</span><br><span class="line">15  219.158.19.81  142.27 ms  AS4837  中国 上海 联通</span><br><span class="line">16  219.158.115.146  139.26 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line">17  *</span><br><span class="line">18  101.69.245.158  137.00 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line">19  101.71.241.238  142.36 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 浙江杭州联通 完成 ！</span><br><span class="line">[Info] 测试路由 到 浙江杭州移动 中 ...</span><br><span class="line">traceroute to 112.17.0.106 (112.17.0.106), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.97  0.34 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.22  1.15 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  54.240.241.220  1.69 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  54.240.241.95  0.94 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  203.131.254.65  1.11 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-6.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.70)  2.11 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ce-0-2-0-3.r03.tkokhk01.hk.ce.gin.ntt.net (203.131.241.86)  169.31 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  *</span><br><span class="line">12  223.120.2.14  164.79 ms  AS58453  中国 广东 广州 移动</span><br><span class="line">13  223.120.22.5  183.12 ms  AS58453  中国 广东 广州 移动</span><br><span class="line">14  221.183.55.26  185.44 ms  AS9808  中国 上海 移动</span><br><span class="line">15  221.176.22.205  225.16 ms  AS9808  中国 上海 移动</span><br><span class="line">16  221.183.23.25  281.47 ms  AS9808  中国 上海 移动</span><br><span class="line">17  221.183.11.6  200.64 ms  AS9808  中国 浙江 杭州 移动</span><br><span class="line">18  *</span><br><span class="line">19  221.183.10.6  252.93 ms  AS9808  中国 浙江 杭州 移动</span><br><span class="line">20  *</span><br><span class="line">21  112.17.253.118  234.88 ms  AS56041  中国 浙江 杭州 移动</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 浙江杭州移动 完成 ！</span><br><span class="line">[Info] 测试路由 到 北京教育网 中 ...</span><br><span class="line">traceroute to 202.205.6.30 (202.205.6.30), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.33  0.57 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.42  14.06 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.69  1.75 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.85  1.09 ms  *  AMAZON.COM 骨干网 amazon.com</span><br><span class="line"> 8  unknown.telstraglobal.net (210.57.80.58)  1.27 ms  AS4637,AS10026  中国 香港 telstra.com</span><br><span class="line"> 9  61.8.59.38  29.13 ms  AS4637,AS10026  中国 香港 pacnet.com</span><br><span class="line">10  101.4.117.149  170.85 ms  AS4538  中国 北京 教育网</span><br><span class="line">11  101.4.118.121  167.31 ms  AS4538  中国 北京 教育网</span><br><span class="line">12  101.4.117.253  163.81 ms  AS4538  中国 北京 教育网</span><br><span class="line">13  101.4.114.197  168.60 ms  AS4538  中国 北京 教育网</span><br><span class="line">14  219.224.102.234  173.04 ms  AS4538  中国 北京 教育网</span><br><span class="line">15  *</span><br><span class="line">16  *</span><br><span class="line">17  *</span><br><span class="line">18  *</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  *</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 北京教育网 完成 ！</span><br><span class="line">[Info] 四网路由快速测试 已完成 ！</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Bash</tag>
+        <tag>School</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>备份你的cookie</title>
+    <url>/2019/09/12/backup-your-cookie/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于各种各样的原因，我们经常需要备份某些网站的cookie信息以备不时之需。</p>
+<h3 id="所需工具"><a href="#所需工具" class="headerlink" title="所需工具"></a>所需工具</h3><h4 id="桌面Chrome："><a href="#桌面Chrome：" class="headerlink" title="桌面Chrome："></a>桌面Chrome：</h4><p>editthiscookie插件：</p>
+<p>可以从chrome官方商店直接安装（需要科学上网）</p>
+<p>也可以从<a href="https://www.crx4chrome.com/crx/1148/">https://www.crx4chrome.com/crx/1148/</a> 下载CRX文件，在chrome浏览器中访问<a href="chrome://extensions/"><strong>chrome://extensions/</strong></a> 将crx文件拖进去完成安装</p>
+<h4 id="桌面Firefox："><a href="#桌面Firefox：" class="headerlink" title="桌面Firefox："></a>桌面Firefox：</h4><p>正在安装Firefox 稍安勿躁</p>
+<h3 id="详细步骤："><a href="#详细步骤：" class="headerlink" title="详细步骤："></a>详细步骤：</h3><h4 id="桌面Chrome：-1"><a href="#桌面Chrome：-1" class="headerlink" title="桌面Chrome："></a>桌面Chrome：</h4><h5 id="安装好editthiscookie插件"><a href="#安装好editthiscookie插件" class="headerlink" title="安装好editthiscookie插件"></a>安装好editthiscookie插件</h5><h5 id="打开你需要备份cookie的网站"><a href="#打开你需要备份cookie的网站" class="headerlink" title="打开你需要备份cookie的网站"></a>打开你需要备份cookie的网站</h5><h5 id="按下图操作"><a href="#按下图操作" class="headerlink" title="按下图操作"></a>按下图操作</h5><p><img src="https://i.loli.net/2019/09/12/XFOktKfIpgDAZcn.jpg" alt="Snipaste_2019-09-12_15-17-55.jpg"></p>
+<p>点击后会有如图提示<img src="https://i.loli.net/2019/09/12/ozsfFEOZDGAr2xe.jpg" alt="Snipaste_2019-09-12_15-18-53.jpg"></p>
+<p>然后新建一个txt文档将剪贴板的cookie复制进去即可，如下图，然后保存好txt即为导出成功</p>
+<p> <img src="https://i.loli.net/2019/09/12/FplInzwR3ZKAeWD.jpg" alt="Snipaste_2019-09-12_15-20-37.jpg"></p>
+<h5 id="导入方法："><a href="#导入方法：" class="headerlink" title="导入方法："></a>导入方法：</h5><p><img src="https://i.loli.net/2019/09/12/mQe5MCygVSu96lO.jpg" alt="Snipaste_2019-09-12_15-22-03.jpg"></p>
+<p>然后将txt中所有文字复制粘贴进去 然后点下面的大绿勾即可</p>
+<p>如下图 </p>
+<p><img src="https://i.loli.net/2019/09/12/NC9gaY5TFUk8fxz.jpg" alt="Snipaste_2019-09-12_15-22-36.jpg"></p>
+<h4 id="FireFox："><a href="#FireFox：" class="headerlink" title="FireFox："></a>FireFox：</h4><h5 id="导出方法："><a href="#导出方法：" class="headerlink" title="导出方法："></a>导出方法：</h5><p>按照上述方法安装插件后</p>
+<p>在浏览器右上角找到插件<img src="https://i.loli.net/2019/09/12/GtcKU8xsp5hF69y.jpg" alt="Snipaste_2019-09-12_15-39-55.jpg"></p>
+<p>左键点击打开菜单点击manage all cookies 打开插件主界面</p>
+<p><img src="https://i.loli.net/2019/09/12/WYBSxwKHtRal2mj.jpg" alt="Snipaste_2019-09-12_15-38-03.jpg"></p>
+<p>找到你想导出的站点，右键打开菜单，选择save to file</p>
+<p><img src="https://i.loli.net/2019/09/12/93DF52Q8IZExHXS.jpg" alt="Snipaste_2019-09-12_15-38-29.jpg"></p>
+<p>好好保存文件</p>
+<h5 id="导入方法"><a href="#导入方法" class="headerlink" title="导入方法"></a>导入方法</h5><p>按照上述方法安装插件后</p>
+<p>在浏览器右上角找到插件<img src="https://i.loli.net/2019/09/12/GtcKU8xsp5hF69y.jpg" alt="Snipaste_2019-09-12_15-39-55.jpg"></p>
+<p>左键点击打开菜单点击manage all cookies 打开插件主界面</p>
+<p><img src="https://i.loli.net/2019/09/12/WYBSxwKHtRal2mj.jpg" alt="Snipaste_2019-09-12_15-38-03.jpg"></p>
+<p>在插件左下角有如下图标，选择restore cookies from file 并且选中之前备份的cookies文件即可。</p>
+<p><img src="https://i.loli.net/2019/09/12/xtS8LGiq51ODuC7.jpg" alt="Snipaste_2019-09-12_15-46-08.jpg"></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>PT</category>
+      </categories>
+      <tags>
+        <tag>Windows</tag>
+        <tag>Guide</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Maximum Length of Repeated Subarray</title>
+    <url>/2019/05/01/leetcode718/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/">Maximum Length of Repeated Subarray </a></p>
+<p>Desc: 给出两个字符串求两串最大公共子串的长度</p>
+<p>DP：</p>
+<p><code>dp[i][j]</code>代表了以<code>a[i]</code>和<code>b[i]</code>为起点的的字符串的最大公共子串的长度</p>
+<p>那么<code>dp[i][j] = a[i] == b[j] ? 1 + dp[i + 1][j + 1] : 0</code></p>
+<p>考虑利用“滚动数组优化”可以降低一维</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findLength</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; a, vector&lt;<span class="keyword">int</span>&gt;&amp; b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> m = a.<span class="built_in">size</span>(), n = b.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">if</span> (!m || !n) <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        <span class="function">vector&lt;<span class="keyword">int</span>&gt; <span class="title">dp</span><span class="params">(n + <span class="number">1</span>)</span></span>;</span><br><span class="line">        <span class="keyword">int</span> res = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = m - <span class="number">1</span>; i &gt;= <span class="number">0</span>; i--) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">0</span>; j &lt; n; j++) &#123;</span><br><span class="line">                res = <span class="built_in">max</span>(res, dp[j] = a[i] == b[j] ? <span class="number">1</span> + dp[j + <span class="number">1</span>] : <span class="number">0</span>);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>leetcode记录</title>
+    <url>/2018/11/20/leetcode%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>已经几乎退役了就只能做做LeetCode维持生活</p>
+<p>记录一下自己的刷题记录.</p>
+<p>Solved Question:31-66-68</p>
+<p>Easy: 10-23-23-32</p>
+<p>Medium:14-30-30-41</p>
+<p>Hard:7-13-15-17</p>
+<p>不知道能不能保持住一天2-3个medium以上题的频率（flag已经收了 没有</p>
+<p>老年化不可避</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
+    <title>my-2019-summary</title>
+    <url>/2020/01/07/my-2019-summary/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
+    <div id="aplayer-NuToibRz" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="512359195" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近忙毕业的事情忙的心情复杂，加上工作的事情尘埃落定了，试图回想一下自己曾经在2019年做了啥吧，由于时间有点久，只能从多个不同角度回忆了</p>
+<h3 id="0-cpc"><a href="#0-cpc" class="headerlink" title="0. *cpc"></a>0. *cpc</h3><p>18年打完青岛以后基本就脱离了*cpc这个圈子，19年整年感觉自己的做题能力一直在不断下滑，codeforces一场没打，20年开始找工作以后开了一个月leetcode的会员，把剑指offer刷完了稍微恢复了一点点。google code jam 也只打了qualifications round。。1A只会签到 1B睡过去了 想来我也拿不到衣服 遂鸽。</p>
+<h3 id="1-考研"><a href="#1-考研" class="headerlink" title="1. 考研"></a>1. 考研</h3><p>考研的背景：大概18年12月我面试了一次字节跳动，不知道推到了什么AI的组，那时候也没对一些408有关的知识进行针对复习，基本一问三不知，看面试官态度也不是特别好，毕竟一个0基础+非科班的five，哪个公司都不想要吧，题目给我出了个easy变种但是实际上可能是hard级别的题目（？ 直接把我劝退了，陷入自我否定的死循环，决定考个研提升下自己。</p>
+<p>感觉我考研开始的时间有点迟，19年上半年(大三下)只是稍微动了一下数学参考书，和无聊翻看408的一些专业书籍，完全没实现系统化的复习，而且确实在没有研友交流的情况下，比较难互通有无并且成系统的复习。暑假开始少量看点汤的数学视频，由于时间不太够，基本是走马观花的看了一遍并且做了对应笔记，实际上并未进脑子(伏笔)。</p>
+<p>数学：暑假的时候开始9 10 7的复习，每天都感觉自己在追赶时间，408四本书的量并不少，然后由于数学初期没有系统化的按照教科书or部分老师的考点走下来，每天都在痛苦的查缺补漏，效率被碎片化拖拉严重，直接导致了最后数学的崩盘。如果我数学上线我总分也过线了。。。当然都是后话了</p>
+<p>408：包含四本书：计算机组成原理、计算机网络、数据结构、操作系统。对于这四本书，我主要参考的是王道书的主要知识点，自我感觉学的还好，但是实际上408选择题考察的范围非常细致，错误率从5个到20个都是出现过的。我觉得比较难的是计网比较多的概念需要记忆，而计算机组成原理、操作系统大多是考察系统or计算题，相对来说要简单一点。数据结构就不提了，由于*cpc的背景，我只对B+树以及一些技巧性的题目进行了针对性的记忆，做模拟卷的时候基本没在数据结构出过错。</p>
+<p>英语：由于*cpc的背景，我英语阅读能力还不错，做英语2的模拟卷阅读基本错误在1-3个之间，基本就是每天背50个单词 review 200个单词+一天一份卷子就度过了。</p>
+<p>政治：很迟才开始，死记硬背，略</p>
+<p>反正挂了就是挂了，输就是输了，菜如我</p>
+<h3 id="2-考完到出分"><a href="#2-考完到出分" class="headerlink" title="2. 考完到出分"></a>2. 考完到出分</h3><p>考完以后感觉考的很烂就很丧，但是那时候也没考虑那么远，打算出分再说，毕竟考完其实也没多少时间找工作了，圣诞前后，然后又遇上了疫情，比较爽快的玩了两个月。</p>
+<h3 id="3-从出分到找工作"><a href="#3-从出分到找工作" class="headerlink" title="3. 从出分到找工作"></a>3. 从出分到找工作</h3><p>不知不觉到了2020年，虽说是2019年记录，但是考虑实际写文的时间，考完到求职这段时间也放进去好了。</p>
+<p>好像是2月10还是2月15出的分(我又记不清了orz)，看了眼我的分数 感觉没啥希望了，开始自我push，发现自己考不上也没工作好像啃老也不太好，那个时候有几个选择。</p>
+<ol>
+<li>二战。代价是一旦失败了你就不是应届生了(微软一年内还算)</li>
+<li>等着考公or教资等其他。考试好像无限期延期了，等于还是得gap，一旦失败同上</li>
+<li>找工作</li>
+</ol>
+<p>痛定思痛，决定找工作。现在已经签完了从上帝视角看，其实我准备大三实习也是有竞争力的，拖到春招属实是一个不明智的决定，还好运气尚佳，终究是个好结局。</p>
+<p>timeline</p>
+<ul>
+<li><p>2.21 考研出分</p>
+</li>
+<li><p>2.22 决定找工作 开始刷题&amp;面经</p>
+</li>
+<li><p>2.25 开始投简历 腾讯、网易雷火（内推）、宁波银行总行科技部、bilibili游戏服务端开发（内推）、微软</p>
+</li>
+<li><p>2.26 腾讯预约面试  很惊讶，大概两天后有一个识别为腾讯科技的电话打来了，简单check了一下我的名字和身份，确认我是应聘20届后台开发的人，说了一下他们是做广告那边的部门，问我现在是否有空面试，考虑到我妈下午还要上网课，我就跟他预约了第二天下午2-3点(大概是他下午刚开始上班的时候hhh)</p>
+</li>
+<li><p>2.27腾讯一面 1 小时 考察的主要是一些基础知识，3个medium回答思路 最后给我了一个类似共享代码的网址让我写完3SUM</p>
+</li>
+<li><p>2.28 腾讯二面 20分钟 主要是聊人生，他问我为啥要转，以及考研咋样，如果考上了和offer选哪个（伏笔）我非常憨憨的说了要读研，然后被他diss了一下，反问环节我问了下地点在哪，工作内容，技术栈，以及他对我的建议，面完其实感觉挺凉的。二面完，我和我爸妈吐槽了一下2面，然后感觉我应该踩雷了，感觉有点凉，同时看了眼考研分数和了解到的调剂情况，打算放弃调剂，好好找工作。</p>
+</li>
+<li><p>2.28 二面后一小时 由于不怎么用微信，突然发现微信有个在二面刚面完就发来的好友请求，一看备注是我一面面试官，非常惊讶。。赶紧通过了一下，他问我是否有空语音，然后打了个语音电话过来，着重重新问了一下，offer和读研的选择，我说我和父母商量过了，决定不读了，反正目的都是找工作。然后他也没表示什么了，就让我注意下HR面的时候不要踩雷。语音完突然感觉我被一面捞了一手，突然感觉我稳了hhh。</p>
+</li>
+<li><p>2.29 状态变为HR面，并且未约定时间</p>
+</li>
+<li><p>3.3 收到HR面预约时间</p>
+</li>
+<li><p>3.4 完成HR面 并且HR口头说一周内会发放正式offer</p>
+</li>
+<li><p>3.25 收到offer call (好像是HR太忙了忘了 让一面帮我催了一下)</p>
+</li>
+<li><p>3.26收到正式offer mail 并且邮寄三方 </p>
+</li>
+<li><p>4.15收到返回的三方~</p>
+</li>
+</ul>
+<p>3.4-3.25之间完成了字节的面试也拿了offer 但是我拖了一会 还没接(说自己三方还没拿到)</p>
+<p>找工作这段时间，睡得都不太好，而且在二面不太好的情况其实很郁闷为什么小公司没发来面试请求，像宁波银行干脆把我简历挂了，bilibili找了内推毫无消息，雷火的话在我已经拿到腾讯offer才缓慢给我发了个笔试邀请，题目倒是挺简单的，但是雷火的薪资和口碑都不太好，遂没继续参与了。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>npupt-invite-tree</title>
+    <url>/2019/06/04/npupt-invite-tree/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>最近有空整理了一下</p>
+<p>写这个邀请树纯粹是一时冲动？</p>
+<p>也许吧-.-看U2的邀请查询系统感觉挺好玩的</p>
+<p>然后又想看Admin这棵树有多大(flag <del>做完发现浏览器撑不住了</del></p>
+<p>然后发现自己好菜啊(</p>
+<h4 id="调查"><a href="#调查" class="headerlink" title="调查"></a>调查</h4><p>主要的几个方案：</p>
+<p>数据怎么获取：PY啊</p>
+<p>前端：Echarts及其相关语言的其他库(pyechart等)、d3js等基于js的一些可视化工具</p>
+<p>后端：自己喜欢就好….</p>
+<h4 id="最终方案"><a href="#最终方案" class="headerlink" title="最终方案"></a>最终方案</h4><p>数据：PY</p>
+<p>前端：Echart请求api返回子树的json</p>
+<p>后端：</p>
+<p>​    现在方案：根据PY到的数据将所有没有邀请人的节点串到一个不存在的节点上，将森林串成一棵树，那么我们任何要查询的子树都在这棵树上了，利用AnyTree@Python这个库export_to_json 生成full.json，然后将full.json放到data里。 当api获取到要查询的username时在full.json里查询这个名字将然后根据输入的username对应的uid在树上搜索一通就可以获取到对应的sub-tree，然后把sub-tree生成一个json文件保存到本地(做一个辣鸡缓存)然后供前端查询</p>
+<p>​    原方案：利用AnyTree@Python的import 导入这棵树 在树里查 </p>
+<p>​        性能问题：不知道为什么AnyTree的import肥肠的慢…大概十万个点导入花了40S…</p>
+<p>​    最优方案：在server启动的时候就把整棵树读到内存里 然后在内存查 大概会有一点点效率差别吧….</p>
+<p>本人擅长口胡，建议去GitHub查看 <a href="https://github.com/yezi1000/invite-tree">https://github.com/yezi1000/invite-tree</a> </p>
+<p>代码很丑 有问题可以留言或者issue…虽然我觉得也没人会star(</p>
+<p><img src="https://i.loli.net/2019/06/11/5cff9fe1b4ea716467.jpg"></p>
+<p><img src="https://i.loli.net/2019/06/11/5cff9fe1b2db555715.jpg"></p>
+<p><del>无限期咕咕咕</del></p>
+<p><del>经过评估后发现前端需要全部重写</del></p>
+<p><del>数据库类型也需要修改 以下全部作废</del></p>
+<p><del>施工中 仅作存档 代码后续会开源至GitHub</del></p>
+<p><del>感谢U2-invite-tree的<a href="https://github.com/kurodaakira-jp/u2-user-invite-search-system">前端</a></del></p>
+<p><del>爬虫数据获取是在<strong>Developer_HZH</strong> 的<a href="https://capriccio.moe/archives/20/">基础</a>上修改而来</del></p>
+<p><del>感谢以上两位</del></p>
+<p><del>不知道放啥歌，放首八爷的loser吧</del></p>
+<p><del>没学过PY google拼拼凑凑出来的 获取有效信息部分很绕 很丑 虽然我知道可以用class获取..</del></p>
+<p>~~Update info:</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>鶸</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>one_year_after_work</title>
+    <url>/2021/09/04/one-year-after-work/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>原来不知不觉就一年过去了，感觉这一年并没有什么实质性的变化。</p>
+<p>只是人来人往，又换了一批人。</p>
+<p>这次也打算是分几个小标题来写我的碎碎念。</p>
+<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>这一年里差不多一半合作过的人，或是转岗，或是离职了，在工作之前，也并没有想到过互联网企业的流动性能这么高。</p>
+<p>其实也没怎么和工作上认识的人有过多交流，更别说深交，只是听过的，或是合作过的同事离职了 还是会有一点点感慨。</p>
+<p>而也有相对来说更熟一点的朋友，换了个城市，除了有点唏嘘，也只能在送别的时候祝前程似锦。</p>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>终究还是没找室友，一个人住的自由在我看来更重要一点。</p>
+<p>买了个扫地机器人，姑且算是在懒得叫保洁的时候保证一下地板的干净。</p>
+<p>自从自己开始管自己开销就开始放飞自我，这一年剁手的东西实在好多，倒序回忆一下，扫地机器人、ps5（本来打算晚点买，结果运气好抽到了原价资格）、显卡（6800-&gt;6900xt-&gt;3080ti)、音箱（iloud mini monitor)、解码耳放一体、耳机（宁梵na2+/nf3pro，一条k厂的freya）、r9000p 3070款，除了以上，待机半年多的nas也装起来了，插了2个12 4个14 还剩两个待定。</p>
+<p><img src="https://i.loli.net/2021/09/20/7KQH5mqfLeSBOWp.jpg" alt="QQ图片20210920205709.jpg"></p>
+<p>随便拍的一张桌面，总算变成肥宅快乐桌了？</p>
+<h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>应该算是略微超出了老板的预期？一年时间成长的还算不错，也算是能独当一面了。</p>
+<p>不过整体的方向在慢慢的往infra转，做一些简单的crud其实并不是我们的目标，关注整体的架构设计、性能优化，以及怎么在有限的人力、机器成本下获取更多收益。</p>
+<p>闲的时候看了不少cpp的新特性，不得不说11/17的一些特性真的是解放（？</p>
+<p>不过语言这种东西嘛，还是和业务背景分不开。</p>
+<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>我觉得我这个人，如果硬是要通过标签来描述，Gamer一定是一个最大、最显眼的标签，只是工作上的疲惫或者说工作上的追求，已经让我对游戏的兴趣在减少。</p>
+<p><img src="https://i.loli.net/2021/09/20/DcHQkVqYAlxR1Xp.jpg" alt="123.jpg"></p>
+<p>大概我也是个电子游戏阳痿？（笑</p>
+<p>大概年初把Apex Legends捡回来了，随便上了个钻石，恰好以前玩游戏的群友拉着我上大师，遂上了个大师，上完大师以后游戏环境就直接崩盘了，本来是5盘一个挂，极端情况下是1盘五个挂… 再加上队友去玩ff14，我也打消了继续冲分的念头，找着群友要白金号随便打打白金排位度日。</p>
+<p>大概八月份在jd抽签抽中了原价购买PS5的资格，不过其实之前也嫖同学的PS4Pro玩了挺多PS4游戏，拿到手以后也没啥新游戏能玩，ff7re不知道为啥被我忘了(迷惑)，一直吃灰到破晓传说(Tales of Arise)的发售。Demo的高质量，戳xp的女主，没多想预购了，到手以后也感慨jrpg也在变化，也能算是ps5 二次元大作之一了。</p>
+
+    <div id="aplayer-BVoykEiK" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="1876388990" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<div class='spoiler collapsed'>
+    <div class='spoiler-title'>
+        破晓传说剧透
+    </div>
+    <div class='spoiler-content'>
+        <ol>
+<li>好吃的糖，三对cp，happy ending真的怎么都输不了，拯救世界也为了拯救你，公主抱、结婚、继续守护这个世界</li>
+<li>全配音的三百多个小剧场，nb，但是主线剧情在不看小剧场的时候，其实是有点难以理解的</li>
+<li>战斗系统说实话体验不是很好，由于我直接一周目困难，全程刮痧，而且最终迷宫还调整了难度</li>
+</ol>
+
+    </div>
+</div>
+
+<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
+<li>还是减肥？最近又反弹了</li>
+<li>大概的话 能一周做点lc周赛嘛</li>
+<li>脱单（笑？</li>
+</ol>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>半年记</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Leetcode 920 Number of Music Playlists</title>
+    <url>/2019/06/20/playlist/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/number-of-music-playlists/">920.Number of Music Playlists </a></p>
+<h4 id="题目大意"><a href="#题目大意" class="headerlink" title="题目大意"></a>题目大意</h4><p>N首歌曲，总共需要演奏L次歌曲，每首歌都要被演奏过，一首歌被演奏过后K次后才可以再次演奏，求最终的方案数(mod 1e9+7).</p>
+<p><code>0 &lt;= K &lt; N &lt;= L &lt;= 100</code></p>
+<h4 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 3, L = 3, K = 1</span><br><span class="line">Output: 6</span><br><span class="line">Explanation: There are 6 possible playlists. [1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1].</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 2, L = 3, K = 0</span><br><span class="line">Output: 6</span><br><span class="line">Explanation: There are 6 possible playlists. [1, 1, 2], [1, 2, 1], [2, 1, 1], [2, 2, 1], [2, 1, 2], [1, 2, 2]</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Input: N = 2, L = 3, K = 1</span><br><span class="line">Output: 2</span><br><span class="line">Explanation: There are 2 possible playlists. [1, 2, 1], [2, 1, 2]</span><br></pre></td></tr></table></figure>
+
+<h4 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h4><p>第一眼感觉是个DP…但是好久没写了感觉很自闭…</p>
+<p>还好努力了一下云出了公式诶….</p>
+<p>这类问题的递推，从第N-1首到第N首的情况下，状态的变化取决于第N首是否被选取（每首歌必须被选一次可以暂时忽略）<br>$$<br>f(n,l,k)=f(n-1,l-1,k)<em>n+f(n,l-1,k)</em>(n-k)<br>$$<br>我们可以发现这个K实际上只常亮没啥区别 可以直接拿掉</p>
+<h4 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">static</span> <span class="keyword">const</span> <span class="keyword">int</span> MOD = <span class="number">1000000007</span>;</span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">numMusicPlaylists</span><span class="params">(<span class="keyword">int</span> N, <span class="keyword">int</span> L, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">long</span> <span class="keyword">long</span> <span class="keyword">int</span> dp[N + <span class="number">1</span>][L + <span class="number">1</span>];</span><br><span class="line">        <span class="built_in">memset</span>(dp,<span class="number">0</span>,<span class="built_in"><span class="keyword">sizeof</span></span>(dp));</span><br><span class="line">        dp[<span class="number">1</span>][<span class="number">1</span>] = <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">1</span>; i &lt;= N; i++)</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">1</span>; j &lt;= L; j++) &#123;</span><br><span class="line">                dp[i][j] += dp[i][j<span class="number">-1</span>] * <span class="built_in">max</span>(i - K, <span class="number">0</span>) + dp[i<span class="number">-1</span>][j<span class="number">-1</span>] * i;</span><br><span class="line">                dp[i][j] %= MOD;</span><br><span class="line">            &#125;</span><br><span class="line">        <span class="keyword">return</span> dp[N][L];</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Flood Fill</title>
+    <url>/2019/05/01/leetcode733/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/flood-fill/">Flood Fill </a></p>
+<p>Desc:</p>
+<p>二维格点，用数字代表颜色，选定一个点(sr,sc)进行染色，和该点直接相连的同色点且都会被染成新颜色，求最后的二维矩阵。</p>
+<p>很简单不知道为什么我要写一篇blog（表现的自己很努力？</p>
+<p>My_Code:</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    vector&lt;vector&lt;<span class="keyword">int</span>&gt;&gt; <span class="built_in">floodFill</span>(vector&lt;vector&lt;<span class="keyword">int</span>&gt;&gt;&amp; image, <span class="keyword">int</span> sr, <span class="keyword">int</span> sc, <span class="keyword">int</span> newColor) &#123;</span><br><span class="line">        <span class="keyword">int</span> oldColor = image[sr][sc];</span><br><span class="line">        <span class="keyword">if</span> (oldColor == newColor) <span class="keyword">return</span> image;</span><br><span class="line">        queue&lt;pair&lt;<span class="keyword">int</span>, <span class="keyword">int</span>&gt;&gt; queue;</span><br><span class="line">        queue.<span class="built_in">push</span>(<span class="built_in">make_pair</span>(sr, sc));</span><br><span class="line">        <span class="keyword">int</span> n = image.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">int</span> m = image[<span class="number">0</span>].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">while</span> (!queue.<span class="built_in">empty</span>()) &#123;</span><br><span class="line">            <span class="keyword">int</span> row = queue.<span class="built_in">front</span>().first;</span><br><span class="line">            <span class="keyword">int</span> column = queue.<span class="built_in">front</span>().second;</span><br><span class="line">            queue.<span class="built_in">pop</span>();</span><br><span class="line">            <span class="keyword">if</span> (image[row][column] == oldColor) &#123;</span><br><span class="line">                image[row][column] = newColor;</span><br><span class="line">                <span class="keyword">if</span> (row != <span class="number">0</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row<span class="number">-1</span>, column));</span><br><span class="line">                <span class="keyword">if</span> (row != n<span class="number">-1</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row+<span class="number">1</span>, column));</span><br><span class="line">                <span class="keyword">if</span> (column != <span class="number">0</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row, column<span class="number">-1</span>));</span><br><span class="line">                <span class="keyword">if</span> (column != m<span class="number">-1</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row, column+<span class="number">1</span>));</span><br><span class="line">            &#125; </span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> image;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PT实用工具&amp;脚本分享</title>
+    <url>/2019/08/10/pt-tools/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>不止不觉入坑快一年了，我已经忘记了当初注册蒲公英的目的是啥，但是无非就是想快速下东西、想看电影罢了。一年花在PT上的时间也蛮多的，或许也是一种逃避？</p>
+<p>当初小白的时候总是能问出各种各样的沙雕问题，还好当初的前辈都很和蔼，至少不像我一样暴躁，感谢就不写在这了，本文主要是一个个人认为有价值的脚本&amp;知识的一个收录合集，希望后来者能少走点弯路。</p>
+<p>本文建议当成一个简单的Q&amp;A使用，具体请点击右侧相关问题TAG跳转</p>
+<p><font color=red>Attention：如果你是个大佬，应该不会在本文中看到什么出彩的东西，全都是抄的或者干脆丢了个链接。</font></p>
+<p>PS：本人又懒又喜欢废话，还喜欢说一些错的东西，希望有大佬看到哪里错了可以说一下。</p>
+<h1 id="盒子篇"><a href="#盒子篇" class="headerlink" title="盒子篇"></a>盒子篇</h1><h2 id="盒子（seedbox）是什么"><a href="#盒子（seedbox）是什么" class="headerlink" title="盒子（seedbox）是什么"></a>盒子（seedbox）是什么</h2><p>个人理解盒子是一类用于进行PT/BT下载的远程服务器。</p>
+<p>盒子主要类型，从IP情况来说分为：共享盒子和非共享，前者主要是一些专业seedbox提供商，例如SeedHost、Feral Hosting等，后者例如hetzner等独立服务器提供商。</p>
+<h2 id="盒子的选购："><a href="#盒子的选购：" class="headerlink" title="盒子的选购："></a>盒子的选购：</h2><h3 id="盒子的选择："><a href="#盒子的选择：" class="headerlink" title="盒子的选择："></a>盒子的选择：</h3><p>这方面受到时间限制较为大，而且我用的也不是很多，就随便说一点了</p>
+<p>在挑选的过程中，你需要先明确几个问题：</p>
+<p>1.预算 2.需要刷什么站 3.打算刷多少 4.有没有自己购买的能力（Visa 或者Master信用卡）</p>
+<p>内站由于一些seedbox的限制（不能超过100M/S、部分站点不可使用共享盒）无法使用共享盒。</p>
+<p>最新站点盒子限制表 <a href="https://www.kdocs.cn/l/sEi6Sg5iu">https://www.kdocs.cn/l/sEi6Sg5iu</a></p>
+<p>常见盒子收集表（里面很多价格是买不到的，具体请阅读备注页）</p>
+<p><del>具体可以参考<a href="https://github.com/Aniverse">@Aniverse</a>收集的盒子限制表如下</del></p>
+<p><del><img src="https://i.loli.net/2019/08/10/tv9ONmpwkqUsTLP.png" alt="国内站部分限速图.png"></del></p>
+<p><del>图片可能看不清 可以尝试直接访问 <a href="https://sm.ms/image/tv9ONmpwkqUsTLP">https://sm.ms/image/tv9ONmpwkqUsTLP</a></del></p>
+<p>独立服务器（杜甫）</p>
+<p>比较常见的盒子有oneprovider的各价位机型、hetzner的拍卖机、scaleway的特价机，</p>
+<p><a href="https://oneprovider.com/dedicated-servers/1gbps">oneprovider</a>  下文简称其为op。一般都是买他家的巴黎机器，他家巴黎的机器一般是替scaleway分销 个人点评：客服回复速度较慢，机子容易出问题，提供的系统镜像版本少且版本较老，低价位可以考虑购买。退款较难。</p>
+<p><a href="https://www.hetzner.com/">hetzner</a>：其普通机器在非活动期间有安装费且费用较高（34欧元）起步，属于中高档机器，而大部分人购买的是其<a href="https://www.hetzner.com/sb">拍卖机</a>，拍卖机价格浮动，有的时候可以遇到比较好的传家宝机器，其后台支持机器转让，因此在hostloc上有不少人转手机器赚取差价。机器使用不满14天可以无条件退款，请勿滥用，可能导致封号。</p>
+<p><a href="https://www.scaleway.com/fr/dedibox/">scaleway</a>：以前叫online，现在改名了，他家的机房主要在荷兰和法国，平常的价格很黑基本买不起，促销的时候力度大的机器一般很棒，例如ST8 ST12等，但是有些机器跑的流量多了可能会被限速。</p>
+<p>共享盒子：</p>
+<p><a href="https://www.seedhost.eu/">Seedhost</a>：流量少，盘一般大，刷力尚可，超过流量上限后限速至100mbps，提供安装rt de，起步6欧元，这家其实也有提供杜甫出租，但是常年无货。其SSD机器据说刷力不错，外站经常见到。</p>
+<p><a href="https://www.feralhosting.com/">Feral Hosting</a>：不限流，机子看脸，运气好可以跑得很快，起步10英镑。</p>
+<p><a href="https://ultraseedbox.com/">ultraseedbox</a>：有限流与不限流的机器可供选择，买过一个5欧元的小鸡，体验尚可，小鸡流量太少了。现在的NVME SSD机器不建议选购，网相比老SSD机器差了很多。</p>
+<p>保种鸡：</p>
+<p>由于大部分保种鸡需求和上述两者不同，保种鸡只要能一直开机盘体积大就行，性能是不需要考虑的(x)</p>
+<p><a href="https://www.soyoustart.com/">SoYouStart</a>: 现在已经买不到了，只能从已有机器的人那里租或者收账号，配置可以使用 <a href="https://github.com/amefs/quickbox-arm">quickbox-arm</a> </p>
+<p>一些大盘VPS：注意此处雷区还是比较多的，有些one-man idc 例如hostsolution 之类的就不要去送人头了</p>
+<p>一些个人seedbox provider：</p>
+<p>Andy：一个很著名的seedbox provider，提供的机器主要使用 OVH / NForce / LeaseWeb / Hetzner的网络，主要活跃在discord：<a href="https://discord.gg/7Gv8tdM"><strong>https://discord.gg/7Gv8tdM</strong></a> 和<a href="https://www.reddit.com/user/Andy10gbit">reddit</a> （均需要科学上网）机器价位相对偏高 </p>
+<ol>
+<li>帮你配置+各类软件的技术支持，不给 root，这种情况下给最好的优化</li>
+<li>帮你配置+各类软件的技术支持，给 root，但是给你的优化要差一点</li>
+<li>给 root，软件自己装</li>
+<li>你提供自己买的服务器的 root 给他，他帮你配置，配置完以后你仍然有 root 权限（给的是和 2 一样的优化方案）</li>
+</ol>
+<h3 id="盒子的购买："><a href="#盒子的购买：" class="headerlink" title="盒子的购买："></a>盒子的购买：</h3><p>仅列举几个自己购买过的</p>
+<p>VISA&amp;Master信用卡：全部</p>
+<p>支持pp：hetzner、oneprovider、seedhost、ultraseedbox、</p>
+<p>支持支付宝&amp;微信：oneprovider</p>
+<p>其中hetzner新账号注册需要验证，你可以选择pp支付20欧元，或者提交身份证明，例如身份证+信用卡背面（记得遮挡CVV码），或者护照、驾照、具体抄了一下盒子群的bot</p>
+<p> <u>①拍卖页面购买的机器不会立即生成账单，14天以内取消机器算免费试用，但不要多次尝试，账号会被封！</u></p>
+<p><u>②账号注册后需要验证身份，会收到一封要求验证身份的邮件，将身份证或者护照和信用卡放在一起拍照片发过去，为了安全可以适当打码并且用证件水印助手APP处理下</u></p>
+<p><u>③也可以直接付款20欧让账号生效,但也不是百分百靠谱，可能仍然需要验证，付的20欧作为余额可以在购买机器时消费,如果收到如下邮件等个10分钟左右可能就成功了，否则会继续收到需要验证身份信息</u><br><u><a href="https://pic.ymgblog.com/images/2019/06/23/e3a42dd6acefaf3f3e70200ee1e88440.png">https://pic.ymgblog.com/images/2019/06/23/e3a42dd6acefaf3f3e70200ee1e88440.png</a></u></p>
+<p><u>④购买机器时如果费用带税可以按下图设置 <a href="https://pic.ymgblog.com/images/2019/06/23/b1000f5014824ee249ebfd8cf48b0d2b.png">https://pic.ymgblog.com/images/2019/06/23/b1000f5014824ee249ebfd8cf48b0d2b.png</a></u></p>
+<p>找人代购盒子的注意事项：</p>
+<p>​    有能力自己买就不推荐代购</p>
+<p>Feral hosting：仅信用卡</p>
+<h2 id="盒子的安装："><a href="#盒子的安装：" class="headerlink" title="盒子的安装："></a>盒子的安装：</h2><h3 id="共享盒子RSS："><a href="#共享盒子RSS：" class="headerlink" title="共享盒子RSS："></a>共享盒子RSS：</h3><p>由于有些共享盒子没有提供flexget安装选项，而且几乎所有共享盒子都提供了rTorrent+RuTorrent的组合，你可以直接使用组合自带的RSS功能进行RSS。</p>
+<p>1.首先在rut中添加RSS订阅</p>
+<p><img src="https://p.sda1.dev/0/267239fc9cc4cb6534a119f9399690cb/Snipaste_2019-12-28_13-19-09.png"></p>
+<p>2.设置RSS自动下载规则</p>
+<p><img src="https://p.sda1.dev/0/b0b5dc89395c2d0f6682019fa45cab8e/Snipaste_2019-12-28_13-19-28.png"></p>
+<p>这里的规则你可以自己写 怎么写清自行百度 我图上的规则意思是全部下载 并且不会自动在rt中自动开始下载。</p>
+<p>3.设置deluge监听目录到 <code>/home36/yezi/.config/.session</code></p>
+<p>4.修改rt的RSS更新频率，在webui中仅能设置到2min，修改文件可以修改到1min</p>
+<p>​    修改文件使得更新频率到1min方法:</p>
+<p>​    <code>/home36/yezi/www/yezi.gold.seedhost.eu/yezi/rutorrent/plugins/rss/conf.php</code></p>
+<p>​    <code>$minInterval = 1;       // in minutes</code></p>
+<h3 id="seedhost-deluge刷新tracker脚本"><a href="#seedhost-deluge刷新tracker脚本" class="headerlink" title="seedhost deluge刷新tracker脚本"></a>seedhost deluge刷新tracker脚本</h3><p><a href="https://www.seedhost.eu/whmcs/knowledgebase/266/Deluge-update-tracker-script.html">https://www.seedhost.eu/whmcs/knowledgebase/266/Deluge-update-tracker-script.html</a></p>
+<h3 id="连接服务器："><a href="#连接服务器：" class="headerlink" title="连接服务器："></a>连接服务器：</h3><p>用法是使用putty或者xshell等连接上你的服务器，具体如何连接不赘述了，可以参考 <a href="https://jingyan.baidu.com/article/ed2a5d1f6b31af09f7be1748.html">https://jingyan.baidu.com/article/ed2a5d1f6b31af09f7be1748.html</a> 等之类的教程。</p>
+<h3 id="限制同时进行下载的任务数："><a href="#限制同时进行下载的任务数：" class="headerlink" title="限制同时进行下载的任务数："></a>限制同时进行下载的任务数：</h3><p>考虑到有的时候我们需要进行全站RSS，这个时候可能对我们的盒子性能有比较高的要求，我们观察后可以通过限制同时下载任务数稍微提升一点表现，但是由于目前删种的条件较难以控制，属于中下解。。。但也不是不能用。</p>
+<p>qb+autoremove-torrents：</p>
+<p>​    设置当前最大任务数，所以同时加进去的种子会进入排队状态，而使用autoremove-torrents每分钟检查并且移除排队种子。如果对应站点有不少的低速种子可以在qb里设置若干速度以下排除排队。</p>
+<p>随便写的一个配置文件 没上机测试过</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">noob:</span></span><br><span class="line">  <span class="attr">client:</span> <span class="string">qbittorrent</span></span><br><span class="line">  <span class="attr">host:</span> <span class="string">http://127.0.0.1:2017</span></span><br><span class="line">  <span class="attr">username:</span> <span class="string">admin</span></span><br><span class="line">  <span class="attr">password:</span> <span class="string">adminadmin</span></span><br><span class="line">  <span class="attr">strategies:</span></span><br><span class="line">    <span class="attr">remove-queued:</span></span><br><span class="line">      <span class="attr">status:</span> <span class="string">queued</span></span><br><span class="line">      <span class="attr">remove:</span> <span class="string">ratio</span> <span class="string">&lt;</span> <span class="number">1</span></span><br><span class="line">    <span class="attr">avoid-boom:</span></span><br><span class="line">      <span class="attr">seed_size:</span> </span><br><span class="line">        <span class="attr">limit:</span> <span class="number">6500</span></span><br><span class="line">        <span class="attr">action:</span> <span class="string">remove-old-seeds</span></span><br><span class="line">  <span class="attr">delete_data:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<p>移除所有排队的 ratio小于1的种子（默认顺序是先加入的在队头</p>
+<p>并且在所有种子的size大于6500GiB的时候开始移除老种子</p>
+<h3 id="软件安装："><a href="#软件安装：" class="headerlink" title="软件安装："></a>软件安装：</h3><p>这部分 个人认为一般的刷子完全可以仅依赖星大的脚本: <a href="https://github.com/Aniverse/inexistence">https://github.com/Aniverse/inexistence</a></p>
+<p>此时还可以大喊efs牛逼！ <a href="https://github.com/amefs/quickbox-lite">https://github.com/amefs/quickbox-lite</a></p>
+<p>这两者的对比，前者更齐全，制种、发种工具一应俱全，后者有一个统一的WEBUI界面，而且大部分操作（卸载、安装、重启）可以在webui执行。</p>
+<p>星大脚本：</p>
+<p>​    在shell中输入</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">bash &lt;(wget --no-check-certificate -qO- https://github.com/Aniverse/inexistence/raw/master/inexistence.sh)</span><br></pre></td></tr></table></figure>
+
+<p>回车运行即可，在运行前请仔细阅读GitHub上的readme，例如安装跳检客户端等等均有描述。</p>
+<p>例如：</p>
+<p><img src="https://i.loli.net/2019/08/10/SwEej4gTFkGfI82.png" alt="Snipaste_2019-08-10_12-36-04.png"></p>
+<p>需要提一嘴的是部分机子不提供root用户的登录，需要先使用你在后台设置的用户名密码登入然后使用 <code>su - root</code> 进行提权成为root用户，这样的厂商有online.net &amp; oneprovider等</p>
+<h3 id="ipv6："><a href="#ipv6：" class="headerlink" title="ipv6："></a>ipv6：</h3><p>部分用户可能有这个需求。</p>
+<p>online:</p>
+<p>​    online在账户里有ipv6选项（新账号需要先order一个free ipv6 block) 然后自己分subnet。</p>
+<p>oneprovider：</p>
+<p>默认不会给ipv6地址块和DUID，需要你新建一个ticket然后和客服交流获取。</p>
+<p>和oneprovider客服交流过程举例：</p>
+<p><img src="https://i.loli.net/2019/08/10/ZWPSGTpLEe2uwjD.png" alt="Snipaste_2019-08-10_12-42-52.png"></p>
+<p>配置ipv6脚本</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">bash &lt;(wget -qO- https://github.com/Aniverse/aBox/raw/master/scripts/ipv6)</span><br></pre></td></tr></table></figure>
+
+<p>​    scw/ik/lw 的 debian 8-10/ubuntu 16.04-18.04 配置（20.04 应该也可以，没试过，应该也是 netplan 吧）</p>
+<p>手动配置:</p>
+<p>​    ubuntu 18.04:</p>
+<p>​        <a href="https://blog.gloriousdays.pw/2019/03/14/configure-online-net-ipv6-on-ubuntu-18-04/">https://blog.gloriousdays.pw/2019/03/14/configure-online-net-ipv6-on-ubuntu-18-04/</a></p>
+<p>​    debian: </p>
+<p>​        <a href="https://github.com/jxzy199306/ipv6_dhclient_online_net">https://github.com/jxzy199306/ipv6_dhclient_online_net</a></p>
+<h3 id="服务器运行状态："><a href="#服务器运行状态：" class="headerlink" title="服务器运行状态："></a>服务器运行状态：</h3><p>综合状态判断：常见指令有atop、htop指令，但是如果需求不是很高而且想要一个好看的图形界面可以使用gotop具体可以参考我的<a href="https://yukino.nl/2019/07/19/Gotop/">博文</a></p>
+<p>硬盘状态判断：<code>iostat -dxm 1</code> 如果是安装了星大脚本的可以直接使用<code>ios</code> ，查看最右侧数值为0-100的数值，若较高说明硬盘负载较大</p>
+<h3 id="RSS"><a href="#RSS" class="headerlink" title="RSS"></a>RSS</h3><p>由于qbittorrent的webui没有RSS功能，因此RSS要实现的话需要依赖其他软件，例如flexget、rutorrent的RSS功能，<a href="https://github.com/capric98/GoRSS">GORSS</a>等其他软件实现。</p>
+<p>flexget可以由星大脚本（推荐）安装，或是手动安装。</p>
+<p>手动安装：参考<a href="https://linkthis.me/2018/02/15/the-note-of-using-flexget/">https://linkthis.me/2018/02/15/the-note-of-using-flexget/</a></p>
+<p>配置文件个人认为星大的配置方法比较容易懂好上手</p>
+<p>Link: <a href="https://github.com/Aniverse/WiKi/blob/master/Flexget.md">https://github.com/Aniverse/WiKi/blob/master/Flexget.md</a></p>
+<p>其中deluge和qbittorrent的限速配置不同，均为限制单种上传10000kb/s 下载30000kb/s</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">qbittorrent:</span></span><br><span class="line">  <span class="attr">maxdownspeed:</span> <span class="number">30000</span></span><br><span class="line">  <span class="attr">maxupspeed:</span> <span class="number">10000</span></span><br><span class="line"><span class="attr">deluge:</span></span><br><span class="line">  <span class="attr">max_down_speed:</span> <span class="number">30000</span></span><br><span class="line">  <span class="attr">max_up_speed:</span> <span class="number">10000</span></span><br></pre></td></tr></table></figure>
+
+<p>至于flexget的定时运行个人推荐crontab方式，频率不宜过高，flexget每次execute会占用大量硬盘io，很容易出现种子骤然掉速情况。</p>
+<p>解决flexget的io占用有两个方式：</p>
+<p>1.开一台专门的机器负责flexget，配置不需要太高，普通vps或者你科学上网使用的机器即可。</p>
+<p>2.使用<a href="https://github.com/capric98/GoRSS">GORSS</a> GORSS是由<a href="https://capriccio.moe/">capriccio</a>开发的使用go编写的rss文件，支持push种子到qb和下载种子deluge的watch folder </p>
+<p>2019.10.02更新：</p>
+<p>考虑不少人对于这个修改还是不太熟悉，就大致描述一下，一台刚装好星大脚本的机器需要干什么。</p>
+<p>1.登录进flexget的webui地址</p>
+<p>星大脚本默认是 <code>your_ip:6566</code></p>
+<p>修改配置文件中的tasks部分</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Here are some guides</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># https://ymgblog.com/2018/04/30/396/</span></span><br><span class="line"><span class="comment"># https://npchk.info/linux-flexget-rss/</span></span><br><span class="line"><span class="comment"># https://linkthis.me/2018/02/15/the-note-of-using-flexget/</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># https://github.com/Aniverse/WiKi/blob/master/Flexget.md</span></span><br><span class="line"><span class="comment"># https://github.com/Aniverse/WiKi/blob/master/How.to.use.RSS.md#flexget-rss</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For more usages, check the offical site: https://flexget.com</span></span><br><span class="line"></span><br><span class="line"><span class="attr">templates:</span></span><br><span class="line">  <span class="attr">freespace:</span></span><br><span class="line">    <span class="attr">free_space:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi</span></span><br><span class="line">      <span class="attr">space:</span> <span class="number">10240</span></span><br><span class="line">  <span class="attr">qb:</span></span><br><span class="line">    <span class="attr">qbittorrent:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi/qbittorrent/download/</span> <span class="comment">#默认下载路径</span></span><br><span class="line">      <span class="attr">host:</span> <span class="string">localhost</span></span><br><span class="line">      <span class="attr">port:</span> <span class="number">2017</span></span><br><span class="line">      <span class="attr">username:</span> <span class="string">yezi</span></span><br><span class="line">      <span class="attr">password:</span> <span class="number">123456</span></span><br><span class="line">  <span class="attr">tr:</span></span><br><span class="line">    <span class="attr">transmission:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi/transmission/download/</span> <span class="comment">#默认下载路径</span></span><br><span class="line">      <span class="attr">host:</span> <span class="string">localhost</span></span><br><span class="line">      <span class="attr">port:</span> <span class="number">9099</span></span><br><span class="line">      <span class="attr">username:</span> <span class="string">yezi</span></span><br><span class="line">      <span class="attr">password:</span> <span class="number">123456</span></span><br><span class="line">  <span class="attr">de:</span></span><br><span class="line">    <span class="attr">deluge:</span></span><br><span class="line">      <span class="attr">path:</span> <span class="string">/home/yezi/deluge/download/</span> <span class="comment">#默认下载路径</span></span><br><span class="line">      <span class="attr">host:</span> <span class="string">localhost</span></span><br><span class="line">      <span class="attr">port:</span> <span class="number">58846</span></span><br><span class="line">      <span class="attr">username:</span> <span class="string">yezi</span></span><br><span class="line">      <span class="attr">password:</span> <span class="number">123456</span></span><br><span class="line">  <span class="attr">size:</span></span><br><span class="line">    <span class="attr">content_size:</span></span><br><span class="line">      <span class="attr">min:</span> <span class="number">6000</span></span><br><span class="line">      <span class="attr">max:</span> <span class="number">666666</span></span><br><span class="line">      <span class="attr">strict:</span> <span class="literal">no</span></span><br><span class="line"><span class="attr">tasks:</span></span><br><span class="line">  <span class="attr">tjupt:</span></span><br><span class="line">    <span class="attr">rss:</span> <span class="string">your_link</span> <span class="comment">#你的rss_link</span></span><br><span class="line">    <span class="attr">template:</span> <span class="comment">#调用上面定义的qb模板</span></span><br><span class="line">     <span class="bullet">-</span> <span class="string">qb</span></span><br><span class="line">    <span class="attr">content_size:</span> <span class="comment">#300M-4000M体积过滤</span></span><br><span class="line">     <span class="bullet">-</span> <span class="attr">min:</span> <span class="number">300</span></span><br><span class="line">     <span class="bullet">-</span> <span class="attr">max:</span> <span class="number">4000</span></span><br><span class="line">    <span class="attr">qbittorrent:</span></span><br><span class="line">      <span class="attr">label:</span> <span class="string">tjupt</span> </span><br><span class="line">      <span class="attr">maxupspeed:</span> <span class="number">50000</span> <span class="comment">#kb/s</span></span><br><span class="line">    <span class="attr">accept_all:</span> <span class="literal">yes</span> <span class="comment">#接受所有种子</span></span><br><span class="line"><span class="attr">web_server:</span></span><br><span class="line">  <span class="attr">port:</span> <span class="number">6566</span></span><br><span class="line">  <span class="attr">web_ui:</span> <span class="literal">yes</span></span><br><span class="line"><span class="comment"># This is prepared for reverse proxy, do not uncomment it unless you know how it works</span></span><br><span class="line"><span class="comment"># base_url: /flexget</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># schedules is disabled by default, you need to enable it or use cron to RSS</span></span><br><span class="line"><span class="attr">schedules:</span> <span class="literal">no</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>上面的<code>templates:</code>是一些星大脚本自带的模板，一般是不需要进行修改的。</p>
+<p>这样改完以后，有可能会rss到一些旧种子，你可以在webui的execute菜单进行如下操作，标记掉旧种子</p>
+<p><img src="https://i.loli.net/2019/10/02/WuQn9vpJHsSNa6U.png" alt="QQ截图20191002155838.png"></p>
+<p>右侧勾选learn并且点击execute 就会进行第一次运行且标记掉旧种子</p>
+<p>2.开启定时运行</p>
+<p>假设你运行在了<font color=red>root</font>下，如果不是<font color=red>root</font>下</p>
+<p><code>sudo su -</code> 切换到root</p>
+<p>在ssh窗口输入 <code>crontab -e</code></p>
+<p>默认会有个提示，问你用哪个文本编辑器，直接回车，使用nano</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Edit this file to introduce tasks to be run by cron.</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Each task to run has to be defined through a single line</span></span><br><span class="line"><span class="comment"># indicating with different fields when the task will be run</span></span><br><span class="line"><span class="comment"># and what command to run for the task</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># To define the time you can provide concrete values for</span></span><br><span class="line"><span class="comment"># minute (m), hour (h), day of month (dom), month (mon),</span></span><br><span class="line"><span class="comment"># and day of week (dow) or use &#x27;*&#x27; in these fields (for &#x27;any&#x27;).#</span></span><br><span class="line"><span class="comment"># Notice that tasks will be started based on the cron&#x27;s system</span></span><br><span class="line"><span class="comment"># daemon&#x27;s notion of time and timezones.</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Output of the crontab jobs (including errors) is sent through</span></span><br><span class="line"><span class="comment"># email to the user the crontab file belongs to (unless redirected).</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For example, you can run a backup of all your user accounts</span></span><br><span class="line"><span class="comment"># at 5 a.m every week with:</span></span><br><span class="line"><span class="comment"># 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For more information see the manual pages of crontab(5) and cron(8)</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># m h  dom mon dow   command</span></span><br><span class="line">*/2 * * * * /usr/<span class="built_in">local</span>/bin/flexget --cron execute</span><br></pre></td></tr></table></figure>
+
+<p>最下或者其他任何地方加 上面代码块最后一行即可</p>
+<p>然后ctrl+x退出编辑，编辑器会提问是否保存，输入Y，回车就保存成功了，过2分钟在ssh里输入</p>
+<p><code>flexget status</code>查看flexget运行状态</p>
+<h3 id="Autodl-irssi："><a href="#Autodl-irssi：" class="headerlink" title="Autodl-irssi："></a>Autodl-irssi：</h3><p>这篇主要是给外站使用的，大部分使用在外站对应的wiki中均有，就不多谈了，配置较为简单，直接在rutorrent的webui中就可以配置，部分站点需要先去irc注册一下你的bot的nick，具体请参考具体站点的WiKi等。</p>
+<h3 id="文件传输："><a href="#文件传输：" class="headerlink" title="文件传输："></a>文件传输：</h3><p>星大脚本在安装rt的同时会安装h5ai，h5ai可以用于拖回单文件的情况，使用idm加大进程数可以有效提升拖回速度。</p>
+<p>如果是多文件，可以采用sftp的方式拖回，但是sftp对单一文件只会使用单线程，传输较慢。</p>
+<p>如果要传输文件至盒子上，也可以使用sftp</p>
+<p>当然可以使用网盘（onedrive或者google drive进行中转）具体实现可以google rclone</p>
+<p>例如：</p>
+<p><img src="https://i.loli.net/2019/08/10/rRdft2WkmuXH937.jpg" alt="photo_2019-08-10_13-05-44.jpg"></p>
+<h3 id="优化："><a href="#优化：" class="headerlink" title="优化："></a>优化：</h3><p>我也不会，不要问我。</p>
+<h3 id="自动移除种子及其数据："><a href="#自动移除种子及其数据：" class="headerlink" title="自动移除种子及其数据："></a>自动移除种子及其数据：</h3><p>我很懒，我不想手动删种，我想要程序自动删除某些符合条件的种子。</p>
+<p>对于qbittorrent来说只能使用<a href="https://github.com/jerrymakesjelly/autoremove-torrents">autoremove-torrents</a> </p>
+<p>对于deluge来说方案有两种，推荐前者，稳定且不易崩溃，后者崩溃概率较大</p>
+<p>​    1.使用<a href="https://github.com/jerrymakesjelly/autoremove-torrents">autoremove-torrents</a> </p>
+<p>​    2.使用<a href="https://github.com/omaralvarez/deluge-autoremoveplus">autoremoveplus</a></p>
+<p>前者的使用文档十分详细，且有中文，本文不复读了</p>
+<p>后者的话是deluge的一个插件，星大脚本默认是安装了但是没启用，可以在deluge的webui 设置里勾选此插件，配置还是比较丰富的。</p>
+<p><img src="https://i.loli.net/2019/08/10/7Kctoex3aIR1QfM.png" alt="Snipaste_2019-08-10_13-12-50.png"></p>
+<p>我解释一下上图的配置文件，</p>
+<p>check every： 每T天检查一次 0.0416为大约一小时</p>
+<p>Max.Torrents: 当deluge有N个种子时进行check ，0为无视当前有多少个种</p>
+<p>Min.HDD Space：当硬盘剩下M GB 进行check，-1为无视当前有多少空间。</p>
+<p>所以结合起来就是，每T天进行一次检查，当且仅当有N个种，硬盘剩下M GB时进行后面对每个种子进行条件判断</p>
+<p>条件可以有2条进行组合，比如图上就是移除已做种0.042天的种子。</p>
+<p>examption rules指的是部分类型的种子可以豁免删除 </p>
+<p>exampted torrents count toward maximun指的是豁免种是否统计在 max torrents里</p>
+<p>remove torrents指的是是否移除种子</p>
+<p>remove torrent data指的是是否移除种子下载的数据。</p>
+<p>结合起来我的示例图是 当硬盘空间小于150G时每小时检查一次并且删除做种时间超过一小时的种及其数据。</p>
+<h3 id="如何制种："><a href="#如何制种：" class="headerlink" title="如何制种："></a>如何制种：</h3><p>本人使用盒子制种较少，但是可以依赖星大脚本里的 <code>zuozhong</code> 命令制种，获取视频的mediainfo以及截图可以使用<code>jietu</code>命令，具体可以参考星大写的readme</p>
+<h3 id="如何管理客户端（重启等）"><a href="#如何管理客户端（重启等）" class="headerlink" title="如何管理客户端（重启等）"></a>如何管理客户端（重启等）</h3><p>使用星大脚本安装且勾选了system tweaks的可以使用<code>mingling</code>指令调出脚本菜单，根据菜单指引进行重启或者监视客户端</p>
+<h3 id="共享盒子想装别的软件："><a href="#共享盒子想装别的软件：" class="headerlink" title="共享盒子想装别的软件："></a>共享盒子想装别的软件：</h3><p>可以使用星大写的脚本(星大牛逼) <a href="https://github.com/Aniverse/iFeral">https://github.com/Aniverse/iFeral</a></p>
+<h3 id="ARM盒子如何配置："><a href="#ARM盒子如何配置：" class="headerlink" title="ARM盒子如何配置："></a>ARM盒子如何配置：</h3><p>配置较低，建议使用tr或者rt，可以参考B大的<a href="https://blog.mabors.com/archives/armstorage.html">安装指南</a></p>
+<h3 id="如何抓取免费种："><a href="#如何抓取免费种：" class="headerlink" title="如何抓取免费种："></a>如何抓取免费种：</h3><p><a href="https://github.com/Alvinnfly/promotion">https://github.com/Alvinnfly/promotion</a></p>
+<p><a href="https://github.com/Juszoe/flexget-nexusphp">https://github.com/Juszoe/flexget-nexusphp</a></p>
+<p>星大脚本plugin路径位置</p>
+<p><code>~/.config/flexget/plugins</code></p>
+<p>本人未使用过 也不知道怎么用 会不会被ban我也不知道</p>
+<h3 id="Hetzner-RAID0以及安装系统："><a href="#Hetzner-RAID0以及安装系统：" class="headerlink" title="Hetzner-RAID0以及安装系统："></a>Hetzner-RAID0以及安装系统：</h3><p><a href="https://npchk.info/hetzner-raid0/">https://npchk.info/hetzner-raid0/</a></p>
+<h3 id="手动编译安装qbittorrent："><a href="#手动编译安装qbittorrent：" class="headerlink" title="手动编译安装qbittorrent："></a>手动编译安装qbittorrent：</h3><p><a href="https://npchk.info/ubuntu-debian-install-qbittorrent/">https://npchk.info/ubuntu-debian-install-qbittorrent/</a></p>
+<h3 id="开启root用户远程登录："><a href="#开启root用户远程登录：" class="headerlink" title="开启root用户远程登录："></a>开启root用户远程登录：</h3><p>一键版：完成后不会有提示</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sed -i <span class="string">&#x27;/.*PermitRootLogin.*/d&#x27;</span> /etc/ssh/sshd_config ; <span class="built_in">echo</span> <span class="string">&#x27;PermitRootLogin yes&#x27;</span> &gt;&gt; /etc/ssh/sshd_config ; /etc/init.d/ssh restart</span><br></pre></td></tr></table></figure>
+
+<p>手动版</p>
+<p><code>sudo nano /etc/ssh/sshd_config</code></p>
+<p>找到<code>PermitRootLogin </code> 将其值修改为yes </p>
+<p>按ctrl+X保存并关闭文件，按Y确认保存文件，按ENTER退出nano。</p>
+<p>重启sshd服务</p>
+<p><code>sudo systemctl restart ssh</code></p>
+<h3 id="一些杂物："><a href="#一些杂物：" class="headerlink" title="一些杂物："></a>一些杂物：</h3><p>简介生成工具：<a href="https://github.com/BFDZ/PT-Gen">PT-GEN</a> &amp; <a href="https://github.com/Rhilip/pt-gen-cfworker">PT-GEN-cfworker</a></p>
+<p>​    不想自己部署的话可以使用：<a href="https://rhilip.github.io/PT-help/ptgen">https://rhilip.github.io/PT-help/ptgen</a></p>
+<p>​    或者我部署的<a href="https://yezi.ga/">https://yezi.ga/</a></p>
+<p>​    注意一些站点要求图片不能使用豆瓣，请自行上传至网站服务器或者图床</p>
+<p>​    R酱的PT-GEN收录文章：<a href="https://blog.rhilip.info/archives/1063/">https://blog.rhilip.info/archives/1063/</a></p>
+<p>常用图床：</p>
+<p><a href="http://www.imagebam.com/">http://imagebam.com</a> 支持纯porn图片 自动生成缩略图</p>
+<p><a href="https://imgbox.com/">https://imgbox.com/</a> </p>
+<p><a href="https://pixhost.to/">https://pixhost.to/</a> 支持porn</p>
+<h1 id="To-be-continued······"><a href="#To-be-continued······" class="headerlink" title="To be continued······"></a>To be continued······</h1><p>已知要写的：</p>
+<p><del>1.找人代购盒子或者自己购买需要注意的地方</del> 好像也没啥能写的</p>
+<p><del>2.关于vps的一些tips</del>   不想写了</p>
+<p>3.一些影视有关基础科普 太难了</p>
+<p>4.重新优化结构 咕咕咕</p>
+<p>5.一键上传至部分图床的脚本 </p>
+<p>不知道还能写点什么，回头看了看自己写了啥，感觉都在解释一些常见用法，如果有什么想问的可以在评论区留言，记得填一个能联系到你的邮箱，这样如果其他人有回复了会有邮件提醒。</p>
+<p>如果有错误部分请大力指出，</p>
+<p>感谢观看 &amp; Thanks for everyone </p>
+<p>本文发布于我的<a href="https://yukino.nl/2019/08/10/pt-tools/">blog</a>，后续更新等均在blog里，转载请注明出处。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>PT</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Bash</tag>
+        <tag>Tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>为本地的ssh设置代理，通过connect</title>
+    <url>/2019/10/02/ssh-proxy-connect/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>说个笑话，我在我学校的默认dns下居然解析不出GitHub了。。。。药丸</p>
+<p>更新了下博文push了若干次没push上去，一度怀疑是自己SSH-key炸了，检查一通发现原来是连不上Github服务器，然后发现我配的deploy方式是SSH，还需要用工具给ssh上proxy，一通乱查才解决，给自己留个备注吧。</p>
+<h3 id="下载并且安装connect"><a href="#下载并且安装connect" class="headerlink" title="下载并且安装connect"></a>下载并且安装connect</h3><p>Connect的<a href="https://bitbucket.org/gotoh/connect/src">项目地址</a></p>
+<h5 id="Linux-Mac"><a href="#Linux-Mac" class="headerlink" title="Linux/Mac"></a>Linux/Mac</h5><p>克隆项目到本地，编译安装：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hg <span class="built_in">clone</span> https://bitbucket.org/gotoh/connect </span><br><span class="line"><span class="built_in">cd</span> connect</span><br><span class="line">make &amp;&amp; make install</span><br></pre></td></tr></table></figure>
+
+<h5 id="Win："><a href="#Win：" class="headerlink" title="Win："></a>Win：</h5><p>下载<a href="https://bitbucket.org/gotoh/connect/downloads">二进制文件</a>到<code>C:/Windows</code></p>
+<h3 id="配置SSH"><a href="#配置SSH" class="headerlink" title="配置SSH"></a>配置SSH</h3><p>如果你使用的是本地的socks5代理，添加这两行到<code>~/.ssh/config</code> （如果没有就新建一份）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Host * </span><br><span class="line">    ProxyCommand connect -H 127.0.0.1:1080 %h %p</span><br></pre></td></tr></table></figure>
+
+<p>端口请自行替换为本地socks5端口号</p>
+<p>如果你使用的是HTTP代理，将<code>-H</code>修改为<code>-S</code></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Win</tag>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Rclone配置方式</title>
+    <url>/2019/10/04/rclone-config/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>最近有点沉迷把东西backup到Google drive上，还开了个商业版来方便自己传东西，本文主要是面向0基础的rclone科普教程。主要涉及部分是rclone的安装，rclone配置文件的建立，<del>挂载</del>我不喜欢挂载所以我也不会(</p>
+<h3 id="安装："><a href="#安装：" class="headerlink" title="安装："></a>安装：</h3><h4 id="Linux："><a href="#Linux：" class="headerlink" title="Linux："></a>Linux：</h4><p>移步官网安装脚本：<code>curl https://rclone.org/install.sh | sudo bash</code></p>
+<h4 id="Windows："><a href="#Windows：" class="headerlink" title="Windows："></a>Windows：</h4><p>64位：<a href="https://downloads.rclone.org/rclone-current-windows-amd64.zip">https://downloads.rclone.org/rclone-current-windows-amd64.zip</a></p>
+<p>32位：<a href="https://downloads.rclone.org/rclone-current-windows-386.zip">https://downloads.rclone.org/rclone-current-windows-386.zip</a></p>
+<p>下载过来是个安装包，解压后将rclone.exe放到<code>C:\Windows\System32</code>就好了(当然也可以放在其他目录然后配置环境变量或者每次使用都手动输入rclone全路径)</p>
+<p>如果你要挂载rclone上的网盘，windows还需要安装一个依赖项： <code>winfsp</code></p>
+<p>可选下载地址：<a href="http://www.secfs.net/winfsp/download/">http://www.secfs.net/winfsp/download/</a></p>
+<h3 id="rclone配置："><a href="#rclone配置：" class="headerlink" title="rclone配置："></a>rclone配置：</h3><p>打开cmd或者其他终端</p>
+<p>如下操作</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\54323&gt;rclone config</span><br><span class="line">Current remotes:</span><br><span class="line"></span><br><span class="line">Name                 Type</span><br><span class="line">====                 ====</span><br><span class="line">gd                   drive</span><br><span class="line">gd2                  drive</span><br><span class="line">gd3                  drive</span><br><span class="line">my                   drive</span><br><span class="line"></span><br><span class="line">e) Edit existing remote</span><br><span class="line">n) New remote</span><br><span class="line">d) Delete remote</span><br><span class="line">r) Rename remote</span><br><span class="line">c) Copy remote</span><br><span class="line">s) Set configuration password</span><br><span class="line">q) Quit config</span><br><span class="line">e/n/d/r/c/s/q&gt; n</span><br><span class="line"><span class="comment">#输入n 新建一个remote</span></span><br><span class="line">name&gt; <span class="built_in">test</span></span><br><span class="line"><span class="comment">#输入自己想要的名字</span></span><br><span class="line">Type of storage to configure.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">Choose a number from below, or <span class="built_in">type</span> <span class="keyword">in</span> your own value</span><br><span class="line"> 1 / A stackable unification remote, <span class="built_in">which</span> can appear to merge the contents of several remotes</span><br><span class="line">   \ <span class="string">&quot;union&quot;</span></span><br><span class="line"> 2 / Alias <span class="keyword">for</span> a existing remote</span><br><span class="line">   \ <span class="string">&quot;alias&quot;</span></span><br><span class="line"> 3 / Amazon Drive</span><br><span class="line">   \ <span class="string">&quot;amazon cloud drive&quot;</span></span><br><span class="line"> 4 / Amazon S3 Compliant Storage Provider (AWS, Alibaba, Ceph, Digital Ocean, Dreamhost, IBM COS, Minio, etc)</span><br><span class="line">   \ <span class="string">&quot;s3&quot;</span></span><br><span class="line"> 5 / Backblaze B2</span><br><span class="line">   \ <span class="string">&quot;b2&quot;</span></span><br><span class="line"> 6 / Box</span><br><span class="line">   \ <span class="string">&quot;box&quot;</span></span><br><span class="line"> 7 / Cache a remote</span><br><span class="line">   \ <span class="string">&quot;cache&quot;</span></span><br><span class="line"> 8 / Dropbox</span><br><span class="line">   \ <span class="string">&quot;dropbox&quot;</span></span><br><span class="line"> 9 / Encrypt/Decrypt a remote</span><br><span class="line">   \ <span class="string">&quot;crypt&quot;</span></span><br><span class="line">10 / FTP Connection</span><br><span class="line">   \ <span class="string">&quot;ftp&quot;</span></span><br><span class="line">11 / Google Cloud Storage (this is not Google Drive)</span><br><span class="line">   \ <span class="string">&quot;google cloud storage&quot;</span></span><br><span class="line">12 / Google Drive</span><br><span class="line">   \ <span class="string">&quot;drive&quot;</span></span><br><span class="line">13 / Hubic</span><br><span class="line">   \ <span class="string">&quot;hubic&quot;</span></span><br><span class="line">14 / JottaCloud</span><br><span class="line">   \ <span class="string">&quot;jottacloud&quot;</span></span><br><span class="line">15 / Local Disk</span><br><span class="line">   \ <span class="string">&quot;local&quot;</span></span><br><span class="line">16 / Mega</span><br><span class="line">   \ <span class="string">&quot;mega&quot;</span></span><br><span class="line">17 / Microsoft Azure Blob Storage</span><br><span class="line">   \ <span class="string">&quot;azureblob&quot;</span></span><br><span class="line">18 / Microsoft OneDrive</span><br><span class="line">   \ <span class="string">&quot;onedrive&quot;</span></span><br><span class="line">19 / OpenDrive</span><br><span class="line">   \ <span class="string">&quot;opendrive&quot;</span></span><br><span class="line">20 / Openstack Swift (Rackspace Cloud Files, Memset Memstore, OVH)</span><br><span class="line">   \ <span class="string">&quot;swift&quot;</span></span><br><span class="line">21 / Pcloud</span><br><span class="line">   \ <span class="string">&quot;pcloud&quot;</span></span><br><span class="line">22 / QingCloud Object Storage</span><br><span class="line">   \ <span class="string">&quot;qingstor&quot;</span></span><br><span class="line">23 / SSH/SFTP Connection</span><br><span class="line">   \ <span class="string">&quot;sftp&quot;</span></span><br><span class="line">24 / Webdav</span><br><span class="line">   \ <span class="string">&quot;webdav&quot;</span></span><br><span class="line">25 / Yandex Disk</span><br><span class="line">   \ <span class="string">&quot;yandex&quot;</span></span><br><span class="line">26 / http Connection</span><br><span class="line">   \ <span class="string">&quot;http&quot;</span></span><br><span class="line">Storage&gt; 12</span><br><span class="line"><span class="comment">#输入12 回车</span></span><br><span class="line">** See <span class="built_in">help</span> <span class="keyword">for</span> drive backend at: https://rclone.org/drive/ **</span><br><span class="line"></span><br><span class="line">Google Application Client Id</span><br><span class="line">Leave blank normally.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">client_id&gt;</span><br><span class="line"><span class="comment">#作者注：client_id和client_secret不填的话会使用rclone的api，在高峰期的时候稳定性一般，可以考虑自己建立一个API，但是轻度使用没什么区别</span></span><br><span class="line">Google Application Client Secret</span><br><span class="line">Leave blank normally.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">client_secret&gt;</span><br><span class="line"><span class="comment">#回车 使用默认api</span></span><br><span class="line">Scope that rclone should use when requesting access from drive.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">Choose a number from below, or <span class="built_in">type</span> <span class="keyword">in</span> your own value</span><br><span class="line"> 1 / Full access all files, excluding Application Data Folder.</span><br><span class="line">   \ <span class="string">&quot;drive&quot;</span></span><br><span class="line"> 2 / Read-only access to file metadata and file contents.</span><br><span class="line">   \ <span class="string">&quot;drive.readonly&quot;</span></span><br><span class="line">   / Access to files created by rclone only.</span><br><span class="line"> 3 | These are visible <span class="keyword">in</span> the drive website.</span><br><span class="line">   | File authorization is revoked when the user deauthorizes the app.</span><br><span class="line">   \ <span class="string">&quot;drive.file&quot;</span></span><br><span class="line">   / Allows <span class="built_in">read</span> and write access to the Application Data folder.</span><br><span class="line"> 4 | This is not visible <span class="keyword">in</span> the drive website.</span><br><span class="line">   \ <span class="string">&quot;drive.appfolder&quot;</span></span><br><span class="line">   / Allows read-only access to file metadata but</span><br><span class="line"> 5 | does not allow any access to <span class="built_in">read</span> or download file content.</span><br><span class="line">   \ <span class="string">&quot;drive.metadata.readonly&quot;</span></span><br><span class="line">scope&gt; 1</span><br><span class="line"><span class="comment">#填1</span></span><br><span class="line">ID of the root folder</span><br><span class="line">Leave blank normally.</span><br><span class="line">Fill <span class="keyword">in</span> to access <span class="string">&quot;Computers&quot;</span> folders. (see docs).</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line">root_folder_id&gt;</span><br><span class="line"><span class="comment">#直接回车</span></span><br><span class="line">Service Account Credentials JSON file path </span><br><span class="line">Leave blank normally.</span><br><span class="line">Needed only <span class="keyword">if</span> you want use SA instead of interactive login.</span><br><span class="line">Enter a string value. Press Enter <span class="keyword">for</span> the default (<span class="string">&quot;&quot;</span>).</span><br><span class="line"><span class="comment">#直接回车</span></span><br><span class="line">service_account_file&gt;</span><br><span class="line">Edit advanced config? (y/n)</span><br><span class="line">y) Yes</span><br><span class="line">n) No</span><br><span class="line">y/n&gt; n</span><br><span class="line"><span class="comment">#不需要高级设置</span></span><br><span class="line">Remote config</span><br><span class="line">Use auto config?</span><br><span class="line"> * Say Y <span class="keyword">if</span> not sure</span><br><span class="line"> * Say N <span class="keyword">if</span> you are working on a remote or headless machine</span><br><span class="line">y) Yes</span><br><span class="line">n) No</span><br><span class="line">y/n&gt; n</span><br><span class="line"><span class="comment">#交给rclone自动认证</span></span><br><span class="line">If your browser doesn<span class="string">&#x27;t open automatically go to the following link: https://accounts.google.com/o/oauth2/auth?access_type=offline&amp;clienxxxxxxxx</span></span><br><span class="line"><span class="string">Log in and authorize rclone for access</span></span><br><span class="line"><span class="string">#复制打开上述网址，并且登入你想要的gg账号，然后会获得一个4开头的授权码，粘贴到下方，并且回车</span></span><br><span class="line"><span class="string">Enter verification code&gt; 4/xxxxxxxB-xxx</span></span><br><span class="line"><span class="string">Configure this as a team drive?</span></span><br><span class="line"><span class="string">y) Yes</span></span><br><span class="line"><span class="string">n) No</span></span><br><span class="line"><span class="string">y/n&gt; y</span></span><br><span class="line"><span class="string">#是否是团队盘</span></span><br><span class="line"><span class="string">Fetching team drive list...</span></span><br><span class="line"><span class="string">Choose a number from below, or type in your own value</span></span><br><span class="line"><span class="string"> 1 / seedbox</span></span><br><span class="line"><span class="string">   \ &quot;0Axxxx&quot;</span></span><br><span class="line"><span class="string"> 2 / YeZi</span></span><br><span class="line"><span class="string">   \ &quot;0AOxxxx&quot;</span></span><br><span class="line"><span class="string">Enter a Team Drive ID&gt; 2</span></span><br><span class="line"><span class="string">#选择一个团队盘</span></span><br><span class="line"><span class="string">--------------------</span></span><br><span class="line"><span class="string">[test]</span></span><br><span class="line"><span class="string">type = drive</span></span><br><span class="line"><span class="string">scope = drive</span></span><br><span class="line"><span class="string">token = &#123;&quot;access_token&quot;:&quot;xxxxxx&quot;,&quot;token_type&quot;:&quot;xxxx&quot;,&quot;refresh_token&quot;:&quot;xxxx</span></span><br><span class="line"><span class="string">x&quot;,&quot;expiry&quot;:&quot;2x&quot;&#125;</span></span><br><span class="line"><span class="string">team_drive = xxxx</span></span><br><span class="line"><span class="string">--------------------</span></span><br><span class="line"><span class="string">y) Yes this is OK</span></span><br><span class="line"><span class="string">e) Edit this remote</span></span><br><span class="line"><span class="string">d) Delete this remote</span></span><br><span class="line"><span class="string">y/e/d&gt; y</span></span><br><span class="line"><span class="string">#展示一下本次配置的信息，没问题就y回车 添加成功</span></span><br><span class="line"><span class="string">Current remotes:</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">Name                 Type</span></span><br><span class="line"><span class="string">====                 ====</span></span><br><span class="line"><span class="string">gd                   drive</span></span><br><span class="line"><span class="string">gd2                  drive</span></span><br><span class="line"><span class="string">gd3                  drive</span></span><br><span class="line"><span class="string">my                   drive</span></span><br><span class="line"><span class="string">test                 drive</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">e) Edit existing remote</span></span><br><span class="line"><span class="string">n) New remote</span></span><br><span class="line"><span class="string">d) Delete remote</span></span><br><span class="line"><span class="string">r) Rename remote</span></span><br><span class="line"><span class="string">c) Copy remote</span></span><br><span class="line"><span class="string">s) Set configuration password</span></span><br><span class="line"><span class="string">q) Quit config</span></span><br><span class="line"><span class="string">e/n/d/r/c/s/q&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>上述操作是在windows下进行的，linux目前方式一样</p>
+<h3 id="rclone常用命令："><a href="#rclone常用命令：" class="headerlink" title="rclone常用命令："></a>rclone常用命令：</h3><p><code>rclone copy SRC DST</code></p>
+<p>其中SRC指代源文件位置，假设源文件在本地”d:/test” 目的地是test这个网盘的1文件夹</p>
+<p><code>rclone copy d:/test test:1</code></p>
+<p>也可以是从一个网盘到另一个网盘</p>
+<p>比如</p>
+<p><code>rclone copy gd1:web gd2:web</code></p>
+<p>在后面加参数–transfer x 可以修改传输进程数 较吃资源</p>
+<p>(其他指令我也不知道了</p>
+<p>嘛 就酱紫吧 每日上限是单账号750G，所以你可以开一堆小号都加到团队盘里然后换着号上传，copy会自动校验文件创建时间和hash，一般不会出现损坏。</p>
+<p>rclone过滤或者仅包括部分文件格式</p>
+<p><code>rclone [filter] [action] [src] [dst] [flag]</code></p>
+<p><code>filter</code>代指各类过滤规则 包括<code>include exclude</code> </p>
+<p><code>action</code>代指本次需要执行的行为 包括 <code>move copy sync</code> </p>
+<p><code>src dst</code> 为源路径和目的路径</p>
+<p><code>flag</code>为本次运行的其他参数</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Windows</tag>
+        <tag>Google</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>t-rss</title>
+    <url>/2019/12/31/t-rss/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于本人不会用Flexget，而且比较穷买不起好的盒子，只能用 <a href="https://capriccio.moe/">@包包</a>开发的t-rss(<del>以前gorss不是挺好听的吗为什么要改名</del>)</p>
+<p>但是我每次又得手撸一些代码来安装 不如自己配一个。。。</p>
+<h3 id="安装代码"><a href="#安装代码" class="headerlink" title="安装代码"></a>安装代码</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">apt-get install git</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- https://raw.githubusercontent.com/capric98/myenv/master/Go/Linux/install.sh)</span><br><span class="line"><span class="built_in">source</span> ~/.profile</span><br><span class="line">git <span class="built_in">clone</span> https://github.com/capric98/t-rss &amp;&amp; <span class="built_in">cd</span> t-rss</span><br><span class="line">go build</span><br><span class="line">mkdir ~/rss</span><br><span class="line">mv ./t-rss ~/rss/rss</span><br><span class="line"><span class="built_in">cd</span> ..</span><br><span class="line">rm -rf ./t-rss</span><br></pre></td></tr></table></figure>
+
+<p>如果你是用quickbox-lite安装的主要软件，你如果执行完上述步骤发现box有关指令失灵了</p>
+<p>运行一下下面这一行也许就好了</p>
+<p><code>source ~/.bash_qb</code></p>
+<p>跑完上面的大概就会在<code>~/rss</code>了</p>
+<p>然后你要在<code>~/rss</code>新建一个config.yml</p>
+<p>举例如下</p>
+<p>写完了以后</p>
+<p>使用<code>./rss --test</code>测试一下自己的配置文件，直接用<code>./rss --learn</code>也可以，test的话是会跑一次rss但是不会有记忆功能，而learn会记忆本次加载的种子避免下次再次RSS到</p>
+<p>测试没问题就可以开一个单独的screen来运行t-rss</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="string">screen</span> <span class="string">-R</span> <span class="string">t-rss</span></span><br><span class="line"><span class="string">cd</span> <span class="string">~/rss</span></span><br><span class="line"><span class="string">./rss</span> <span class="string">--debug</span></span><br></pre></td></tr></table></figure>
+
+<p>然后Ctrl+A+D退出这个screen让他在后台运行就可以了~</p>
+<p>另外为了方便自己还有个模板,内容很少，需要一些奇怪配置项请自己去<a href="https://github.com/capric98/t-rss/blob/master/README-zh_CN.md">官方页面</a>查看</p>
+<p>注意是yaml 空格之类的请自己注意~</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">noob:</span> <span class="string">//任务名称</span></span><br><span class="line">  <span class="attr">rss:</span> <span class="string">//RSS链接</span></span><br><span class="line">  <span class="attr">interval:</span> <span class="number">60</span> <span class="string">//60秒一次</span></span><br><span class="line">  <span class="attr">client:</span> <span class="string">//推送到某些客户端</span></span><br><span class="line">    <span class="attr">local_qb:</span> <span class="string">//</span> <span class="string">客户端名称</span></span><br><span class="line">      <span class="attr">type:</span> <span class="string">qBittorrent</span> <span class="string">//客户端类型</span></span><br><span class="line">      <span class="attr">host:</span> <span class="string">http://127.0.0.1:2017</span> <span class="string">//客户端ip</span></span><br><span class="line">      <span class="attr">username:</span> <span class="string">//用户名</span></span><br><span class="line">      <span class="attr">password:</span> <span class="string">//密码</span></span><br></pre></td></tr></table></figure>
+
+<p>拒绝带有’test’ 关键词的任务</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">noob: //任务名称</span><br><span class="line">  rss: //RSS链接</span><br><span class="line">  interval: 60 //60秒一次</span><br><span class="line">  regexp:</span><br><span class="line">    reject:</span><br><span class="line">      - test</span><br><span class="line">  client: //推送到某些客户端</span><br><span class="line">    local_qb: // 客户端名称</span><br><span class="line">      type: qBittorrent //客户端类型</span><br><span class="line">      host: http://127.0.0.1:2017 //客户端ip</span><br><span class="line">      username: //用户名</span><br><span class="line">      password: //密码</span><br></pre></td></tr></table></figure>
+
+<p>只接受带有’test’关键词的任务</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">noob: //任务名称</span><br><span class="line">  rss: //RSS链接</span><br><span class="line">  interval: 60 //60秒一次</span><br><span class="line">  regexp:</span><br><span class="line">    accept:</span><br><span class="line">      - test</span><br><span class="line">  client: //推送到某些客户端</span><br><span class="line">    local_qb: // 客户端名称</span><br><span class="line">      type: qBittorrent //客户端类型</span><br><span class="line">      host: http://127.0.0.1:2017 //客户端ip</span><br><span class="line">      username: //用户名</span><br><span class="line">      password: //密码</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>PT</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Go</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Bitwise ORs of Subarrays</title>
+    <url>/2019/04/19/tmplate/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="LeetCode-898-Bitwise-ORs-of-Subarrays"><a href="#LeetCode-898-Bitwise-ORs-of-Subarrays" class="headerlink" title="LeetCode 898. Bitwise ORs of Subarrays"></a>LeetCode 898. Bitwise ORs of Subarrays</h3><h4 id="Desc"><a href="#Desc" class="headerlink" title="Desc:"></a>Desc:</h4><p>有一个非负整数数组a，对所有整数对(i,j)求 a[i]|a[i+1]|a[i+2]…a[j] 的值（|为按位或），求共有多少个不相等的值<br>$$<br>1\le a.length() \le 5000<br>$$</p>
+<p>$$<br>0 \le a[i] \le 10^9<br>$$</p>
+<h4 id="My-Ans"><a href="#My-Ans" class="headerlink" title="My_Ans:"></a>My_Ans:</h4><p>n^2裸题 冲冲冲</p>
+<p>设b(i,j)=a[i]|a[i+1]….|a[j] 用一个set now保存b(0,i),b(1,i),b(2,i) </p>
+<p>然后每次处理到a[i+1]的时候 把now里的所有项和a[i+1] 按位或一下</p>
+<p>然后把a[i+1]添加到now里 </p>
+<p>但是这个范围好像给我喂了一口X….</p>
+<p>仔细分析 10^9 那好像最多也不会有很多数啊</p>
+<p>按位或的特性就是一旦有了1就不会再变成0了…</p>
+<p>那也就是说最坏的情况下now这个集合里只会有30个不同的值</p>
+<p>但是这个过程中我们会遇到一个巨大的数据结构常数 即set去重和插入的时间</p>
+<p>大概复杂度是<br>$$<br>log(10^9)<em>N=30</em>N<br>$$<br>然后 然后我冲了 （反正leetcode 复杂度这么宽</p>
+<p>莽夫是这样的</p>
+<p>UPD: 再思考一下你会发现b(i,j)可以从b(i+1,j)推出来可以少一个set now 貌似能跑更快</p>
+<h4 id="Code"><a href="#Code" class="headerlink" title="Code:"></a>Code:</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">subarrayBitwiseORs</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt; A)</span> </span>&#123;</span><br><span class="line">        unordered_set&lt;<span class="keyword">int</span>&gt; result, now, tmp;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">auto</span> i: A) &#123;</span><br><span class="line">            tmp = &#123;i&#125;;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">auto</span> j: now) tmp.<span class="built_in">insert</span>(i|j);</span><br><span class="line">            now = tmp;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">auto</span> j: now) result.<span class="built_in">insert</span>(j);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> result.<span class="built_in">size</span>();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">subarrayBitwiseORs</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; A)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> maxval = *<span class="built_in">max_element</span>(A.<span class="built_in">begin</span>(), A.<span class="built_in">end</span>()),mask=<span class="number">1</span>;</span><br><span class="line">        <span class="keyword">while</span> (maxval &gt;= mask) mask &lt;&lt;= <span class="number">1</span>;</span><br><span class="line">        mask -= <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">if</span> (mask == <span class="number">0</span>) <span class="keyword">return</span> <span class="number">1</span>;</span><br><span class="line">        unordered_set&lt;<span class="keyword">int</span>&gt; nums;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; A.<span class="built_in">size</span>(); ++i) &#123;</span><br><span class="line">            <span class="keyword">int</span> val =  <span class="number">0</span>;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = i; j &gt;= <span class="number">0</span> &amp;&amp; val != mask; --j) &#123;</span><br><span class="line">                val |= A[j];</span><br><span class="line">                nums.<span class="built_in">insert</span>(val);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> nums.<span class="built_in">size</span>();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用MSYS2+mingw编译x264-tmod</title>
+    <url>/2020/03/23/x264-tmod-build/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近在试着压片，想在mediainfo里夹带私货，所以需要自己编译一下x264。</p>
+<p>本文仅做记录用，由于自己水平不足无法答疑请谅解。</p>
+<h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>安装 Git</p>
+<p>安装<a href="https://www.msys2.org/">MSYS2</a></p>
+<p>由于网络原因你可能需要给MSYS换源或者设置代理，此处不赘述</p>
+<p>安装完毕以后找到MSYS2 MinGW 64-bit</p>
+<p>打开MSYS2</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pacman -Syu</span><br><span class="line">pacman -Su</span><br><span class="line">pacman -S mingw-w64-i686-gcc</span><br><span class="line">pacman -S mingw-w64-x86_64-gcc</span><br><span class="line">pacman -S base-devel</span><br><span class="line">pacman -S vim</span><br><span class="line">pacman -S nasm</span><br><span class="line">pacman -S git</span><br></pre></td></tr></table></figure>
+
+<p>以上安装完成后输入</p>
+<p><code>gcc -v</code></p>
+<p>查看是否正常</p>
+<h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>假设本次的文件都在 “ C:\x264_Prg\ “</p>
+<p>在git bash中</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> <span class="string">&quot;C:\x264_Prg\ &quot;</span></span><br><span class="line">git <span class="built_in">clone</span> https://github.com/l-smash/l-smash.git</span><br><span class="line">git <span class="built_in">clone</span> https://github.com/jpsdr/x264.git -b t_mod_New</span><br></pre></td></tr></table></figure>
+
+<p>进入 “ C:\x264_Prg\l-smash “ 新建文件夹 Build_x264</p>
+<p>修改makefile</p>
+<p>找到</p>
+<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/lsmash.h $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(libdir)/pkgconfig</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> liblsmash.pc $(DESTDIR)$(libdir)/pkgconfig</span><br></pre></td></tr></table></figure>
+
+<p>修改为</p>
+<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/lsmash.h $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/importer.h $(DESTDIR)$(includedir)/lsmash_importer.h</span><br><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(libdir)/pkgconfig</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> liblsmash.pc $(DESTDIR)$(libdir)/pkgconfig</span><br></pre></td></tr></table></figure>
+
+<p>将</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$(RM) $(DESTDIR)$(includedir)/lsmash.h</span><br></pre></td></tr></table></figure>
+
+<p>替换为</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$(RM) $(addprefix $(DESTDIR)$(includedir)/, lsmash.h, lsmash_importer.h)</span><br></pre></td></tr></table></figure>
+
+<p>然后进入  “ C:\x264_Prg\l-smash\importer “将importer.h 复制到 “C:\x264_Prg\l-smash”</p>
+<p>然后在 “ C:\x264_Prg\ “新建一个” <em>Build_lsmash_x264.sh</em> “</p>
+<p>文件内容如下</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> ./l-smash/Build_x264</span><br><span class="line">_dir=<span class="string">&quot;/local-x264&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;32&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>_x86&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>_x64&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$2</span>&quot;</span> = <span class="string">&quot;posix&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/posix&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$2</span>&quot;</span> = <span class="string">&quot;win32&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/Win32threads&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;original&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/Original&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;tmod&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/t_mod&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;jpsdr&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/jpsdr&quot;</span></span><br><span class="line">_ld=<span class="string">&quot;-static&quot;</span></span><br><span class="line">_cf=<span class="string">&quot;&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;jpsdr&quot;</span> ]] &amp;&amp; _cf=<span class="string">&quot;-march=haswell -mavx -mavx2 -mtune=haswell&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _ld=<span class="string">&quot;<span class="variable">$&#123;_ld&#125;</span> -m64&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _cf=<span class="string">&quot;<span class="variable">$&#123;_cf&#125;</span> -m64&quot;</span></span><br><span class="line">PKG_CONFIG_PATH=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/lib/pkgconfig&quot;</span> \</span><br><span class="line">../configure --prefix=<span class="variable">$&#123;_dir&#125;</span> --extra-ldflags=<span class="string">&quot;<span class="variable">$&#123;_ld&#125;</span>&quot;</span> --extra-cflags=<span class="string">&quot;<span class="variable">$&#123;_cf&#125;</span>&quot;</span></span><br><span class="line">make -j1 lib</span><br><span class="line">make install</span><br><span class="line">make clean</span><br></pre></td></tr></table></figure>
+
+<p>在git bash里执行</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">./Build_lsmash_x264.sh 64 win32 tmod</span><br></pre></td></tr></table></figure>
+
+<p>或32位</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./Build_lsmash_x264.sh 32 win32 tmod</span><br></pre></td></tr></table></figure>
+
+<p>l-smash完成</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span>  <span class="string">&quot;C:\x264_Prg\x264&quot;</span></span><br><span class="line">./configure</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
+
+<p>x264完成</p>
+<p>具体configure的可选配置项可以自行前往<a href="https://github.com/jpsdr/x264/blob/t_mod_New/configure">x264文件</a>查看</p>
+<p>如果有需要修改version的需求，可以自行在编译前修改x264文件夹下的version.sh</p>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p><a href="https://forum.doom9.org/showthread.php?t=172610">https://forum.doom9.org/showthread.php?t=172610</a></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Windows</tag>
+        <tag>Tools</tag>
+        <tag>encode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2018总结</title>
+    <url>/2019/01/03/%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>不知不觉2018过去了</p>
+<p>本来打算12.31写的 然而咕咕了</p>
+<p>现在还打算继续咕咕</p>
+<p>先写2019目标（笑</p>
+<p>希望自己考研顺利</p>
+<p>PT继续佛系刷</p>
+<p>有钱组NAS</p>
+<p>换个显示器</p>
+<p>其他东西不要坏（瘫</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>鶸</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>假期</title>
+    <url>/2019/07/02/%E5%81%87%E6%9C%9F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="Something-good-amp-Something-bad"><a href="#Something-good-amp-Something-bad" class="headerlink" title="Something good &amp; Something bad"></a>Something good &amp; Something bad</h4><p>生活总是让我这么喜欢摸鱼，也许是逃避，也许是天性</p>
+<p>好消息是我终于有一个完整的暑假了</p>
+<p>坏消息是全力考研的时间到了</p>
+<p>但是我最近很长一段时间都还在摸鱼</p>
+<p>研究怎么压片，研究怎么写代码更优雅，水各种各样的群</p>
+<p>不知道为什么 可能是提不起劲 或是自己给自己的要求太低了</p>
+<p>鱼 总是要摸的</p>
+<p>但是 问题总是要解决的</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>成为社畜的六个月</title>
+    <url>/2020/12/19/%E6%88%90%E4%B8%BA%E7%A4%BE%E7%95%9C%E7%9A%84%E5%85%AD%E4%B8%AA%E6%9C%88/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>不知不觉来深圳四舍五入六个月，时间过去了但是没留下任何深刻的记忆，自己也没什么变化，大体来说就是虚度光阴。</p>
+<p>之后都是些碎碎念罢了，或许该把NAS开起来继续当一个NEET？</p>
+<h4 id="Work"><a href="#Work" class="headerlink" title="Work"></a>Work</h4><p>顺利的度过了试用期，回收掉了试用期不过的flag，然而封培的一个组员被刀了，尽管都还在深圳，也都还有机会见面，总归是有点不开心。</p>
+<p>工位调整后，我左侧的三个人在这三个月里都活水走了，一个合作过的客户端同事离职去了某友商当产品经理，才有点感受到互联网公司员工的流动性。</p>
+<p>也逐渐变得忙了起来，给组里高工打工的日子感觉要比自己接活跟版本的沟通要少一点，也简单一点，接触到了更多的框架、模式，开发刚入职的那种需求也已经不需要花太久时间，总归来说是有在成长。</p>
+<p>不知不觉也到了第一次评绩效，没有提前沟通，希望不要背2（flag高高竖起</p>
+<h4 id="Live"><a href="#Live" class="headerlink" title="Live"></a>Live</h4><p>此处的live指的是“活着”，毕竟在深圳，也只能算是苟活</p>
+<p>适当减少了碳水的摄入，尽管没怎么运动，也让自己的体重降低了大约10kg。体检大部分指标都还ok，除了轻度肥胖导致的胆固醇超标倾向，还是得加把劲减肥啊？</p>
+<p>十一月初不小心切到手指以后，一段时间都感觉自己非常虚弱，家里也因此乱糟糟的，在上次聚餐前叫了下自如的家政服务，感觉非常ok，大概以后会一个月叫一次，不然以我的家政能力就算有心也做不到那么整洁（sad</p>
+<h4 id="Social"><a href="#Social" class="headerlink" title="Social"></a>Social</h4><p>封培的小组大家的热度逐渐降低，水群的频率越来越少，似乎大家都在变忙的过程中，尽管如此组里的脱单率还是上升了两次？怎么他们身边都有可爱女孩子啊（怨念脸</p>
+<p>图图他们组好像也保持着超高的脱单率，感觉和他们约局吃的狗粮确实有点多（心在滴血</p>
+<p>工作日逐渐习惯了九点以后下班，因为已经不知道早回家能干嘛了，对游戏、剧集的兴趣在逐渐变小，或许要变成一个废人了（肥肥：你就不能找个女朋友吗？</p>
+<p>周末的neet循环：思考明天做啥菜并且下单-&gt;睡觉-&gt;起床-&gt;躺在床上无所事事-&gt;做午饭-&gt;躺在床上无所事事-&gt;做晚饭-&gt;躺在床上无所事事-&gt;睡觉</p>
+<p>也许真的是有点缺爱了（？</p>
+<p>迷惘并且不知道自己缺什么，有可爱的女孩子愿意开导我嘛（为什么要在自己的博客里痴汉呢</p>
+<h4 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h4><p>再list几个希望完成的目标</p>
+<ol>
+<li>再减10kg~</li>
+<li>把之前想看的电影和剧都看完~</li>
+<li>读十本书</li>
+</ol>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>半年记</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>摸鱼记录</title>
+    <url>/2018/12/22/%E6%91%B8%E9%B1%BC%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>最近的日子过得挺快的。</p>
+<p>感觉有丶弱智，搭了OJ不知道用来干嘛</p>
+<p>blog也算是小小的安全屋（？</p>
+<p>R6打的比较多 其他游戏也都歇了 准备开始 数1 英1的复习</p>
+<p>课程方面刚结束了数据结构 最后考试有一题不太会 其他都还行</p>
+<p>JAVA就不提了..学院自己开的水课，基本也就学了SWING的一些基本框架应用 进程算是半懂不懂的情况</p>
+<p>只能说还是犯懒</p>
+<p>LeetCode 算是半摸鱼状态吧，到现在也就刷了一百个</p>
+<p>明年得报个PAT，也算是留条后路</p>
+<p>考虑把现役期间出的题挂到自己的OJ上</p>
+<p>反正也彻底脱了关系（？</p>
+<p>今天他们考研第一天 祝明年的今天我还能笑的开心</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>最近</title>
+    <url>/2019/06/03/%E6%9C%80%E8%BF%91/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+</search>
