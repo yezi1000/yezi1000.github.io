@@ -27,41 +27,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2022_leaf_summary</title>
-    <url>/2023/12/11/2022-leaf-summary/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>2021其实就半年时间了，上篇不更咯（咕咕咕</p>
-<p>2022其实也..一成不变？ 变化的也许只有体重和身边的人。</p>
-<p>2023的等元旦更新吧，万一有什么变数呢，flag先立起来咯</p>
-<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>铁打的开发，流水的产品，算了下比例确实还是差不多，合作的产品又换了一轮。已经有点麻木了，仿佛也习惯了。甚至有点触动，在设想没有我的时候会是啥样，但是应该是没什么区别的，毕竟大家都是可替代的，总会有人顶上。</p>
-<p>流向上，好多人跳槽去了上海，至于公司，或许有几个是字节，但是处于竞业，对于不太熟的同事大家也不会说太多。</p>
-<p>比较特殊的应该就是一个产培，因为一年之期到了，必须在tx内转岗，不过也是去继续坐商业化，进行她的搞钱行业。</p>
-<p>but…今年也有去读书的，本科毕业打了一年工，然后又去申请了个Master继续读，也许这就是追梦？</p>
-<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>今年的生活就是典型后疫情时代啦，戴口罩、每天做核酸、甚至快递也喷酒精，深圳这边的政策变化还是比较快的，核酸有效期变化实在是快…</p>
-<p>不过聚餐什么的，其实并没有太受到影响，团建、约饭啥的是一顿不漏，该吃的都吃了，体重也该涨的涨了（</p>
-<p>另外疫情影响下，好像也没怎么关注那年的经济走向，从23年回头看的话，应该22年就有趋势了，但是却完全没有印象…</p>
-<p>btw，上班以后剁手好像有点管不住… </p>
-<p>今年把1080p 240hz换成了卓威的2566k，体验了下顶级外设的显示器功力，zowie配的Control panel确实很好用，比显示器上的支架要方便太多了。</p>
-<p>Nas也逐渐插满了，4 * 12 + 4 * 14，混合批次组了raid 1。</p>
-<p>不过需要吐槽的就是FreeBsd还是挺难用的…Nas选的TrueNas，还是有蛮多应用跑不了或者设置起来比较逆天，比如定期重启某个jails这个指令只work了几次.</p>
-<p>然而TrueNas core 并不能无损迁移scale，考虑到配置又作罢了。</p>
-<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>CRUD Boy，工作内容平平无奇，</p>
-<p>做的大部分事情是在框架上加个字段之类的，但是也可以尝试用更common的方式去解决，总结下一些方法论，可以给之后的自己或者同事用。</p>
-<p>也恰好倒霉赶上了腾讯职级晋升一年一次，升9又晚了半年…</p>
-<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>今年还是继续在沉迷Apex，被人戏称为Apex仙人，上线就在A。</p>
-<p>单机游戏实在是有点提不起劲，可能还是上班以后追求更多刺激感…而这些确实fps能带来更多</p>
-<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
-<li>还是减肥，sad</li>
-<li>脱单？</li>
-</ol>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>总结</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CompareVersionNumbers</title>
     <url>/2018/11/25/CompareVersionNumbers/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>大模拟吧…细节蛮多的(这个题我发现全是踩所以写一篇…)</p>
@@ -114,23 +79,38 @@
       </tags>
   </entry>
   <entry>
-    <title>Gotop</title>
-    <url>/2019/07/19/Gotop/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>最近折腾盒子还是比较多的，想要一个还算能看的图形面板看看实时上传下载</p>
-<p>也不想装各类监控软件(反正也不需要看历史数据)</p>
-<p>此文章只是做一个备份，方便我装盒子的时候复制粘贴</p>
-<p>Github：<a href="https://github.com/cjbassi/gotop">https://github.com/cjbassi/gotop</a></p>
-<h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> --depth 1 https://github.com/cjbassi/gotop /tmp/gotop</span><br><span class="line">/tmp/gotop/scripts/download.sh</span><br><span class="line">cp gotop /usr/<span class="built_in">local</span>/bin</span><br><span class="line">chmod +x /usr/<span class="built_in">local</span>/bin/gotop</span><br></pre></td></tr></table></figure>
-
-<h4 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h4><p><img src="https://i.loli.net/2019/07/19/5d3183bf560f658032.png"></p>
-<h4 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h4><p>项目显示不全：</p>
-<p>​    请尝试调大shell窗口分辨率</p>
+    <title>2022_leaf_summary</title>
+    <url>/2023/12/11/2022-leaf-summary/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>2021其实就半年时间了，上篇不更咯（咕咕咕</p>
+<p>2022其实也..一成不变？ 变化的也许只有体重和身边的人。</p>
+<p>2023的等元旦更新吧，万一有什么变数呢，flag先立起来咯</p>
+<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>铁打的开发，流水的产品，算了下比例确实还是差不多，合作的产品又换了一轮。已经有点麻木了，仿佛也习惯了。甚至有点触动，在设想没有我的时候会是啥样，但是应该是没什么区别的，毕竟大家都是可替代的，总会有人顶上。</p>
+<p>流向上，好多人跳槽去了上海，至于公司，或许有几个是字节，但是处于竞业，对于不太熟的同事大家也不会说太多。</p>
+<p>比较特殊的应该就是一个产培，因为一年之期到了，必须在tx内转岗，不过也是去继续坐商业化，进行她的搞钱行业。</p>
+<p>but…今年也有去读书的，本科毕业打了一年工，然后又去申请了个Master继续读，也许这就是追梦？</p>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>今年的生活就是典型后疫情时代啦，戴口罩、每天做核酸、甚至快递也喷酒精，深圳这边的政策变化还是比较快的，核酸有效期变化实在是快…</p>
+<p>不过聚餐什么的，其实并没有太受到影响，团建、约饭啥的是一顿不漏，该吃的都吃了，体重也该涨的涨了（</p>
+<p>另外疫情影响下，好像也没怎么关注那年的经济走向，从23年回头看的话，应该22年就有趋势了，但是却完全没有印象…</p>
+<p>btw，上班以后剁手好像有点管不住… </p>
+<p>今年把1080p 240hz换成了卓威的2566k，体验了下顶级外设的显示器功力，zowie配的Control panel确实很好用，比显示器上的支架要方便太多了。</p>
+<p>Nas也逐渐插满了，4 * 12 + 4 * 14，混合批次组了raid 1。</p>
+<p>不过需要吐槽的就是FreeBsd还是挺难用的…Nas选的TrueNas，还是有蛮多应用跑不了或者设置起来比较逆天，比如定期重启某个jails这个指令只work了几次.</p>
+<p>然而TrueNas core 并不能无损迁移scale，考虑到配置又作罢了。</p>
+<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>CRUD Boy，工作内容平平无奇，</p>
+<p>做的大部分事情是在框架上加个字段之类的，但是也可以尝试用更common的方式去解决，总结下一些方法论，可以给之后的自己或者同事用。</p>
+<p>也恰好倒霉赶上了腾讯职级晋升一年一次，升9又晚了半年…</p>
+<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>今年还是继续在沉迷Apex，被人戏称为Apex仙人，上线就在A。</p>
+<p>单机游戏实在是有点提不起劲，可能还是上班以后追求更多刺激感…而这些确实fps能带来更多</p>
+<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
+<li>还是减肥，sad</li>
+<li>脱单？</li>
+</ol>
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
-        <category>折腾</category>
+        <category>总结</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
+        <tag>Daily</tag>
       </tags>
   </entry>
   <entry>
@@ -154,6 +134,40 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
+    <title>Gotop</title>
+    <url>/2019/07/19/Gotop/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>最近折腾盒子还是比较多的，想要一个还算能看的图形面板看看实时上传下载</p>
+<p>也不想装各类监控软件(反正也不需要看历史数据)</p>
+<p>此文章只是做一个备份，方便我装盒子的时候复制粘贴</p>
+<p>Github：<a href="https://github.com/cjbassi/gotop">https://github.com/cjbassi/gotop</a></p>
+<h4 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> --depth 1 https://github.com/cjbassi/gotop /tmp/gotop</span><br><span class="line">/tmp/gotop/scripts/download.sh</span><br><span class="line">cp gotop /usr/<span class="built_in">local</span>/bin</span><br><span class="line">chmod +x /usr/<span class="built_in">local</span>/bin/gotop</span><br></pre></td></tr></table></figure>
+
+<h4 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h4><p><img src="https://i.loli.net/2019/07/19/5d3183bf560f658032.png"></p>
+<h4 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h4><p>项目显示不全：</p>
+<p>​    请尝试调大shell窗口分辨率</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Min_stack</title>
+    <url>/2018/12/22/Min-stack/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>还是比较简单的，但是这个跟我在宁夏坑队友的一个题一模一样，权当纪念吧</p>
+<p>题目：实现一个数据结构，这个数据结构需要实现栈的插入，栈的弹出，返回栈顶元素，返回栈内最小值四种操作。</p>
+<p>My Ans：用vector保存从栈底到栈顶的前缀Min，可以知道每次插入的时候需要在Vector中插入Min(input,Vector.back())；</p>
+<p>跑的不是很快…28ms beat 50.39%而已</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">MinStack</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="comment">/** initialize your data structure here. */</span></span><br><span class="line">    vector&lt;<span class="keyword">int</span>&gt;m;</span><br><span class="line">    stack&lt;<span class="keyword">int</span>&gt;st;</span><br><span class="line">    <span class="built_in">MinStack</span>() &#123;</span><br><span class="line">        m.<span class="built_in">clear</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">void</span> <span class="title">push</span><span class="params">(<span class="keyword">int</span> x)</span> </span>&#123;</span><br><span class="line">        st.<span class="built_in">push</span>(x);</span><br><span class="line">        <span class="keyword">if</span>(m.<span class="built_in">empty</span>()) m.<span class="built_in">push_back</span>(x);</span><br><span class="line">        <span class="keyword">else</span> m.<span class="built_in">push_back</span>(<span class="built_in">min</span>(m.<span class="built_in">back</span>(),x));</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">void</span> <span class="title">pop</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        m.<span class="built_in">pop_back</span>();</span><br><span class="line">        st.<span class="built_in">pop</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">top</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> st.<span class="built_in">top</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">getMin</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> m.<span class="built_in">back</span>();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>SPOJ-COT</title>
     <url>/2018/08/07/SPOJ-COT/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>题意：要求查询(u,v)之间路径点权第K小</p>
@@ -166,6 +180,93 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
         <tag>数据结构、树</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AWS-EC2-HK简单测试</title>
+    <url>/2019/09/24/aws-ec2-cernet/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于最近在找一些cernet直连的机器，虽然好像和我没啥关系了。。。</p>
+<p>不过还是试图总结一下吧，毕竟后来人也许有用呢2333</p>
+<p>随便测试一下备份一下路由情况，视情况会添加GCP等成本较低的vps。</p>
+<h3 id="去程测试："><a href="#去程测试：" class="headerlink" title="去程测试："></a>去程测试：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"> 1     8 ms     6 ms    &lt;1 毫秒 2001:250:7801:146::1</span><br><span class="line"> 2     *        4 ms     *     fc00:250:7801:146::102</span><br><span class="line"> 3    &lt;1 毫秒    1 ms     *     cernet2.net [2001:da8:ab:103::1]</span><br><span class="line"> 4    17 ms     4 ms    19 ms  2001:da8:2:119::1</span><br><span class="line"> 5     5 ms     4 ms     4 ms  2001:da8:2:2a::1</span><br><span class="line"> 6     9 ms     9 ms     9 ms  2001:da8:2:21::1</span><br><span class="line"> 7    26 ms    20 ms    19 ms  2001:da8:2:7::1</span><br><span class="line"> 8     *        *        *     请求超时。</span><br><span class="line"> 9    19 ms    19 ms    19 ms  cernet2.net [2001:252:0:100::2]</span><br><span class="line">10    57 ms     *        *     cernet2.net [2001:252:0:103::2]</span><br><span class="line">11    59 ms    60 ms    59 ms  amazon1-lacp-100g.hkix.net [2001:7fa:0:1::ca28:a1da]</span><br><span class="line">12     *        *        *     请求超时。</span><br><span class="line">13     *        *        *     请求超时。</span><br><span class="line">14     *        *        *     请求超时。</span><br><span class="line">15    65 ms    60 ms    61 ms  2400:6500:0:3::36</span><br><span class="line">16    64 ms    61 ms    61 ms  2400:6500:0:3::14</span><br><span class="line">17     *        *        *     请求超时。</span><br><span class="line">18     *        *        *     请求超时。</span><br><span class="line">19     *        *        *     请求超时。</span><br><span class="line">20    62 ms    62 ms    62 ms  </span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="回程测试："><a href="#回程测试：" class="headerlink" title="回程测试："></a>回程测试：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment">#======================================</span></span><br><span class="line"><span class="comment"># Project: testrace</span></span><br><span class="line"><span class="comment"># Version: 1.2</span></span><br><span class="line"><span class="comment"># Author: nanqinlang</span></span><br><span class="line"><span class="comment"># Blog:   https://sometimesnaive.org</span></span><br><span class="line"><span class="comment"># Github: https://github.com/nanqinlang</span></span><br><span class="line"><span class="comment">#======================================</span></span><br><span class="line"></span><br><span class="line">Reading package lists... Done</span><br><span class="line">Building dependency tree       </span><br><span class="line">Reading state information... Done</span><br><span class="line">mtr is already the newest version (0.92-1).</span><br><span class="line">traceroute is already the newest version (1:2.1.0-2).</span><br><span class="line">0 upgraded, 0 newly installed, 0 to remove and 61 not upgraded.</span><br><span class="line">[Info] 选择你要使用的功能: </span><br><span class="line">1.选择一个节点进行测试</span><br><span class="line">2.四网路由快速测试</span><br><span class="line">3.手动输入 ip 进行测试</span><br><span class="line">输入数字以选择:2</span><br><span class="line">[Info] 测试路由 到 上海电信(天翼云) 中 ...</span><br><span class="line">traceroute to 101.227.255.45 (101.227.255.45), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.0.97  0.33 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.46  1.26 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.13  1.68 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.23  1.10 ms  *  AMAZON.COM 骨干网 amazon.com</span><br><span class="line"> 8  prod05.x.hkg.fullmeshnetworks.com (203.131.247.229)  1.83 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-15.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.162)  48.24 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-11.r24.tkokhk01.hk.bb.gin.ntt.net (129.250.6.99)  2.22 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  ae-12.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.2.50)  44.81 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">12  ae-10.r27.tokyjp05.jp.bb.gin.ntt.net (129.250.2.156)  48.00 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">13  xe-3.chinanet.tokyjp05.jp.bb.gin.ntt.net (129.250.66.90)  148.83 ms  AS2914  中国 北京 ntt.com</span><br><span class="line">14  202.97.12.49  145.63 ms  AS4134  中国 北京 电信</span><br><span class="line">15  *</span><br><span class="line">16  101.95.120.81  155.61 ms  AS4812  中国 上海 电信</span><br><span class="line">17  *</span><br><span class="line">18  *</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  *</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 上海电信(天翼云) 完成 ！</span><br><span class="line">[Info] 测试路由 到 厦门电信CN2 中 ...</span><br><span class="line">traceroute to 117.28.254.129 (117.28.254.129), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.65  0.81 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.20  1.03 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  54.240.241.210  2.56 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  54.240.241.35  0.92 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  203.131.254.65  0.88 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-6.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.70)  1.87 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-1.a01.chwahk02.hk.bb.gin.ntt.net (129.250.5.161)  2.76 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  xe-0-0-21-2.a01.chwahk02.hk.ce.gin.ntt.net (203.131.241.70)  2.91 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">12  59.43.188.121  20.69 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">13  59.43.187.105  9.18 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">14  59.43.130.153  8.59 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">15  59.43.142.30  33.59 ms  AS4809  中国 电信</span><br><span class="line">16  27.159.81.246  67.90 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line">17  *</span><br><span class="line">18  117.25.141.110  67.39 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  117.28.254.129  27.48 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 厦门电信CN2 完成 ！</span><br><span class="line">[Info] 测试路由 到 浙江杭州联通 中 ...</span><br><span class="line">traceroute to 101.71.241.238 (101.71.241.238), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.161  8.40 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.42  7.27 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.83  3.97 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.101  1.07 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  *</span><br><span class="line"> 9  ae-14.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.178)  49.67 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-11.r24.tkokhk01.hk.bb.gin.ntt.net (129.250.6.99)  3.75 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  ae-12.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.2.50)  49.25 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">12  ae-10.r27.tokyjp05.jp.bb.gin.ntt.net (129.250.2.156)  52.43 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">13  xe-0.cnc-g.tokyjp05.jp.bb.gin.ntt.net (129.250.8.38)  139.29 ms  AS2914  中国 上海 ntt.com</span><br><span class="line">14  219.158.19.90  139.00 ms  AS4837  中国 上海 联通</span><br><span class="line">15  219.158.19.81  142.27 ms  AS4837  中国 上海 联通</span><br><span class="line">16  219.158.115.146  139.26 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line">17  *</span><br><span class="line">18  101.69.245.158  137.00 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line">19  101.71.241.238  142.36 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 浙江杭州联通 完成 ！</span><br><span class="line">[Info] 测试路由 到 浙江杭州移动 中 ...</span><br><span class="line">traceroute to 112.17.0.106 (112.17.0.106), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.97  0.34 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.22  1.15 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  54.240.241.220  1.69 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  54.240.241.95  0.94 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  203.131.254.65  1.11 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-6.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.70)  2.11 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ce-0-2-0-3.r03.tkokhk01.hk.ce.gin.ntt.net (203.131.241.86)  169.31 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  *</span><br><span class="line">12  223.120.2.14  164.79 ms  AS58453  中国 广东 广州 移动</span><br><span class="line">13  223.120.22.5  183.12 ms  AS58453  中国 广东 广州 移动</span><br><span class="line">14  221.183.55.26  185.44 ms  AS9808  中国 上海 移动</span><br><span class="line">15  221.176.22.205  225.16 ms  AS9808  中国 上海 移动</span><br><span class="line">16  221.183.23.25  281.47 ms  AS9808  中国 上海 移动</span><br><span class="line">17  221.183.11.6  200.64 ms  AS9808  中国 浙江 杭州 移动</span><br><span class="line">18  *</span><br><span class="line">19  221.183.10.6  252.93 ms  AS9808  中国 浙江 杭州 移动</span><br><span class="line">20  *</span><br><span class="line">21  112.17.253.118  234.88 ms  AS56041  中国 浙江 杭州 移动</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 浙江杭州移动 完成 ！</span><br><span class="line">[Info] 测试路由 到 北京教育网 中 ...</span><br><span class="line">traceroute to 202.205.6.30 (202.205.6.30), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.33  0.57 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.42  14.06 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.69  1.75 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.85  1.09 ms  *  AMAZON.COM 骨干网 amazon.com</span><br><span class="line"> 8  unknown.telstraglobal.net (210.57.80.58)  1.27 ms  AS4637,AS10026  中国 香港 telstra.com</span><br><span class="line"> 9  61.8.59.38  29.13 ms  AS4637,AS10026  中国 香港 pacnet.com</span><br><span class="line">10  101.4.117.149  170.85 ms  AS4538  中国 北京 教育网</span><br><span class="line">11  101.4.118.121  167.31 ms  AS4538  中国 北京 教育网</span><br><span class="line">12  101.4.117.253  163.81 ms  AS4538  中国 北京 教育网</span><br><span class="line">13  101.4.114.197  168.60 ms  AS4538  中国 北京 教育网</span><br><span class="line">14  219.224.102.234  173.04 ms  AS4538  中国 北京 教育网</span><br><span class="line">15  *</span><br><span class="line">16  *</span><br><span class="line">17  *</span><br><span class="line">18  *</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  *</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 北京教育网 完成 ！</span><br><span class="line">[Info] 四网路由快速测试 已完成 ！</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Bash</tag>
+        <tag>School</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>备份你的cookie</title>
+    <url>/2019/09/12/backup-your-cookie/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于各种各样的原因，我们经常需要备份某些网站的cookie信息以备不时之需。</p>
+<h3 id="所需工具"><a href="#所需工具" class="headerlink" title="所需工具"></a>所需工具</h3><h4 id="桌面Chrome："><a href="#桌面Chrome：" class="headerlink" title="桌面Chrome："></a>桌面Chrome：</h4><p>editthiscookie插件：</p>
+<p>可以从chrome官方商店直接安装（需要科学上网）</p>
+<p>也可以从<a href="https://www.crx4chrome.com/crx/1148/">https://www.crx4chrome.com/crx/1148/</a> 下载CRX文件，在chrome浏览器中访问<a href="chrome://extensions/"><strong>chrome://extensions/</strong></a> 将crx文件拖进去完成安装</p>
+<h4 id="桌面Firefox："><a href="#桌面Firefox：" class="headerlink" title="桌面Firefox："></a>桌面Firefox：</h4><p>正在安装Firefox 稍安勿躁</p>
+<h3 id="详细步骤："><a href="#详细步骤：" class="headerlink" title="详细步骤："></a>详细步骤：</h3><h4 id="桌面Chrome：-1"><a href="#桌面Chrome：-1" class="headerlink" title="桌面Chrome："></a>桌面Chrome：</h4><h5 id="安装好editthiscookie插件"><a href="#安装好editthiscookie插件" class="headerlink" title="安装好editthiscookie插件"></a>安装好editthiscookie插件</h5><h5 id="打开你需要备份cookie的网站"><a href="#打开你需要备份cookie的网站" class="headerlink" title="打开你需要备份cookie的网站"></a>打开你需要备份cookie的网站</h5><h5 id="按下图操作"><a href="#按下图操作" class="headerlink" title="按下图操作"></a>按下图操作</h5><p><img src="https://i.loli.net/2019/09/12/XFOktKfIpgDAZcn.jpg" alt="Snipaste_2019-09-12_15-17-55.jpg"></p>
+<p>点击后会有如图提示<img src="https://i.loli.net/2019/09/12/ozsfFEOZDGAr2xe.jpg" alt="Snipaste_2019-09-12_15-18-53.jpg"></p>
+<p>然后新建一个txt文档将剪贴板的cookie复制进去即可，如下图，然后保存好txt即为导出成功</p>
+<p> <img src="https://i.loli.net/2019/09/12/FplInzwR3ZKAeWD.jpg" alt="Snipaste_2019-09-12_15-20-37.jpg"></p>
+<h5 id="导入方法："><a href="#导入方法：" class="headerlink" title="导入方法："></a>导入方法：</h5><p><img src="https://i.loli.net/2019/09/12/mQe5MCygVSu96lO.jpg" alt="Snipaste_2019-09-12_15-22-03.jpg"></p>
+<p>然后将txt中所有文字复制粘贴进去 然后点下面的大绿勾即可</p>
+<p>如下图 </p>
+<p><img src="https://i.loli.net/2019/09/12/NC9gaY5TFUk8fxz.jpg" alt="Snipaste_2019-09-12_15-22-36.jpg"></p>
+<h4 id="FireFox："><a href="#FireFox：" class="headerlink" title="FireFox："></a>FireFox：</h4><h5 id="导出方法："><a href="#导出方法：" class="headerlink" title="导出方法："></a>导出方法：</h5><p>按照上述方法安装插件后</p>
+<p>在浏览器右上角找到插件<img src="https://i.loli.net/2019/09/12/GtcKU8xsp5hF69y.jpg" alt="Snipaste_2019-09-12_15-39-55.jpg"></p>
+<p>左键点击打开菜单点击manage all cookies 打开插件主界面</p>
+<p><img src="https://i.loli.net/2019/09/12/WYBSxwKHtRal2mj.jpg" alt="Snipaste_2019-09-12_15-38-03.jpg"></p>
+<p>找到你想导出的站点，右键打开菜单，选择save to file</p>
+<p><img src="https://i.loli.net/2019/09/12/93DF52Q8IZExHXS.jpg" alt="Snipaste_2019-09-12_15-38-29.jpg"></p>
+<p>好好保存文件</p>
+<h5 id="导入方法"><a href="#导入方法" class="headerlink" title="导入方法"></a>导入方法</h5><p>按照上述方法安装插件后</p>
+<p>在浏览器右上角找到插件<img src="https://i.loli.net/2019/09/12/GtcKU8xsp5hF69y.jpg" alt="Snipaste_2019-09-12_15-39-55.jpg"></p>
+<p>左键点击打开菜单点击manage all cookies 打开插件主界面</p>
+<p><img src="https://i.loli.net/2019/09/12/WYBSxwKHtRal2mj.jpg" alt="Snipaste_2019-09-12_15-38-03.jpg"></p>
+<p>在插件左下角有如下图标，选择restore cookies from file 并且选中之前备份的cookies文件即可。</p>
+<p><img src="https://i.loli.net/2019/09/12/xtS8LGiq51ODuC7.jpg" alt="Snipaste_2019-09-12_15-46-08.jpg"></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>PT</category>
+      </categories>
+      <tags>
+        <tag>Windows</tag>
+        <tag>Guide</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LeetCode.857.Minimum.Cost.to.Hire.K.Workers</title>
+    <url>/2019/04/18/Workers/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>LeetCode 857. Minimum Cost to Hire K Workers</p>
+<p>Desc：</p>
+<p>N个worker，每个worker有quality和wage，你需要雇佣K个worker，这K个worker之间的real wage比例和quality比例相同，且real wage不小于wage。<br>$$<br>1 \le K ,N \le 10000</p>
+<p>1\le quality,wage\le10000<br>$$<br>答案允许有10^-5的误差</p>
+<p>My_Ans:</p>
+<p>冷静分析，首先 worker之间严格按照比例发real wage 且<br>$$<br>real wage[i]\ge wage[i]<br>$$<br>定义<br>$$<br>ratio[i]=wage[i]/quality[i]<br>$$<br>假设已经选出了K个worker，那么这个standard worker就需要设置为ratio最大的那个worker</p>
+<p>否则会有worker的real wage&lt;wage。</p>
+<p>因此对于每个standard worker 我们需要找出k-1个ratio小于它的worker，而且K个worker的<br>$$<br>totalwage = ratio* \sum_{n=1}^K{quality}<br>$$<br>按照ratio对worker从小到大排序，枚举第i个worker作为standard worker</p>
+<p>所以第0~第i-1个worker均为满足ratio满足要求的，然后需要找出K-1个quality最小的即可</p>
+<p>考虑维护一个最多K个元素的单调队列 队首的worker的quality最大 队列中均满足ratio小于当前standard worker</p>
+<p>每次standard worker后移 将当前的standard worker的quality和队首quality进行比较，</p>
+<p>如果当前standard worker的quality小于队首quality 弹出队首 插入当前standard worker</p>
+<p>并且维护一个Sum记录当前queue里的quality之和</p>
+<p>不断更新最小值即可</p>
+<p>Code：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">double</span> <span class="title">mincostToHireWorkers</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; quality, vector&lt;<span class="keyword">int</span>&gt;&amp; wage, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">double</span> ans=<span class="number">0x3f3f3f3f</span>;</span><br><span class="line">        vector&lt;pair&lt;<span class="keyword">double</span>,<span class="keyword">int</span>&gt;&gt;rate;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;quality.<span class="built_in">size</span>();i++)</span><br><span class="line">            rate.<span class="built_in">push_back</span>(<span class="built_in">make_pair</span>(<span class="number">1.0</span>*wage[i]/quality[i],i));</span><br><span class="line">        <span class="built_in">sort</span>(rate.<span class="built_in">begin</span>(),rate.<span class="built_in">end</span>());</span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>&gt;que;</span><br><span class="line">        <span class="keyword">int</span> sum=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;rate.<span class="built_in">size</span>();i++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="keyword">if</span>(que.<span class="built_in">size</span>()&lt;K<span class="number">-1</span>)&#123;</span><br><span class="line">                que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                sum+=quality[rate[i].second];</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span>&#123;</span><br><span class="line">                ans=<span class="built_in">min</span>(ans,<span class="number">1.0</span>*rate[i].first*(sum+quality[rate[i].second]));</span><br><span class="line">                <span class="keyword">if</span>(!que.<span class="built_in">empty</span>()&amp;&amp;que.<span class="built_in">top</span>()&gt;quality[rate[i].second])&#123;</span><br><span class="line">                    <span class="keyword">int</span> tmp=que.<span class="built_in">top</span>();</span><br><span class="line">                    que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                    que.<span class="built_in">pop</span>();</span><br><span class="line">                    sum=sum-tmp+quality[rate[i].second];</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+
+
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>leetcode</tag>
       </tags>
   </entry>
   <entry>
@@ -214,115 +315,18 @@
       </tags>
   </entry>
   <entry>
-    <title>LeetCode.857.Minimum.Cost.to.Hire.K.Workers</title>
-    <url>/2019/04/18/Workers/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>LeetCode 857. Minimum Cost to Hire K Workers</p>
-<p>Desc：</p>
-<p>N个worker，每个worker有quality和wage，你需要雇佣K个worker，这K个worker之间的real wage比例和quality比例相同，且real wage不小于wage。<br>$$<br>1 \le K ,N \le 10000</p>
-<p>1\le quality,wage\le10000<br>$$<br>答案允许有10^-5的误差</p>
-<p>My_Ans:</p>
-<p>冷静分析，首先 worker之间严格按照比例发real wage 且<br>$$<br>real wage[i]\ge wage[i]<br>$$<br>定义<br>$$<br>ratio[i]=wage[i]/quality[i]<br>$$<br>假设已经选出了K个worker，那么这个standard worker就需要设置为ratio最大的那个worker</p>
-<p>否则会有worker的real wage&lt;wage。</p>
-<p>因此对于每个standard worker 我们需要找出k-1个ratio小于它的worker，而且K个worker的<br>$$<br>totalwage = ratio* \sum_{n=1}^K{quality}<br>$$<br>按照ratio对worker从小到大排序，枚举第i个worker作为standard worker</p>
-<p>所以第0~第i-1个worker均为满足ratio满足要求的，然后需要找出K-1个quality最小的即可</p>
-<p>考虑维护一个最多K个元素的单调队列 队首的worker的quality最大 队列中均满足ratio小于当前standard worker</p>
-<p>每次standard worker后移 将当前的standard worker的quality和队首quality进行比较，</p>
-<p>如果当前standard worker的quality小于队首quality 弹出队首 插入当前standard worker</p>
-<p>并且维护一个Sum记录当前queue里的quality之和</p>
-<p>不断更新最小值即可</p>
-<p>Code：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">double</span> <span class="title">mincostToHireWorkers</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; quality, vector&lt;<span class="keyword">int</span>&gt;&amp; wage, <span class="keyword">int</span> K)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">double</span> ans=<span class="number">0x3f3f3f3f</span>;</span><br><span class="line">        vector&lt;pair&lt;<span class="keyword">double</span>,<span class="keyword">int</span>&gt;&gt;rate;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;quality.<span class="built_in">size</span>();i++)</span><br><span class="line">            rate.<span class="built_in">push_back</span>(<span class="built_in">make_pair</span>(<span class="number">1.0</span>*wage[i]/quality[i],i));</span><br><span class="line">        <span class="built_in">sort</span>(rate.<span class="built_in">begin</span>(),rate.<span class="built_in">end</span>());</span><br><span class="line">        priority_queue&lt;<span class="keyword">int</span>&gt;que;</span><br><span class="line">        <span class="keyword">int</span> sum=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;rate.<span class="built_in">size</span>();i++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="keyword">if</span>(que.<span class="built_in">size</span>()&lt;K<span class="number">-1</span>)&#123;</span><br><span class="line">                que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                sum+=quality[rate[i].second];</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span>&#123;</span><br><span class="line">                ans=<span class="built_in">min</span>(ans,<span class="number">1.0</span>*rate[i].first*(sum+quality[rate[i].second]));</span><br><span class="line">                <span class="keyword">if</span>(!que.<span class="built_in">empty</span>()&amp;&amp;que.<span class="built_in">top</span>()&gt;quality[rate[i].second])&#123;</span><br><span class="line">                    <span class="keyword">int</span> tmp=que.<span class="built_in">top</span>();</span><br><span class="line">                    que.<span class="built_in">push</span>(quality[rate[i].second]);</span><br><span class="line">                    que.<span class="built_in">pop</span>();</span><br><span class="line">                    sum=sum-tmp+quality[rate[i].second];</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-
-
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>leetcode</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>备份你的cookie</title>
-    <url>/2019/09/12/backup-your-cookie/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于各种各样的原因，我们经常需要备份某些网站的cookie信息以备不时之需。</p>
-<h3 id="所需工具"><a href="#所需工具" class="headerlink" title="所需工具"></a>所需工具</h3><h4 id="桌面Chrome："><a href="#桌面Chrome：" class="headerlink" title="桌面Chrome："></a>桌面Chrome：</h4><p>editthiscookie插件：</p>
-<p>可以从chrome官方商店直接安装（需要科学上网）</p>
-<p>也可以从<a href="https://www.crx4chrome.com/crx/1148/">https://www.crx4chrome.com/crx/1148/</a> 下载CRX文件，在chrome浏览器中访问<a href="chrome://extensions/"><strong>chrome://extensions/</strong></a> 将crx文件拖进去完成安装</p>
-<h4 id="桌面Firefox："><a href="#桌面Firefox：" class="headerlink" title="桌面Firefox："></a>桌面Firefox：</h4><p>正在安装Firefox 稍安勿躁</p>
-<h3 id="详细步骤："><a href="#详细步骤：" class="headerlink" title="详细步骤："></a>详细步骤：</h3><h4 id="桌面Chrome：-1"><a href="#桌面Chrome：-1" class="headerlink" title="桌面Chrome："></a>桌面Chrome：</h4><h5 id="安装好editthiscookie插件"><a href="#安装好editthiscookie插件" class="headerlink" title="安装好editthiscookie插件"></a>安装好editthiscookie插件</h5><h5 id="打开你需要备份cookie的网站"><a href="#打开你需要备份cookie的网站" class="headerlink" title="打开你需要备份cookie的网站"></a>打开你需要备份cookie的网站</h5><h5 id="按下图操作"><a href="#按下图操作" class="headerlink" title="按下图操作"></a>按下图操作</h5><p><img src="https://i.loli.net/2019/09/12/XFOktKfIpgDAZcn.jpg" alt="Snipaste_2019-09-12_15-17-55.jpg"></p>
-<p>点击后会有如图提示<img src="https://i.loli.net/2019/09/12/ozsfFEOZDGAr2xe.jpg" alt="Snipaste_2019-09-12_15-18-53.jpg"></p>
-<p>然后新建一个txt文档将剪贴板的cookie复制进去即可，如下图，然后保存好txt即为导出成功</p>
-<p> <img src="https://i.loli.net/2019/09/12/FplInzwR3ZKAeWD.jpg" alt="Snipaste_2019-09-12_15-20-37.jpg"></p>
-<h5 id="导入方法："><a href="#导入方法：" class="headerlink" title="导入方法："></a>导入方法：</h5><p><img src="https://i.loli.net/2019/09/12/mQe5MCygVSu96lO.jpg" alt="Snipaste_2019-09-12_15-22-03.jpg"></p>
-<p>然后将txt中所有文字复制粘贴进去 然后点下面的大绿勾即可</p>
-<p>如下图 </p>
-<p><img src="https://i.loli.net/2019/09/12/NC9gaY5TFUk8fxz.jpg" alt="Snipaste_2019-09-12_15-22-36.jpg"></p>
-<h4 id="FireFox："><a href="#FireFox：" class="headerlink" title="FireFox："></a>FireFox：</h4><h5 id="导出方法："><a href="#导出方法：" class="headerlink" title="导出方法："></a>导出方法：</h5><p>按照上述方法安装插件后</p>
-<p>在浏览器右上角找到插件<img src="https://i.loli.net/2019/09/12/GtcKU8xsp5hF69y.jpg" alt="Snipaste_2019-09-12_15-39-55.jpg"></p>
-<p>左键点击打开菜单点击manage all cookies 打开插件主界面</p>
-<p><img src="https://i.loli.net/2019/09/12/WYBSxwKHtRal2mj.jpg" alt="Snipaste_2019-09-12_15-38-03.jpg"></p>
-<p>找到你想导出的站点，右键打开菜单，选择save to file</p>
-<p><img src="https://i.loli.net/2019/09/12/93DF52Q8IZExHXS.jpg" alt="Snipaste_2019-09-12_15-38-29.jpg"></p>
-<p>好好保存文件</p>
-<h5 id="导入方法"><a href="#导入方法" class="headerlink" title="导入方法"></a>导入方法</h5><p>按照上述方法安装插件后</p>
-<p>在浏览器右上角找到插件<img src="https://i.loli.net/2019/09/12/GtcKU8xsp5hF69y.jpg" alt="Snipaste_2019-09-12_15-39-55.jpg"></p>
-<p>左键点击打开菜单点击manage all cookies 打开插件主界面</p>
-<p><img src="https://i.loli.net/2019/09/12/WYBSxwKHtRal2mj.jpg" alt="Snipaste_2019-09-12_15-38-03.jpg"></p>
-<p>在插件左下角有如下图标，选择restore cookies from file 并且选中之前备份的cookies文件即可。</p>
-<p><img src="https://i.loli.net/2019/09/12/xtS8LGiq51ODuC7.jpg" alt="Snipaste_2019-09-12_15-46-08.jpg"></p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>PT</category>
-      </categories>
-      <tags>
-        <tag>Windows</tag>
-        <tag>Guide</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Min_stack</title>
-    <url>/2018/12/22/Min-stack/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>还是比较简单的，但是这个跟我在宁夏坑队友的一个题一模一样，权当纪念吧</p>
-<p>题目：实现一个数据结构，这个数据结构需要实现栈的插入，栈的弹出，返回栈顶元素，返回栈内最小值四种操作。</p>
-<p>My Ans：用vector保存从栈底到栈顶的前缀Min，可以知道每次插入的时候需要在Vector中插入Min(input,Vector.back())；</p>
-<p>跑的不是很快…28ms beat 50.39%而已</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">MinStack</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="comment">/** initialize your data structure here. */</span></span><br><span class="line">    vector&lt;<span class="keyword">int</span>&gt;m;</span><br><span class="line">    stack&lt;<span class="keyword">int</span>&gt;st;</span><br><span class="line">    <span class="built_in">MinStack</span>() &#123;</span><br><span class="line">        m.<span class="built_in">clear</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">void</span> <span class="title">push</span><span class="params">(<span class="keyword">int</span> x)</span> </span>&#123;</span><br><span class="line">        st.<span class="built_in">push</span>(x);</span><br><span class="line">        <span class="keyword">if</span>(m.<span class="built_in">empty</span>()) m.<span class="built_in">push_back</span>(x);</span><br><span class="line">        <span class="keyword">else</span> m.<span class="built_in">push_back</span>(<span class="built_in">min</span>(m.<span class="built_in">back</span>(),x));</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">void</span> <span class="title">pop</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        m.<span class="built_in">pop_back</span>();</span><br><span class="line">        st.<span class="built_in">pop</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">top</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> st.<span class="built_in">top</span>();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">getMin</span><span class="params">()</span> </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> m.<span class="built_in">back</span>();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>LeetCode</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>AWS-EC2-HK简单测试</title>
-    <url>/2019/09/24/aws-ec2-cernet/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于最近在找一些cernet直连的机器，虽然好像和我没啥关系了。。。</p>
-<p>不过还是试图总结一下吧，毕竟后来人也许有用呢2333</p>
-<p>随便测试一下备份一下路由情况，视情况会添加GCP等成本较低的vps。</p>
-<h3 id="去程测试："><a href="#去程测试：" class="headerlink" title="去程测试："></a>去程测试：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"> 1     8 ms     6 ms    &lt;1 毫秒 2001:250:7801:146::1</span><br><span class="line"> 2     *        4 ms     *     fc00:250:7801:146::102</span><br><span class="line"> 3    &lt;1 毫秒    1 ms     *     cernet2.net [2001:da8:ab:103::1]</span><br><span class="line"> 4    17 ms     4 ms    19 ms  2001:da8:2:119::1</span><br><span class="line"> 5     5 ms     4 ms     4 ms  2001:da8:2:2a::1</span><br><span class="line"> 6     9 ms     9 ms     9 ms  2001:da8:2:21::1</span><br><span class="line"> 7    26 ms    20 ms    19 ms  2001:da8:2:7::1</span><br><span class="line"> 8     *        *        *     请求超时。</span><br><span class="line"> 9    19 ms    19 ms    19 ms  cernet2.net [2001:252:0:100::2]</span><br><span class="line">10    57 ms     *        *     cernet2.net [2001:252:0:103::2]</span><br><span class="line">11    59 ms    60 ms    59 ms  amazon1-lacp-100g.hkix.net [2001:7fa:0:1::ca28:a1da]</span><br><span class="line">12     *        *        *     请求超时。</span><br><span class="line">13     *        *        *     请求超时。</span><br><span class="line">14     *        *        *     请求超时。</span><br><span class="line">15    65 ms    60 ms    61 ms  2400:6500:0:3::36</span><br><span class="line">16    64 ms    61 ms    61 ms  2400:6500:0:3::14</span><br><span class="line">17     *        *        *     请求超时。</span><br><span class="line">18     *        *        *     请求超时。</span><br><span class="line">19     *        *        *     请求超时。</span><br><span class="line">20    62 ms    62 ms    62 ms  </span><br></pre></td></tr></table></figure>
-
-
-
-<h3 id="回程测试："><a href="#回程测试：" class="headerlink" title="回程测试："></a>回程测试：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment">#======================================</span></span><br><span class="line"><span class="comment"># Project: testrace</span></span><br><span class="line"><span class="comment"># Version: 1.2</span></span><br><span class="line"><span class="comment"># Author: nanqinlang</span></span><br><span class="line"><span class="comment"># Blog:   https://sometimesnaive.org</span></span><br><span class="line"><span class="comment"># Github: https://github.com/nanqinlang</span></span><br><span class="line"><span class="comment">#======================================</span></span><br><span class="line"></span><br><span class="line">Reading package lists... Done</span><br><span class="line">Building dependency tree       </span><br><span class="line">Reading state information... Done</span><br><span class="line">mtr is already the newest version (0.92-1).</span><br><span class="line">traceroute is already the newest version (1:2.1.0-2).</span><br><span class="line">0 upgraded, 0 newly installed, 0 to remove and 61 not upgraded.</span><br><span class="line">[Info] 选择你要使用的功能: </span><br><span class="line">1.选择一个节点进行测试</span><br><span class="line">2.四网路由快速测试</span><br><span class="line">3.手动输入 ip 进行测试</span><br><span class="line">输入数字以选择:2</span><br><span class="line">[Info] 测试路由 到 上海电信(天翼云) 中 ...</span><br><span class="line">traceroute to 101.227.255.45 (101.227.255.45), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.0.97  0.33 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.46  1.26 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.13  1.68 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.23  1.10 ms  *  AMAZON.COM 骨干网 amazon.com</span><br><span class="line"> 8  prod05.x.hkg.fullmeshnetworks.com (203.131.247.229)  1.83 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-15.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.162)  48.24 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-11.r24.tkokhk01.hk.bb.gin.ntt.net (129.250.6.99)  2.22 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  ae-12.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.2.50)  44.81 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">12  ae-10.r27.tokyjp05.jp.bb.gin.ntt.net (129.250.2.156)  48.00 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">13  xe-3.chinanet.tokyjp05.jp.bb.gin.ntt.net (129.250.66.90)  148.83 ms  AS2914  中国 北京 ntt.com</span><br><span class="line">14  202.97.12.49  145.63 ms  AS4134  中国 北京 电信</span><br><span class="line">15  *</span><br><span class="line">16  101.95.120.81  155.61 ms  AS4812  中国 上海 电信</span><br><span class="line">17  *</span><br><span class="line">18  *</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  *</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 上海电信(天翼云) 完成 ！</span><br><span class="line">[Info] 测试路由 到 厦门电信CN2 中 ...</span><br><span class="line">traceroute to 117.28.254.129 (117.28.254.129), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.65  0.81 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.20  1.03 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  54.240.241.210  2.56 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  54.240.241.35  0.92 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  203.131.254.65  0.88 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-6.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.70)  1.87 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-1.a01.chwahk02.hk.bb.gin.ntt.net (129.250.5.161)  2.76 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  xe-0-0-21-2.a01.chwahk02.hk.ce.gin.ntt.net (203.131.241.70)  2.91 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">12  59.43.188.121  20.69 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">13  59.43.187.105  9.18 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">14  59.43.130.153  8.59 ms  AS4809  中国 广东 广州 电信</span><br><span class="line">15  59.43.142.30  33.59 ms  AS4809  中国 电信</span><br><span class="line">16  27.159.81.246  67.90 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line">17  *</span><br><span class="line">18  117.25.141.110  67.39 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  117.28.254.129  27.48 ms  AS133775  中国 福建 厦门 电信</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 厦门电信CN2 完成 ！</span><br><span class="line">[Info] 测试路由 到 浙江杭州联通 中 ...</span><br><span class="line">traceroute to 101.71.241.238 (101.71.241.238), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.161  8.40 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.42  7.27 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.83  3.97 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.101  1.07 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  *</span><br><span class="line"> 9  ae-14.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.178)  49.67 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ae-11.r24.tkokhk01.hk.bb.gin.ntt.net (129.250.6.99)  3.75 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  ae-12.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.2.50)  49.25 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">12  ae-10.r27.tokyjp05.jp.bb.gin.ntt.net (129.250.2.156)  52.43 ms  AS2914  日本 东京都 东京 ntt.com</span><br><span class="line">13  xe-0.cnc-g.tokyjp05.jp.bb.gin.ntt.net (129.250.8.38)  139.29 ms  AS2914  中国 上海 ntt.com</span><br><span class="line">14  219.158.19.90  139.00 ms  AS4837  中国 上海 联通</span><br><span class="line">15  219.158.19.81  142.27 ms  AS4837  中国 上海 联通</span><br><span class="line">16  219.158.115.146  139.26 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line">17  *</span><br><span class="line">18  101.69.245.158  137.00 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line">19  101.71.241.238  142.36 ms  AS4837  中国 浙江 杭州 联通</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 浙江杭州联通 完成 ！</span><br><span class="line">[Info] 测试路由 到 浙江杭州移动 中 ...</span><br><span class="line">traceroute to 112.17.0.106 (112.17.0.106), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.97  0.34 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.22  1.15 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  54.240.241.220  1.69 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  54.240.241.95  0.94 ms  *  中国 香港 amazon.com</span><br><span class="line"> 8  203.131.254.65  1.11 ms  AS2914  中国 香港 ntt.com</span><br><span class="line"> 9  ae-6.r03.tkokhk01.hk.bb.gin.ntt.net (129.250.5.70)  2.11 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">10  ce-0-2-0-3.r03.tkokhk01.hk.ce.gin.ntt.net (203.131.241.86)  169.31 ms  AS2914  中国 香港 ntt.com</span><br><span class="line">11  *</span><br><span class="line">12  223.120.2.14  164.79 ms  AS58453  中国 广东 广州 移动</span><br><span class="line">13  223.120.22.5  183.12 ms  AS58453  中国 广东 广州 移动</span><br><span class="line">14  221.183.55.26  185.44 ms  AS9808  中国 上海 移动</span><br><span class="line">15  221.176.22.205  225.16 ms  AS9808  中国 上海 移动</span><br><span class="line">16  221.183.23.25  281.47 ms  AS9808  中国 上海 移动</span><br><span class="line">17  221.183.11.6  200.64 ms  AS9808  中国 浙江 杭州 移动</span><br><span class="line">18  *</span><br><span class="line">19  221.183.10.6  252.93 ms  AS9808  中国 浙江 杭州 移动</span><br><span class="line">20  *</span><br><span class="line">21  112.17.253.118  234.88 ms  AS56041  中国 浙江 杭州 移动</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 浙江杭州移动 完成 ！</span><br><span class="line">[Info] 测试路由 到 北京教育网 中 ...</span><br><span class="line">traceroute to 202.205.6.30 (202.205.6.30), 30 hops max, 60 byte packets</span><br><span class="line"> 1  *</span><br><span class="line"> 2  *</span><br><span class="line"> 3  *</span><br><span class="line"> 4  100.65.1.33  0.57 ms  *  共享地址</span><br><span class="line"> 5  52.93.156.42  14.06 ms  *  中国 香港 amazon.com</span><br><span class="line"> 6  52.93.157.69  1.75 ms  *  中国 香港 amazon.com</span><br><span class="line"> 7  52.93.35.85  1.09 ms  *  AMAZON.COM 骨干网 amazon.com</span><br><span class="line"> 8  unknown.telstraglobal.net (210.57.80.58)  1.27 ms  AS4637,AS10026  中国 香港 telstra.com</span><br><span class="line"> 9  61.8.59.38  29.13 ms  AS4637,AS10026  中国 香港 pacnet.com</span><br><span class="line">10  101.4.117.149  170.85 ms  AS4538  中国 北京 教育网</span><br><span class="line">11  101.4.118.121  167.31 ms  AS4538  中国 北京 教育网</span><br><span class="line">12  101.4.117.253  163.81 ms  AS4538  中国 北京 教育网</span><br><span class="line">13  101.4.114.197  168.60 ms  AS4538  中国 北京 教育网</span><br><span class="line">14  219.224.102.234  173.04 ms  AS4538  中国 北京 教育网</span><br><span class="line">15  *</span><br><span class="line">16  *</span><br><span class="line">17  *</span><br><span class="line">18  *</span><br><span class="line">19  *</span><br><span class="line">20  *</span><br><span class="line">21  *</span><br><span class="line">22  *</span><br><span class="line">23  *</span><br><span class="line">24  *</span><br><span class="line">25  *</span><br><span class="line">26  *</span><br><span class="line">27  *</span><br><span class="line">28  *</span><br><span class="line">29  *</span><br><span class="line">30  *</span><br><span class="line"></span><br><span class="line">[Info] 测试路由 到 北京教育网 完成 ！</span><br><span class="line">[Info] 四网路由快速测试 已完成 ！</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>折腾</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-        <tag>Bash</tag>
-        <tag>School</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Flood Fill</title>
-    <url>/2019/05/01/leetcode733/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/flood-fill/">Flood Fill </a></p>
-<p>Desc:</p>
-<p>二维格点，用数字代表颜色，选定一个点(sr,sc)进行染色，和该点直接相连的同色点且都会被染成新颜色，求最后的二维矩阵。</p>
-<p>很简单不知道为什么我要写一篇blog（表现的自己很努力？</p>
+    <title>Maximum Length of Repeated Subarray</title>
+    <url>/2019/05/01/leetcode718/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/">Maximum Length of Repeated Subarray </a></p>
+<p>Desc: 给出两个字符串求两串最大公共子串的长度</p>
+<p>DP：</p>
+<p><code>dp[i][j]</code>代表了以<code>a[i]</code>和<code>b[i]</code>为起点的的字符串的最大公共子串的长度</p>
+<p>那么<code>dp[i][j] = a[i] == b[j] ? 1 + dp[i + 1][j + 1] : 0</code></p>
+<p>考虑利用“滚动数组优化”可以降低一维</p>
 <p>My_Code:</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    vector&lt;vector&lt;<span class="keyword">int</span>&gt;&gt; <span class="built_in">floodFill</span>(vector&lt;vector&lt;<span class="keyword">int</span>&gt;&gt;&amp; image, <span class="keyword">int</span> sr, <span class="keyword">int</span> sc, <span class="keyword">int</span> newColor) &#123;</span><br><span class="line">        <span class="keyword">int</span> oldColor = image[sr][sc];</span><br><span class="line">        <span class="keyword">if</span> (oldColor == newColor) <span class="keyword">return</span> image;</span><br><span class="line">        queue&lt;pair&lt;<span class="keyword">int</span>, <span class="keyword">int</span>&gt;&gt; queue;</span><br><span class="line">        queue.<span class="built_in">push</span>(<span class="built_in">make_pair</span>(sr, sc));</span><br><span class="line">        <span class="keyword">int</span> n = image.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">int</span> m = image[<span class="number">0</span>].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">while</span> (!queue.<span class="built_in">empty</span>()) &#123;</span><br><span class="line">            <span class="keyword">int</span> row = queue.<span class="built_in">front</span>().first;</span><br><span class="line">            <span class="keyword">int</span> column = queue.<span class="built_in">front</span>().second;</span><br><span class="line">            queue.<span class="built_in">pop</span>();</span><br><span class="line">            <span class="keyword">if</span> (image[row][column] == oldColor) &#123;</span><br><span class="line">                image[row][column] = newColor;</span><br><span class="line">                <span class="keyword">if</span> (row != <span class="number">0</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row<span class="number">-1</span>, column));</span><br><span class="line">                <span class="keyword">if</span> (row != n<span class="number">-1</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row+<span class="number">1</span>, column));</span><br><span class="line">                <span class="keyword">if</span> (column != <span class="number">0</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row, column<span class="number">-1</span>));</span><br><span class="line">                <span class="keyword">if</span> (column != m<span class="number">-1</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row, column+<span class="number">1</span>));</span><br><span class="line">            &#125; </span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> image;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findLength</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; a, vector&lt;<span class="keyword">int</span>&gt;&amp; b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> m = a.<span class="built_in">size</span>(), n = b.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">if</span> (!m || !n) <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        <span class="function">vector&lt;<span class="keyword">int</span>&gt; <span class="title">dp</span><span class="params">(n + <span class="number">1</span>)</span></span>;</span><br><span class="line">        <span class="keyword">int</span> res = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = m - <span class="number">1</span>; i &gt;= <span class="number">0</span>; i--) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">0</span>; j &lt; n; j++) &#123;</span><br><span class="line">                res = <span class="built_in">max</span>(res, dp[j] = a[i] == b[j] ? <span class="number">1</span> + dp[j + <span class="number">1</span>] : <span class="number">0</span>);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+
 
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
@@ -343,84 +347,18 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
   <entry>
-    <title>Maximum Length of Repeated Subarray</title>
-    <url>/2019/05/01/leetcode718/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/">Maximum Length of Repeated Subarray </a></p>
-<p>Desc: 给出两个字符串求两串最大公共子串的长度</p>
-<p>DP：</p>
-<p><code>dp[i][j]</code>代表了以<code>a[i]</code>和<code>b[i]</code>为起点的的字符串的最大公共子串的长度</p>
-<p>那么<code>dp[i][j] = a[i] == b[j] ? 1 + dp[i + 1][j + 1] : 0</code></p>
-<p>考虑利用“滚动数组优化”可以降低一维</p>
+    <title>Flood Fill</title>
+    <url>/2019/05/01/leetcode733/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://leetcode.com/problems/flood-fill/">Flood Fill </a></p>
+<p>Desc:</p>
+<p>二维格点，用数字代表颜色，选定一个点(sr,sc)进行染色，和该点直接相连的同色点且都会被染成新颜色，求最后的二维矩阵。</p>
+<p>很简单不知道为什么我要写一篇blog（表现的自己很努力？</p>
 <p>My_Code:</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">int</span> <span class="title">findLength</span><span class="params">(vector&lt;<span class="keyword">int</span>&gt;&amp; a, vector&lt;<span class="keyword">int</span>&gt;&amp; b)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> m = a.<span class="built_in">size</span>(), n = b.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">if</span> (!m || !n) <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">        <span class="function">vector&lt;<span class="keyword">int</span>&gt; <span class="title">dp</span><span class="params">(n + <span class="number">1</span>)</span></span>;</span><br><span class="line">        <span class="keyword">int</span> res = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = m - <span class="number">1</span>; i &gt;= <span class="number">0</span>; i--) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">0</span>; j &lt; n; j++) &#123;</span><br><span class="line">                res = <span class="built_in">max</span>(res, dp[j] = a[i] == b[j] ? <span class="number">1</span> + dp[j + <span class="number">1</span>] : <span class="number">0</span>);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> res;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Solution</span> &#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    vector&lt;vector&lt;<span class="keyword">int</span>&gt;&gt; <span class="built_in">floodFill</span>(vector&lt;vector&lt;<span class="keyword">int</span>&gt;&gt;&amp; image, <span class="keyword">int</span> sr, <span class="keyword">int</span> sc, <span class="keyword">int</span> newColor) &#123;</span><br><span class="line">        <span class="keyword">int</span> oldColor = image[sr][sc];</span><br><span class="line">        <span class="keyword">if</span> (oldColor == newColor) <span class="keyword">return</span> image;</span><br><span class="line">        queue&lt;pair&lt;<span class="keyword">int</span>, <span class="keyword">int</span>&gt;&gt; queue;</span><br><span class="line">        queue.<span class="built_in">push</span>(<span class="built_in">make_pair</span>(sr, sc));</span><br><span class="line">        <span class="keyword">int</span> n = image.<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">int</span> m = image[<span class="number">0</span>].<span class="built_in">size</span>();</span><br><span class="line">        <span class="keyword">while</span> (!queue.<span class="built_in">empty</span>()) &#123;</span><br><span class="line">            <span class="keyword">int</span> row = queue.<span class="built_in">front</span>().first;</span><br><span class="line">            <span class="keyword">int</span> column = queue.<span class="built_in">front</span>().second;</span><br><span class="line">            queue.<span class="built_in">pop</span>();</span><br><span class="line">            <span class="keyword">if</span> (image[row][column] == oldColor) &#123;</span><br><span class="line">                image[row][column] = newColor;</span><br><span class="line">                <span class="keyword">if</span> (row != <span class="number">0</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row<span class="number">-1</span>, column));</span><br><span class="line">                <span class="keyword">if</span> (row != n<span class="number">-1</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row+<span class="number">1</span>, column));</span><br><span class="line">                <span class="keyword">if</span> (column != <span class="number">0</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row, column<span class="number">-1</span>));</span><br><span class="line">                <span class="keyword">if</span> (column != m<span class="number">-1</span>) queue.<span class="built_in">push</span>(std::<span class="built_in">make_pair</span>(row, column+<span class="number">1</span>));</span><br><span class="line">            &#125; </span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> image;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
 
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
         <tag>leetcode</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>my-2019-summary</title>
-    <url>/2020/01/07/my-2019-summary/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-TKnGjCaO" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="512359195" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近忙毕业的事情忙的心情复杂，加上工作的事情尘埃落定了，试图回想一下自己曾经在2019年做了啥吧，由于时间有点久，只能从多个不同角度回忆了</p>
-<h3 id="0-cpc"><a href="#0-cpc" class="headerlink" title="0. *cpc"></a>0. *cpc</h3><p>18年打完青岛以后基本就脱离了*cpc这个圈子，19年整年感觉自己的做题能力一直在不断下滑，codeforces一场没打，20年开始找工作以后开了一个月leetcode的会员，把剑指offer刷完了稍微恢复了一点点。google code jam 也只打了qualifications round。。1A只会签到 1B睡过去了 想来我也拿不到衣服 遂鸽。</p>
-<h3 id="1-考研"><a href="#1-考研" class="headerlink" title="1. 考研"></a>1. 考研</h3><p>考研的背景：大概18年12月我面试了一次字节跳动，不知道推到了什么AI的组，那时候也没对一些408有关的知识进行针对复习，基本一问三不知，看面试官态度也不是特别好，毕竟一个0基础+非科班的five，哪个公司都不想要吧，题目给我出了个easy变种但是实际上可能是hard级别的题目（？ 直接把我劝退了，陷入自我否定的死循环，决定考个研提升下自己。</p>
-<p>感觉我考研开始的时间有点迟，19年上半年(大三下)只是稍微动了一下数学参考书，和无聊翻看408的一些专业书籍，完全没实现系统化的复习，而且确实在没有研友交流的情况下，比较难互通有无并且成系统的复习。暑假开始少量看点汤的数学视频，由于时间不太够，基本是走马观花的看了一遍并且做了对应笔记，实际上并未进脑子(伏笔)。</p>
-<p>数学：暑假的时候开始9 10 7的复习，每天都感觉自己在追赶时间，408四本书的量并不少，然后由于数学初期没有系统化的按照教科书or部分老师的考点走下来，每天都在痛苦的查缺补漏，效率被碎片化拖拉严重，直接导致了最后数学的崩盘。如果我数学上线我总分也过线了。。。当然都是后话了</p>
-<p>408：包含四本书：计算机组成原理、计算机网络、数据结构、操作系统。对于这四本书，我主要参考的是王道书的主要知识点，自我感觉学的还好，但是实际上408选择题考察的范围非常细致，错误率从5个到20个都是出现过的。我觉得比较难的是计网比较多的概念需要记忆，而计算机组成原理、操作系统大多是考察系统or计算题，相对来说要简单一点。数据结构就不提了，由于*cpc的背景，我只对B+树以及一些技巧性的题目进行了针对性的记忆，做模拟卷的时候基本没在数据结构出过错。</p>
-<p>英语：由于*cpc的背景，我英语阅读能力还不错，做英语2的模拟卷阅读基本错误在1-3个之间，基本就是每天背50个单词 review 200个单词+一天一份卷子就度过了。</p>
-<p>政治：很迟才开始，死记硬背，略</p>
-<p>反正挂了就是挂了，输就是输了，菜如我</p>
-<h3 id="2-考完到出分"><a href="#2-考完到出分" class="headerlink" title="2. 考完到出分"></a>2. 考完到出分</h3><p>考完以后感觉考的很烂就很丧，但是那时候也没考虑那么远，打算出分再说，毕竟考完其实也没多少时间找工作了，圣诞前后，然后又遇上了疫情，比较爽快的玩了两个月。</p>
-<h3 id="3-从出分到找工作"><a href="#3-从出分到找工作" class="headerlink" title="3. 从出分到找工作"></a>3. 从出分到找工作</h3><p>不知不觉到了2020年，虽说是2019年记录，但是考虑实际写文的时间，考完到求职这段时间也放进去好了。</p>
-<p>好像是2月10还是2月15出的分(我又记不清了orz)，看了眼我的分数 感觉没啥希望了，开始自我push，发现自己考不上也没工作好像啃老也不太好，那个时候有几个选择。</p>
-<ol>
-<li>二战。代价是一旦失败了你就不是应届生了(微软一年内还算)</li>
-<li>等着考公or教资等其他。考试好像无限期延期了，等于还是得gap，一旦失败同上</li>
-<li>找工作</li>
-</ol>
-<p>痛定思痛，决定找工作。现在已经签完了从上帝视角看，其实我准备大三实习也是有竞争力的，拖到春招属实是一个不明智的决定，还好运气尚佳，终究是个好结局。</p>
-<p>timeline</p>
-<ul>
-<li><p>2.21 考研出分</p>
-</li>
-<li><p>2.22 决定找工作 开始刷题&amp;面经</p>
-</li>
-<li><p>2.25 开始投简历 腾讯、网易雷火（内推）、宁波银行总行科技部、bilibili游戏服务端开发（内推）、微软</p>
-</li>
-<li><p>2.26 腾讯预约面试  很惊讶，大概两天后有一个识别为腾讯科技的电话打来了，简单check了一下我的名字和身份，确认我是应聘20届后台开发的人，说了一下他们是做广告那边的部门，问我现在是否有空面试，考虑到我妈下午还要上网课，我就跟他预约了第二天下午2-3点(大概是他下午刚开始上班的时候hhh)</p>
-</li>
-<li><p>2.27腾讯一面 1 小时 考察的主要是一些基础知识，3个medium回答思路 最后给我了一个类似共享代码的网址让我写完3SUM</p>
-</li>
-<li><p>2.28 腾讯二面 20分钟 主要是聊人生，他问我为啥要转，以及考研咋样，如果考上了和offer选哪个（伏笔）我非常憨憨的说了要读研，然后被他diss了一下，反问环节我问了下地点在哪，工作内容，技术栈，以及他对我的建议，面完其实感觉挺凉的。二面完，我和我爸妈吐槽了一下2面，然后感觉我应该踩雷了，感觉有点凉，同时看了眼考研分数和了解到的调剂情况，打算放弃调剂，好好找工作。</p>
-</li>
-<li><p>2.28 二面后一小时 由于不怎么用微信，突然发现微信有个在二面刚面完就发来的好友请求，一看备注是我一面面试官，非常惊讶。。赶紧通过了一下，他问我是否有空语音，然后打了个语音电话过来，着重重新问了一下，offer和读研的选择，我说我和父母商量过了，决定不读了，反正目的都是找工作。然后他也没表示什么了，就让我注意下HR面的时候不要踩雷。语音完突然感觉我被一面捞了一手，突然感觉我稳了hhh。</p>
-</li>
-<li><p>2.29 状态变为HR面，并且未约定时间</p>
-</li>
-<li><p>3.3 收到HR面预约时间</p>
-</li>
-<li><p>3.4 完成HR面 并且HR口头说一周内会发放正式offer</p>
-</li>
-<li><p>3.25 收到offer call (好像是HR太忙了忘了 让一面帮我催了一下)</p>
-</li>
-<li><p>3.26收到正式offer mail 并且邮寄三方 </p>
-</li>
-<li><p>4.15收到返回的三方~</p>
-</li>
-</ul>
-<p>3.4-3.25之间完成了字节的面试也拿了offer 但是我拖了一会 还没接(说自己三方还没拿到)</p>
-<p>找工作这段时间，睡得都不太好，而且在二面不太好的情况其实很郁闷为什么小公司没发来面试请求，像宁波银行干脆把我简历挂了，bilibili找了内推毫无消息，雷火的话在我已经拿到腾讯offer才缓慢给我发了个笔试邀请，题目倒是挺简单的，但是雷火的薪资和口碑都不太好，遂没继续参与了。</p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>Daily</tag>
       </tags>
   </entry>
   <entry>
@@ -459,61 +397,6 @@
 <link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <tags>
         <tag>鶸</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>one_year_after_work</title>
-    <url>/2021/09/04/one-year-after-work/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>原来不知不觉就一年过去了，感觉这一年并没有什么实质性的变化。</p>
-<p>只是人来人往，又换了一批人。</p>
-<p>这次也打算是分几个小标题来写我的碎碎念。</p>
-<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>这一年里差不多一半合作过的人，或是转岗，或是离职了，在工作之前，也并没有想到过互联网企业的流动性能这么高。</p>
-<p>其实也没怎么和工作上认识的人有过多交流，更别说深交，只是听过的，或是合作过的同事离职了 还是会有一点点感慨。</p>
-<p>而也有相对来说更熟一点的朋友，换了个城市，除了有点唏嘘，也只能在送别的时候祝前程似锦。</p>
-<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>终究还是没找室友，一个人住的自由在我看来更重要一点。</p>
-<p>买了个扫地机器人，姑且算是在懒得叫保洁的时候保证一下地板的干净。</p>
-<p>自从自己开始管自己开销就开始放飞自我，这一年剁手的东西实在好多，倒序回忆一下，扫地机器人、ps5（本来打算晚点买，结果运气好抽到了原价资格）、显卡（6800-&gt;6900xt-&gt;3080ti)、音箱（iloud mini monitor)、解码耳放一体、耳机（宁梵na2+/nf3pro，一条k厂的freya）、r9000p 3070款，除了以上，待机半年多的nas也装起来了，插了2个12 4个14 还剩两个待定。</p>
-<p><img src="https://i.loli.net/2021/09/20/7KQH5mqfLeSBOWp.jpg" alt="QQ图片20210920205709.jpg"></p>
-<p>随便拍的一张桌面，总算变成肥宅快乐桌了？</p>
-<h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>应该算是略微超出了老板的预期？一年时间成长的还算不错，也算是能独当一面了。</p>
-<p>不过整体的方向在慢慢的往infra转，做一些简单的crud其实并不是我们的目标，关注整体的架构设计、性能优化，以及怎么在有限的人力、机器成本下获取更多收益。</p>
-<p>闲的时候看了不少cpp的新特性，不得不说11/17的一些特性真的是解放（？</p>
-<p>不过语言这种东西嘛，还是和业务背景分不开。</p>
-<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>我觉得我这个人，如果硬是要通过标签来描述，Gamer一定是一个最大、最显眼的标签，只是工作上的疲惫或者说工作上的追求，已经让我对游戏的兴趣在减少。</p>
-<p><img src="https://i.loli.net/2021/09/20/DcHQkVqYAlxR1Xp.jpg" alt="123.jpg"></p>
-<p>大概我也是个电子游戏阳痿？（笑</p>
-<p>大概年初把Apex Legends捡回来了，随便上了个钻石，恰好以前玩游戏的群友拉着我上大师，遂上了个大师，上完大师以后游戏环境就直接崩盘了，本来是5盘一个挂，极端情况下是1盘五个挂… 再加上队友去玩ff14，我也打消了继续冲分的念头，找着群友要白金号随便打打白金排位度日。</p>
-<p>大概八月份在jd抽签抽中了原价购买PS5的资格，不过其实之前也嫖同学的PS4Pro玩了挺多PS4游戏，拿到手以后也没啥新游戏能玩，ff7re不知道为啥被我忘了(迷惑)，一直吃灰到破晓传说(Tales of Arise)的发售。Demo的高质量，戳xp的女主，没多想预购了，到手以后也感慨jrpg也在变化，也能算是ps5 二次元大作之一了。</p>
-
-    <div id="aplayer-YRXQlOXV" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="1876388990" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div>
-
-<div class='spoiler collapsed'>
-    <div class='spoiler-title'>
-        破晓传说剧透
-    </div>
-    <div class='spoiler-content'>
-        <ol>
-<li>好吃的糖，三对cp，happy ending真的怎么都输不了，拯救世界也为了拯救你，公主抱、结婚、继续守护这个世界</li>
-<li>全配音的三百多个小剧场，nb，但是主线剧情在不看小剧场的时候，其实是有点难以理解的</li>
-<li>战斗系统说实话体验不是很好，由于我直接一周目困难，全程刮痧，而且最终迷宫还调整了难度</li>
-</ol>
-
-    </div>
-</div>
-
-<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
-<li>还是减肥？最近又反弹了</li>
-<li>大概的话 能一周做点lc周赛嘛</li>
-<li>脱单（笑？</li>
-</ol>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>半年记</category>
-      </categories>
-      <tags>
-        <tag>Daily</tag>
       </tags>
   </entry>
   <entry>
@@ -750,6 +633,61 @@
       </tags>
   </entry>
   <entry>
+    <title>one_year_after_work</title>
+    <url>/2021/09/04/one-year-after-work/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>原来不知不觉就一年过去了，感觉这一年并没有什么实质性的变化。</p>
+<p>只是人来人往，又换了一批人。</p>
+<p>这次也打算是分几个小标题来写我的碎碎念。</p>
+<h3 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h3><p>这一年里差不多一半合作过的人，或是转岗，或是离职了，在工作之前，也并没有想到过互联网企业的流动性能这么高。</p>
+<p>其实也没怎么和工作上认识的人有过多交流，更别说深交，只是听过的，或是合作过的同事离职了 还是会有一点点感慨。</p>
+<p>而也有相对来说更熟一点的朋友，换了个城市，除了有点唏嘘，也只能在送别的时候祝前程似锦。</p>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>终究还是没找室友，一个人住的自由在我看来更重要一点。</p>
+<p>买了个扫地机器人，姑且算是在懒得叫保洁的时候保证一下地板的干净。</p>
+<p>自从自己开始管自己开销就开始放飞自我，这一年剁手的东西实在好多，倒序回忆一下，扫地机器人、ps5（本来打算晚点买，结果运气好抽到了原价资格）、显卡（6800-&gt;6900xt-&gt;3080ti)、音箱（iloud mini monitor)、解码耳放一体、耳机（宁梵na2+/nf3pro，一条k厂的freya）、r9000p 3070款，除了以上，待机半年多的nas也装起来了，插了2个12 4个14 还剩两个待定。</p>
+<p><img src="https://i.loli.net/2021/09/20/7KQH5mqfLeSBOWp.jpg" alt="QQ图片20210920205709.jpg"></p>
+<p>随便拍的一张桌面，总算变成肥宅快乐桌了？</p>
+<h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>应该算是略微超出了老板的预期？一年时间成长的还算不错，也算是能独当一面了。</p>
+<p>不过整体的方向在慢慢的往infra转，做一些简单的crud其实并不是我们的目标，关注整体的架构设计、性能优化，以及怎么在有限的人力、机器成本下获取更多收益。</p>
+<p>闲的时候看了不少cpp的新特性，不得不说11/17的一些特性真的是解放（？</p>
+<p>不过语言这种东西嘛，还是和业务背景分不开。</p>
+<h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><p>我觉得我这个人，如果硬是要通过标签来描述，Gamer一定是一个最大、最显眼的标签，只是工作上的疲惫或者说工作上的追求，已经让我对游戏的兴趣在减少。</p>
+<p><img src="https://i.loli.net/2021/09/20/DcHQkVqYAlxR1Xp.jpg" alt="123.jpg"></p>
+<p>大概我也是个电子游戏阳痿？（笑</p>
+<p>大概年初把Apex Legends捡回来了，随便上了个钻石，恰好以前玩游戏的群友拉着我上大师，遂上了个大师，上完大师以后游戏环境就直接崩盘了，本来是5盘一个挂，极端情况下是1盘五个挂… 再加上队友去玩ff14，我也打消了继续冲分的念头，找着群友要白金号随便打打白金排位度日。</p>
+<p>大概八月份在jd抽签抽中了原价购买PS5的资格，不过其实之前也嫖同学的PS4Pro玩了挺多PS4游戏，拿到手以后也没啥新游戏能玩，ff7re不知道为啥被我忘了(迷惑)，一直吃灰到破晓传说(Tales of Arise)的发售。Demo的高质量，戳xp的女主，没多想预购了，到手以后也感慨jrpg也在变化，也能算是ps5 二次元大作之一了。</p>
+
+    <div id="aplayer-CXthJVUj" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="1876388990" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<div class='spoiler collapsed'>
+    <div class='spoiler-title'>
+        破晓传说剧透
+    </div>
+    <div class='spoiler-content'>
+        <ol>
+<li>好吃的糖，三对cp，happy ending真的怎么都输不了，拯救世界也为了拯救你，公主抱、结婚、继续守护这个世界</li>
+<li>全配音的三百多个小剧场，nb，但是主线剧情在不看小剧场的时候，其实是有点难以理解的</li>
+<li>战斗系统说实话体验不是很好，由于我直接一周目困难，全程刮痧，而且最终迷宫还调整了难度</li>
+</ol>
+
+    </div>
+</div>
+
+<h3 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h3><ol>
+<li>还是减肥？最近又反弹了</li>
+<li>大概的话 能一周做点lc周赛嘛</li>
+<li>脱单（笑？</li>
+</ol>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>半年记</category>
+      </categories>
+      <tags>
+        <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Rclone配置方式</title>
     <url>/2019/10/04/rclone-config/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>最近有点沉迷把东西backup到Google drive上，还开了个商业版来方便自己传东西，本文主要是面向0基础的rclone科普教程。主要涉及部分是rclone的安装，rclone配置文件的建立，<del>挂载</del>我不喜欢挂载所以我也不会(</p>
@@ -790,67 +728,6 @@
       </tags>
   </entry>
   <entry>
-    <title>使用MSYS2+mingw编译x264-tmod</title>
-    <url>/2020/03/23/x264-tmod-build/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近在试着压片，想在mediainfo里夹带私货，所以需要自己编译一下x264。</p>
-<p>本文仅做记录用，由于自己水平不足无法答疑请谅解。</p>
-<h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>安装 Git</p>
-<p>安装<a href="https://www.msys2.org/">MSYS2</a></p>
-<p>由于网络原因你可能需要给MSYS换源或者设置代理，此处不赘述</p>
-<p>安装完毕以后找到MSYS2 MinGW 64-bit</p>
-<p>打开MSYS2</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pacman -Syu</span><br><span class="line">pacman -Su</span><br><span class="line">pacman -S mingw-w64-i686-gcc</span><br><span class="line">pacman -S mingw-w64-x86_64-gcc</span><br><span class="line">pacman -S base-devel</span><br><span class="line">pacman -S vim</span><br><span class="line">pacman -S nasm</span><br><span class="line">pacman -S git</span><br></pre></td></tr></table></figure>
-
-<p>以上安装完成后输入</p>
-<p><code>gcc -v</code></p>
-<p>查看是否正常</p>
-<h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>假设本次的文件都在 “ C:\x264_Prg\ “</p>
-<p>在git bash中</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> <span class="string">&quot;C:\x264_Prg\ &quot;</span></span><br><span class="line">git <span class="built_in">clone</span> https://github.com/l-smash/l-smash.git</span><br><span class="line">git <span class="built_in">clone</span> https://github.com/jpsdr/x264.git -b t_mod_New</span><br></pre></td></tr></table></figure>
-
-<p>进入 “ C:\x264_Prg\l-smash “ 新建文件夹 Build_x264</p>
-<p>修改makefile</p>
-<p>找到</p>
-<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/lsmash.h $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(libdir)/pkgconfig</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> liblsmash.pc $(DESTDIR)$(libdir)/pkgconfig</span><br></pre></td></tr></table></figure>
-
-<p>修改为</p>
-<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/lsmash.h $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/importer.h $(DESTDIR)$(includedir)/lsmash_importer.h</span><br><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(libdir)/pkgconfig</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> liblsmash.pc $(DESTDIR)$(libdir)/pkgconfig</span><br></pre></td></tr></table></figure>
-
-<p>将</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$(RM) $(DESTDIR)$(includedir)/lsmash.h</span><br></pre></td></tr></table></figure>
-
-<p>替换为</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$(RM) $(addprefix $(DESTDIR)$(includedir)/, lsmash.h, lsmash_importer.h)</span><br></pre></td></tr></table></figure>
-
-<p>然后进入  “ C:\x264_Prg\l-smash\importer “将importer.h 复制到 “C:\x264_Prg\l-smash”</p>
-<p>然后在 “ C:\x264_Prg\ “新建一个” <em>Build_lsmash_x264.sh</em> “</p>
-<p>文件内容如下</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> ./l-smash/Build_x264</span><br><span class="line">_dir=<span class="string">&quot;/local-x264&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;32&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>_x86&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>_x64&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$2</span>&quot;</span> = <span class="string">&quot;posix&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/posix&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$2</span>&quot;</span> = <span class="string">&quot;win32&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/Win32threads&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;original&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/Original&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;tmod&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/t_mod&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;jpsdr&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/jpsdr&quot;</span></span><br><span class="line">_ld=<span class="string">&quot;-static&quot;</span></span><br><span class="line">_cf=<span class="string">&quot;&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;jpsdr&quot;</span> ]] &amp;&amp; _cf=<span class="string">&quot;-march=haswell -mavx -mavx2 -mtune=haswell&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _ld=<span class="string">&quot;<span class="variable">$&#123;_ld&#125;</span> -m64&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _cf=<span class="string">&quot;<span class="variable">$&#123;_cf&#125;</span> -m64&quot;</span></span><br><span class="line">PKG_CONFIG_PATH=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/lib/pkgconfig&quot;</span> \</span><br><span class="line">../configure --prefix=<span class="variable">$&#123;_dir&#125;</span> --extra-ldflags=<span class="string">&quot;<span class="variable">$&#123;_ld&#125;</span>&quot;</span> --extra-cflags=<span class="string">&quot;<span class="variable">$&#123;_cf&#125;</span>&quot;</span></span><br><span class="line">make -j1 lib</span><br><span class="line">make install</span><br><span class="line">make clean</span><br></pre></td></tr></table></figure>
-
-<p>在git bash里执行</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">./Build_lsmash_x264.sh 64 win32 tmod</span><br></pre></td></tr></table></figure>
-
-<p>或32位</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./Build_lsmash_x264.sh 32 win32 tmod</span><br></pre></td></tr></table></figure>
-
-<p>l-smash完成</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span>  <span class="string">&quot;C:\x264_Prg\x264&quot;</span></span><br><span class="line">./configure</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
-
-<p>x264完成</p>
-<p>具体configure的可选配置项可以自行前往<a href="https://github.com/jpsdr/x264/blob/t_mod_New/configure">x264文件</a>查看</p>
-<p>如果有需要修改version的需求，可以自行在编译前修改x264文件夹下的version.sh</p>
-<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p><a href="https://forum.doom9.org/showthread.php?t=172610">https://forum.doom9.org/showthread.php?t=172610</a></p>
-<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>折腾</category>
-      </categories>
-      <tags>
-        <tag>Windows</tag>
-        <tag>Tools</tag>
-        <tag>encode</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>为本地的ssh设置代理，通过connect</title>
     <url>/2019/10/02/ssh-proxy-connect/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>说个笑话，我在我学校的默认dns下居然解析不出GitHub了。。。。药丸</p>
@@ -872,6 +749,68 @@
       <tags>
         <tag>Win</tag>
         <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>my-2019-summary</title>
+    <url>/2020/01/07/my-2019-summary/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
+    <div id="aplayer-xEVatFdT" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="512359195" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div>
+
+<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近忙毕业的事情忙的心情复杂，加上工作的事情尘埃落定了，试图回想一下自己曾经在2019年做了啥吧，由于时间有点久，只能从多个不同角度回忆了</p>
+<h3 id="0-cpc"><a href="#0-cpc" class="headerlink" title="0. *cpc"></a>0. *cpc</h3><p>18年打完青岛以后基本就脱离了*cpc这个圈子，19年整年感觉自己的做题能力一直在不断下滑，codeforces一场没打，20年开始找工作以后开了一个月leetcode的会员，把剑指offer刷完了稍微恢复了一点点。google code jam 也只打了qualifications round。。1A只会签到 1B睡过去了 想来我也拿不到衣服 遂鸽。</p>
+<h3 id="1-考研"><a href="#1-考研" class="headerlink" title="1. 考研"></a>1. 考研</h3><p>考研的背景：大概18年12月我面试了一次字节跳动，不知道推到了什么AI的组，那时候也没对一些408有关的知识进行针对复习，基本一问三不知，看面试官态度也不是特别好，毕竟一个0基础+非科班的five，哪个公司都不想要吧，题目给我出了个easy变种但是实际上可能是hard级别的题目（？ 直接把我劝退了，陷入自我否定的死循环，决定考个研提升下自己。</p>
+<p>感觉我考研开始的时间有点迟，19年上半年(大三下)只是稍微动了一下数学参考书，和无聊翻看408的一些专业书籍，完全没实现系统化的复习，而且确实在没有研友交流的情况下，比较难互通有无并且成系统的复习。暑假开始少量看点汤的数学视频，由于时间不太够，基本是走马观花的看了一遍并且做了对应笔记，实际上并未进脑子(伏笔)。</p>
+<p>数学：暑假的时候开始9 10 7的复习，每天都感觉自己在追赶时间，408四本书的量并不少，然后由于数学初期没有系统化的按照教科书or部分老师的考点走下来，每天都在痛苦的查缺补漏，效率被碎片化拖拉严重，直接导致了最后数学的崩盘。如果我数学上线我总分也过线了。。。当然都是后话了</p>
+<p>408：包含四本书：计算机组成原理、计算机网络、数据结构、操作系统。对于这四本书，我主要参考的是王道书的主要知识点，自我感觉学的还好，但是实际上408选择题考察的范围非常细致，错误率从5个到20个都是出现过的。我觉得比较难的是计网比较多的概念需要记忆，而计算机组成原理、操作系统大多是考察系统or计算题，相对来说要简单一点。数据结构就不提了，由于*cpc的背景，我只对B+树以及一些技巧性的题目进行了针对性的记忆，做模拟卷的时候基本没在数据结构出过错。</p>
+<p>英语：由于*cpc的背景，我英语阅读能力还不错，做英语2的模拟卷阅读基本错误在1-3个之间，基本就是每天背50个单词 review 200个单词+一天一份卷子就度过了。</p>
+<p>政治：很迟才开始，死记硬背，略</p>
+<p>反正挂了就是挂了，输就是输了，菜如我</p>
+<h3 id="2-考完到出分"><a href="#2-考完到出分" class="headerlink" title="2. 考完到出分"></a>2. 考完到出分</h3><p>考完以后感觉考的很烂就很丧，但是那时候也没考虑那么远，打算出分再说，毕竟考完其实也没多少时间找工作了，圣诞前后，然后又遇上了疫情，比较爽快的玩了两个月。</p>
+<h3 id="3-从出分到找工作"><a href="#3-从出分到找工作" class="headerlink" title="3. 从出分到找工作"></a>3. 从出分到找工作</h3><p>不知不觉到了2020年，虽说是2019年记录，但是考虑实际写文的时间，考完到求职这段时间也放进去好了。</p>
+<p>好像是2月10还是2月15出的分(我又记不清了orz)，看了眼我的分数 感觉没啥希望了，开始自我push，发现自己考不上也没工作好像啃老也不太好，那个时候有几个选择。</p>
+<ol>
+<li>二战。代价是一旦失败了你就不是应届生了(微软一年内还算)</li>
+<li>等着考公or教资等其他。考试好像无限期延期了，等于还是得gap，一旦失败同上</li>
+<li>找工作</li>
+</ol>
+<p>痛定思痛，决定找工作。现在已经签完了从上帝视角看，其实我准备大三实习也是有竞争力的，拖到春招属实是一个不明智的决定，还好运气尚佳，终究是个好结局。</p>
+<p>timeline</p>
+<ul>
+<li><p>2.21 考研出分</p>
+</li>
+<li><p>2.22 决定找工作 开始刷题&amp;面经</p>
+</li>
+<li><p>2.25 开始投简历 腾讯、网易雷火（内推）、宁波银行总行科技部、bilibili游戏服务端开发（内推）、微软</p>
+</li>
+<li><p>2.26 腾讯预约面试  很惊讶，大概两天后有一个识别为腾讯科技的电话打来了，简单check了一下我的名字和身份，确认我是应聘20届后台开发的人，说了一下他们是做广告那边的部门，问我现在是否有空面试，考虑到我妈下午还要上网课，我就跟他预约了第二天下午2-3点(大概是他下午刚开始上班的时候hhh)</p>
+</li>
+<li><p>2.27腾讯一面 1 小时 考察的主要是一些基础知识，3个medium回答思路 最后给我了一个类似共享代码的网址让我写完3SUM</p>
+</li>
+<li><p>2.28 腾讯二面 20分钟 主要是聊人生，他问我为啥要转，以及考研咋样，如果考上了和offer选哪个（伏笔）我非常憨憨的说了要读研，然后被他diss了一下，反问环节我问了下地点在哪，工作内容，技术栈，以及他对我的建议，面完其实感觉挺凉的。二面完，我和我爸妈吐槽了一下2面，然后感觉我应该踩雷了，感觉有点凉，同时看了眼考研分数和了解到的调剂情况，打算放弃调剂，好好找工作。</p>
+</li>
+<li><p>2.28 二面后一小时 由于不怎么用微信，突然发现微信有个在二面刚面完就发来的好友请求，一看备注是我一面面试官，非常惊讶。。赶紧通过了一下，他问我是否有空语音，然后打了个语音电话过来，着重重新问了一下，offer和读研的选择，我说我和父母商量过了，决定不读了，反正目的都是找工作。然后他也没表示什么了，就让我注意下HR面的时候不要踩雷。语音完突然感觉我被一面捞了一手，突然感觉我稳了hhh。</p>
+</li>
+<li><p>2.29 状态变为HR面，并且未约定时间</p>
+</li>
+<li><p>3.3 收到HR面预约时间</p>
+</li>
+<li><p>3.4 完成HR面 并且HR口头说一周内会发放正式offer</p>
+</li>
+<li><p>3.25 收到offer call (好像是HR太忙了忘了 让一面帮我催了一下)</p>
+</li>
+<li><p>3.26收到正式offer mail 并且邮寄三方 </p>
+</li>
+<li><p>4.15收到返回的三方~</p>
+</li>
+</ul>
+<p>3.4-3.25之间完成了字节的面试也拿了offer 但是我拖了一会 还没接(说自己三方还没拿到)</p>
+<p>找工作这段时间，睡得都不太好，而且在二面不太好的情况其实很郁闷为什么小公司没发来面试请求，像宁波银行干脆把我简历挂了，bilibili找了内推毫无消息，雷火的话在我已经拿到腾讯offer才缓慢给我发了个笔试邀请，题目倒是挺简单的，但是雷火的薪资和口碑都不太好，遂没继续参与了。</p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Daily</tag>
       </tags>
   </entry>
   <entry>
@@ -976,6 +915,67 @@
       </tags>
   </entry>
   <entry>
+    <title>使用MSYS2+mingw编译x264-tmod</title>
+    <url>/2020/03/23/x264-tmod-build/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>最近在试着压片，想在mediainfo里夹带私货，所以需要自己编译一下x264。</p>
+<p>本文仅做记录用，由于自己水平不足无法答疑请谅解。</p>
+<h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>安装 Git</p>
+<p>安装<a href="https://www.msys2.org/">MSYS2</a></p>
+<p>由于网络原因你可能需要给MSYS换源或者设置代理，此处不赘述</p>
+<p>安装完毕以后找到MSYS2 MinGW 64-bit</p>
+<p>打开MSYS2</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">pacman -Syu</span><br><span class="line">pacman -Su</span><br><span class="line">pacman -S mingw-w64-i686-gcc</span><br><span class="line">pacman -S mingw-w64-x86_64-gcc</span><br><span class="line">pacman -S base-devel</span><br><span class="line">pacman -S vim</span><br><span class="line">pacman -S nasm</span><br><span class="line">pacman -S git</span><br></pre></td></tr></table></figure>
+
+<p>以上安装完成后输入</p>
+<p><code>gcc -v</code></p>
+<p>查看是否正常</p>
+<h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>假设本次的文件都在 “ C:\x264_Prg\ “</p>
+<p>在git bash中</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> <span class="string">&quot;C:\x264_Prg\ &quot;</span></span><br><span class="line">git <span class="built_in">clone</span> https://github.com/l-smash/l-smash.git</span><br><span class="line">git <span class="built_in">clone</span> https://github.com/jpsdr/x264.git -b t_mod_New</span><br></pre></td></tr></table></figure>
+
+<p>进入 “ C:\x264_Prg\l-smash “ 新建文件夹 Build_x264</p>
+<p>修改makefile</p>
+<p>找到</p>
+<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/lsmash.h $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(libdir)/pkgconfig</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> liblsmash.pc $(DESTDIR)$(libdir)/pkgconfig</span><br></pre></td></tr></table></figure>
+
+<p>修改为</p>
+<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/lsmash.h $(DESTDIR)$(includedir)</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> $(SRCDIR)/importer.h $(DESTDIR)$(includedir)/lsmash_importer.h</span><br><span class="line"><span class="keyword">install</span> -d $(DESTDIR)$(libdir)/pkgconfig</span><br><span class="line"><span class="keyword">install</span> -m <span class="number">644</span> liblsmash.pc $(DESTDIR)$(libdir)/pkgconfig</span><br></pre></td></tr></table></figure>
+
+<p>将</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$(RM) $(DESTDIR)$(includedir)/lsmash.h</span><br></pre></td></tr></table></figure>
+
+<p>替换为</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$(RM) $(addprefix $(DESTDIR)$(includedir)/, lsmash.h, lsmash_importer.h)</span><br></pre></td></tr></table></figure>
+
+<p>然后进入  “ C:\x264_Prg\l-smash\importer “将importer.h 复制到 “C:\x264_Prg\l-smash”</p>
+<p>然后在 “ C:\x264_Prg\ “新建一个” <em>Build_lsmash_x264.sh</em> “</p>
+<p>文件内容如下</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> ./l-smash/Build_x264</span><br><span class="line">_dir=<span class="string">&quot;/local-x264&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;32&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>_x86&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>_x64&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$2</span>&quot;</span> = <span class="string">&quot;posix&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/posix&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$2</span>&quot;</span> = <span class="string">&quot;win32&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/Win32threads&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;original&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/Original&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;tmod&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/t_mod&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;jpsdr&quot;</span> ]] &amp;&amp; _dir=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/jpsdr&quot;</span></span><br><span class="line">_ld=<span class="string">&quot;-static&quot;</span></span><br><span class="line">_cf=<span class="string">&quot;&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$3</span>&quot;</span> = <span class="string">&quot;jpsdr&quot;</span> ]] &amp;&amp; _cf=<span class="string">&quot;-march=haswell -mavx -mavx2 -mtune=haswell&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _ld=<span class="string">&quot;<span class="variable">$&#123;_ld&#125;</span> -m64&quot;</span></span><br><span class="line">[[ <span class="string">&quot;<span class="variable">$1</span>&quot;</span> = <span class="string">&quot;64&quot;</span> ]] &amp;&amp; _cf=<span class="string">&quot;<span class="variable">$&#123;_cf&#125;</span> -m64&quot;</span></span><br><span class="line">PKG_CONFIG_PATH=<span class="string">&quot;<span class="variable">$&#123;_dir&#125;</span>/lib/pkgconfig&quot;</span> \</span><br><span class="line">../configure --prefix=<span class="variable">$&#123;_dir&#125;</span> --extra-ldflags=<span class="string">&quot;<span class="variable">$&#123;_ld&#125;</span>&quot;</span> --extra-cflags=<span class="string">&quot;<span class="variable">$&#123;_cf&#125;</span>&quot;</span></span><br><span class="line">make -j1 lib</span><br><span class="line">make install</span><br><span class="line">make clean</span><br></pre></td></tr></table></figure>
+
+<p>在git bash里执行</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">./Build_lsmash_x264.sh 64 win32 tmod</span><br></pre></td></tr></table></figure>
+
+<p>或32位</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./Build_lsmash_x264.sh 32 win32 tmod</span><br></pre></td></tr></table></figure>
+
+<p>l-smash完成</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span>  <span class="string">&quot;C:\x264_Prg\x264&quot;</span></span><br><span class="line">./configure</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
+
+<p>x264完成</p>
+<p>具体configure的可选配置项可以自行前往<a href="https://github.com/jpsdr/x264/blob/t_mod_New/configure">x264文件</a>查看</p>
+<p>如果有需要修改version的需求，可以自行在编译前修改x264文件夹下的version.sh</p>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p><a href="https://forum.doom9.org/showthread.php?t=172610">https://forum.doom9.org/showthread.php?t=172610</a></p>
+<link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>折腾</category>
+      </categories>
+      <tags>
+        <tag>Windows</tag>
+        <tag>Tools</tag>
+        <tag>encode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>成为社畜的六个月</title>
     <url>/2020/12/19/%E6%88%90%E4%B8%BA%E7%A4%BE%E7%95%9C%E7%9A%84%E5%85%AD%E4%B8%AA%E6%9C%88/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>不知不觉来深圳四舍五入六个月，时间过去了但是没留下任何深刻的记忆，自己也没什么变化，大体来说就是虚度光阴。</p>
@@ -1008,6 +1008,11 @@
       </tags>
   </entry>
   <entry>
+    <title>最近</title>
+    <url>/2019/06/03/%E6%9C%80%E8%BF%91/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+  </entry>
+  <entry>
     <title>摸鱼记录</title>
     <url>/2018/12/22/%E6%91%B8%E9%B1%BC%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>最近的日子过得挺快的。</p>
@@ -1026,10 +1031,5 @@
       <tags>
         <tag>Daily</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>最近</title>
-    <url>/2019/06/03/%E6%9C%80%E8%BF%91/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
   </entry>
 </search>
