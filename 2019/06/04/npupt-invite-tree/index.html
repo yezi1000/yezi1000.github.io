@@ -6,9 +6,9 @@
 <meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 8.1.1">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -322,10 +322,10 @@
 <h4 id="最终方案"><a href="#最终方案" class="headerlink" title="最终方案"></a>最终方案</h4><p>数据：PY</p>
 <p>前端：Echart请求api返回子树的json</p>
 <p>后端：</p>
-<p>​    现在方案：根据PY到的数据将所有没有邀请人的节点串到一个不存在的节点上，将森林串成一棵树，那么我们任何要查询的子树都在这棵树上了，利用AnyTree@Python这个库export_to_json 生成full.json，然后将full.json放到data里。 当api获取到要查询的username时在full.json里查询这个名字将然后根据输入的username对应的uid在树上搜索一通就可以获取到对应的sub-tree，然后把sub-tree生成一个json文件保存到本地(做一个辣鸡缓存)然后供前端查询</p>
-<p>​    原方案：利用AnyTree@Python的import 导入这棵树 在树里查 </p>
-<p>​        性能问题：不知道为什么AnyTree的import肥肠的慢…大概十万个点导入花了40S…</p>
-<p>​    最优方案：在server启动的时候就把整棵树读到内存里 然后在内存查 大概会有一点点效率差别吧….</p>
+<p>​	现在方案：根据PY到的数据将所有没有邀请人的节点串到一个不存在的节点上，将森林串成一棵树，那么我们任何要查询的子树都在这棵树上了，利用AnyTree@Python这个库export_to_json 生成full.json，然后将full.json放到data里。 当api获取到要查询的username时在full.json里查询这个名字将然后根据输入的username对应的uid在树上搜索一通就可以获取到对应的sub-tree，然后把sub-tree生成一个json文件保存到本地(做一个辣鸡缓存)然后供前端查询</p>
+<p>​	原方案：利用AnyTree@Python的import 导入这棵树 在树里查 </p>
+<p>​		性能问题：不知道为什么AnyTree的import肥肠的慢…大概十万个点导入花了40S…</p>
+<p>​	最优方案：在server启动的时候就把整棵树读到内存里 然后在内存查 大概会有一点点效率差别吧….</p>
 <p>本人擅长口胡，建议去GitHub查看 <a target="_blank" rel="noopener" href="https://github.com/yezi1000/invite-tree">https://github.com/yezi1000/invite-tree</a> </p>
 <p>代码很丑 有问题可以留言或者issue…虽然我觉得也没人会star(</p>
 <p><img src="https://i.loli.net/2019/06/11/5cff9fe1b4ea716467.jpg"></p>

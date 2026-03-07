@@ -6,9 +6,9 @@
 <meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 8.1.1">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -20,12 +20,12 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"yukino.nl","root":"/","images":"/images","scheme":"Pisces","darkmode":true,"version":"8.27.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"atom-one-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"waline","storage":true,"lazyload":false,"nav":null,"activeClass":"waline"},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js" defer></script>
 
-    <meta name="description" content="前言：说个笑话，我在我学校的默认dns下居然解析不出GitHub了。。。。药丸 更新了下博文push了若干次没push上去，一度怀疑是自己SSH-key炸了，检查一通发现原来是连不上Github服务器，然后发现我配的deploy方式是SSH，还需要用工具给ssh上proxy，一通乱查才解决，给自己留个备注吧。 下载并且安装connectConnect的项目地址 Linux&#x2F;Mac克隆项目到本地，编">
+    <meta name="description" content="前言：说个笑话，我在我学校的默认dns下居然解析不出GitHub了。。。。药丸 更新了下博文push了若干次没push上去，一度怀疑是自己SSH-key炸了，检查一通发现原来是连不上Github服务器，然后发现我配的deploy方式是SSH，还需要用工具给ssh上proxy，一通乱查才解决，给自己留个备注吧。 下载并且安装connectConnect的项目地址 Linux&#x2F;Mac克隆项目">
 <meta property="og:type" content="article">
 <meta property="og:title" content="为本地的ssh设置代理，通过connect">
 <meta property="og:url" content="https://yukino.nl/2019/10/02/ssh-proxy-connect/index.html">
 <meta property="og:site_name" content="YeZi">
-<meta property="og:description" content="前言：说个笑话，我在我学校的默认dns下居然解析不出GitHub了。。。。药丸 更新了下博文push了若干次没push上去，一度怀疑是自己SSH-key炸了，检查一通发现原来是连不上Github服务器，然后发现我配的deploy方式是SSH，还需要用工具给ssh上proxy，一通乱查才解决，给自己留个备注吧。 下载并且安装connectConnect的项目地址 Linux&#x2F;Mac克隆项目到本地，编">
+<meta property="og:description" content="前言：说个笑话，我在我学校的默认dns下居然解析不出GitHub了。。。。药丸 更新了下博文push了若干次没push上去，一度怀疑是自己SSH-key炸了，检查一通发现原来是连不上Github服务器，然后发现我配的deploy方式是SSH，还需要用工具给ssh上proxy，一通乱查才解决，给自己留个备注吧。 下载并且安装connectConnect的项目地址 Linux&#x2F;Mac克隆项目">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2019-10-02T08:46:32.000Z">
 <meta property="article:modified_time" content="2019-10-02T08:46:32.000Z">
@@ -300,7 +300,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>443</span>
+      <span>448</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -320,7 +320,7 @@
     <div class="post-body" itemprop="articleBody"><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>说个笑话，我在我学校的默认dns下居然解析不出GitHub了。。。。药丸</p>
 <p>更新了下博文push了若干次没push上去，一度怀疑是自己SSH-key炸了，检查一通发现原来是连不上Github服务器，然后发现我配的deploy方式是SSH，还需要用工具给ssh上proxy，一通乱查才解决，给自己留个备注吧。</p>
 <h3 id="下载并且安装connect"><a href="#下载并且安装connect" class="headerlink" title="下载并且安装connect"></a>下载并且安装connect</h3><p>Connect的<a target="_blank" rel="noopener" href="https://bitbucket.org/gotoh/connect/src">项目地址</a></p>
-<h5 id="Linux-Mac"><a href="#Linux-Mac" class="headerlink" title="Linux/Mac"></a>Linux/Mac</h5><p>克隆项目到本地，编译安装：</p>
+<h5 id="Linux-Mac"><a href="#Linux-Mac" class="headerlink" title="Linux&#x2F;Mac"></a>Linux&#x2F;Mac</h5><p>克隆项目到本地，编译安装：</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hg <span class="built_in">clone</span> https://bitbucket.org/gotoh/connect </span><br><span class="line"><span class="built_in">cd</span> connect</span><br><span class="line">make &amp;&amp; make install</span><br></pre></td></tr></table></figure>
 
 <h5 id="Win："><a href="#Win：" class="headerlink" title="Win："></a>Win：</h5><p>下载<a target="_blank" rel="noopener" href="https://bitbucket.org/gotoh/connect/downloads">二进制文件</a>到<code>C:/Windows</code></p>

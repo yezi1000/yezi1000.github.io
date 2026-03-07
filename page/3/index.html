@@ -6,9 +6,9 @@
 <meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 8.1.1">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -552,7 +552,7 @@
           <h3 id="LeetCode-898-Bitwise-ORs-of-Subarrays"><a href="#LeetCode-898-Bitwise-ORs-of-Subarrays" class="headerlink" title="LeetCode 898. Bitwise ORs of Subarrays"></a>LeetCode 898. Bitwise ORs of Subarrays</h3><h4 id="Desc"><a href="#Desc" class="headerlink" title="Desc:"></a>Desc:</h4><p>有一个非负整数数组a，对所有整数对(i,j)求 a[i]|a[i+1]|a[i+2]…a[j] 的值（|为按位或），求共有多少个不相等的值<br>$$<br>1\le a.length() \le 5000<br>$$</p>
 <p>$$<br>0 \le a[i] \le 10^9<br>$$</p>
 <h4 id="My-Ans"><a href="#My-Ans" class="headerlink" title="My_Ans:"></a>My_Ans:</h4><p>n^2裸题 冲冲冲</p>
-<p>设b(i,j)=a[i]|a[i+1]….|a[j] 用一个set now保存b(0,i),b(1,i),b(2,i) </p>
+<p>设b(i,j)&#x3D;a[i]|a[i+1]….|a[j] 用一个set now保存b(0,i),b(1,i),b(2,i) </p>
 <p>然后每次处理到a[i+1]的时候 把now里的所有项和a[i+1] 按位或一下</p>
 <p>然后把a[i+1]添加到now里 </p>
           <!--noindex-->
@@ -672,9 +672,9 @@
 <p>N个worker，每个worker有quality和wage，你需要雇佣K个worker，这K个worker之间的real wage比例和quality比例相同，且real wage不小于wage。<br>$$<br>1 \le K ,N \le 10000</p>
 <p>1\le quality,wage\le10000<br>$$<br>答案允许有10^-5的误差</p>
 <p>My_Ans:</p>
-<p>冷静分析，首先 worker之间严格按照比例发real wage 且<br>$$<br>real wage[i]\ge wage[i]<br>$$<br>定义<br>$$<br>ratio[i]=wage[i]/quality[i]<br>$$<br>假设已经选出了K个worker，那么这个standard worker就需要设置为ratio最大的那个worker</p>
+<p>冷静分析，首先 worker之间严格按照比例发real wage 且<br>$$<br>real wage[i]\ge wage[i]<br>$$<br>定义<br>$$<br>ratio[i]&#x3D;wage[i]&#x2F;quality[i]<br>$$<br>假设已经选出了K个worker，那么这个standard worker就需要设置为ratio最大的那个worker</p>
 <p>否则会有worker的real wage&lt;wage。</p>
-<p>因此对于每个standard worker 我们需要找出k-1个ratio小于它的worker，而且K个worker的<br>$$<br>totalwage = ratio* \sum_{n=1}^K{quality}<br>$$<br>按照ratio对worker从小到大排序，枚举第i个worker作为standard worker</p>
+<p>因此对于每个standard worker 我们需要找出k-1个ratio小于它的worker，而且K个worker的<br>$$<br>totalwage &#x3D; ratio* \sum_{n&#x3D;1}^K{quality}<br>$$<br>按照ratio对worker从小到大排序，枚举第i个worker作为standard worker</p>
 <p>所以第0~第i-1个worker均为满足ratio满足要求的，然后需要找出K-1个quality最小的即可</p>
           <!--noindex-->
             <div class="post-button">
@@ -1370,7 +1370,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>670</span>
+      <span>685</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -1391,8 +1391,8 @@
           <p>垃圾校园网（划掉）</p>
 <p>4M IPV4出口限速 50M IPV6出口限制（局域网内不限速）</p>
 <p>PS:有很多高校有IPV6的PT，上面有肥肠多的资源，例如</p>
-<p>​    <a target="_blank" rel="noopener" href="https://npupt.com/">https://npupt.com</a></p>
-<p>​    <a target="_blank" rel="noopener" href="https://www.tjupt.org/">https://www.tjupt.org/</a></p>
+<p>​	<a target="_blank" rel="noopener" href="https://npupt.com/">https://npupt.com</a></p>
+<p>​	<a target="_blank" rel="noopener" href="https://www.tjupt.org/">https://www.tjupt.org/</a></p>
 <p>除此之外 我们就可以用IPV6来加速一下日常应用（不包括QQ等小流量需求软件，其实就是主要面向各类gamer）</p>
 <p>首先确保你的设备有IPV6网络（直连网线使用客户端or拨号上网，路由器配置好了NAT6，至于路由器怎么配NAT6随便百度一下应该都有，有需要可以留言迟点会补）</p>
 <p>test-ipv6.com 达到9分以上</p>
